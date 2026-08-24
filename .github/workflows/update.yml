@@ -1,0 +1,36 @@
+name: Actualizar Rádios EPG
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # Executa todos os dias às 05:00 UTC
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Gerar Ficheiros M3U e XMLTV
+        run: python scripts/generate_all.py
+
+      - name: Verificar Alterações e Commit
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          # Apenas faz commit se existirem alterações
+          git diff-index --quiet HEAD || git commit -m "Actualização automática: EPG e M3U"
+          git push

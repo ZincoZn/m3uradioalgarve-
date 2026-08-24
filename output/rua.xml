@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Radio EPG GitHub" generator-info-url="https://github.com/">
+    <channel id="rua.fm">
+        <display-name>RUA FM</display-name>
+        <icon src="https://rua.pt/wp-content/themes/rua/images/logo.png"/>
+    </channel>
+
+    <programme start="20260824000000 +0100" stop="20260825000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260825000000 +0100" stop="20260826000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260826000000 +0100" stop="20260827000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260827000000 +0100" stop="20260828000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260828000000 +0100" stop="20260829000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260829000000 +0100" stop="20260830000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260830000000 +0100" stop="20260831000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+</tv>

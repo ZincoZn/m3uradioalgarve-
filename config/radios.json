@@ -1,0 +1,24 @@
+[
+    {
+        "id": "kissfm.algarve",
+        "name": "KISS FM Algarve",
+        "group": "Rádios",
+        "stream": "https://nl.digitalrm.pt:8024/stream",
+        "logo": "https://kissfm.pt/player/player_logo.png",
+        "schedule_url": "https://kissfm.pt/schedule.php?lang=pt",
+        "timezone": "Europe/Lisbon",
+        "language": "pt",
+        "module": "kissfm"
+    },
+    {
+        "id": "rua.fm",
+        "name": "RUA FM",
+        "group": "Rádios",
+        "stream": "https://centova.radio.com.pt/proxy/037?mp=/stream",
+        "logo": "https://rua.pt/wp-content/themes/rua/images/logo.png",
+        "schedule_url": "https://rua.pt/grelha/",
+        "timezone": "Europe/Lisbon",
+        "language": "pt",
+        "module": "rua"
+    }
+]

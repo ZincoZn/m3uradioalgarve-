@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+saidatxt
+debug_rua.py
+.cache/
