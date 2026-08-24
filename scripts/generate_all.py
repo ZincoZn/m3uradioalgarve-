@@ -13,7 +13,7 @@ sys.path.insert(0, project_root)
 EPG_DAYS = 7
 CONFIG_FILE = "config/radios.json"
 OUTPUT_DIR = "output"
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/UTILIZADOR/REPOSITORIO/main/output"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output"
 
 def load_radios():
     with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
@@ -38,11 +38,11 @@ def generate_epg_for_radio(radio):
         programas_base = mod.get_schedule(radio)
     except Exception as e:
         print(f"ERRO: Falha ao carregar o módulo ou obter dados para {radio['name']}: {e}")
-        return False
+        return False, None
 
     if not programas_base:
         print(f"ERRO: Nenhum programa encontrado para {radio['name']}. O ficheiro não será substituído.")
-        return False
+        return False, None
 
     tz = ZoneInfo(radio['timezone'])
     hoje = datetime.datetime.now(tz).date()
@@ -74,7 +74,7 @@ def generate_epg_for_radio(radio):
     # Validação Final
     if not programas_xml:
         print(f"ERRO: A grelha gerada está vazia para {radio['name']}. Ficheiro intocado.")
-        return False
+        return False, None
         
     # Construção do XMLTV
     xml_content = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -91,7 +91,7 @@ def generate_epg_for_radio(radio):
     with open(xml_path, 'w', encoding='utf-8') as f:
         f.write(xml_content)
         
-    # Construção e escrita do ficheiro M3U
+    # Construção e escrita do ficheiro M3U Individual
     m3u_path = os.path.join(OUTPUT_DIR, f"{radio['module']}.m3u")
     xml_url = f"{GITHUB_RAW_BASE}/{radio['module']}.xml"
     
@@ -103,18 +103,40 @@ def generate_epg_for_radio(radio):
     with open(m3u_path, 'w', encoding='utf-8') as f:
         f.write(m3u_content)
         
+    # Bloco para juntar na lista M3U geral
+    m3u_entry = f"""#EXTINF:-1 tvg-id="{radio['id']}" tvg-name="{radio['name']}" tvg-logo="{radio['logo']}" is-radio="true" group-title="{radio['group']}",{radio['name']}
+{radio['stream']}"""
+
     print(f"SUCESSO: Ficheiros gerados para {radio['name']} ({len(programas_xml)} programas inseridos).")
-    return True
+    return True, (xml_url, m3u_entry)
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     radios = load_radios()
     sucesso_total = True
     
+    xml_urls = []
+    m3u_entries = []
+    
     for radio in radios:
-        if not generate_epg_for_radio(radio):
+        sucesso, dados = generate_epg_for_radio(radio)
+        if sucesso:
+            xml_url, m3u_entry = dados
+            xml_urls.append(xml_url)
+            m3u_entries.append(m3u_entry)
+        else:
             sucesso_total = False
             
+    # Criação da M3U Geral (com os apontadores para todos os XMLs de EPG)
+    if m3u_entries:
+        urls_xml_concat = ",".join(xml_urls)
+        m3u_geral_content = f"#EXTM3U x-tvg-url=\"{urls_xml_concat}\"\n#EXTVLCOPT:http-user-agent=\"Radio-EPG-Kodi/1.0\"\n" + "\n".join(m3u_entries)
+        
+        m3u_geral_path = os.path.join(OUTPUT_DIR, "radios_todas.m3u")
+        with open(m3u_geral_path, 'w', encoding='utf-8') as f:
+            f.write(m3u_geral_content)
+        print("\nSUCESSO: Ficheiro 'radios_todas.m3u' gerado com todas as rádios.")
+
     if not sucesso_total:
         print("\nAVISO: Uma ou mais rádios falharam a actualização.")
         sys.exit(1) # Provoca a falha no GitHub Actions para alertar o utilizador
