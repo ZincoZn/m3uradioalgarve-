@@ -6,5 +6,5 @@ https://nl.digitalrm.pt:8024/stream
 https://centova.radio.com.pt/proxy/037?mp=/stream
 #EXTINF:-1 tvg-id="radioportimao" tvg-name="Rádio Portimão 106.5 FM" tvg-logo="https://www.radioportimao.pt/wp-content/uploads/2025/08/Logo-RPTM-fundo-negro.png " is-radio="true" group-title="Rádios",Rádio Portimão 106.5 FM
 https://sp0.redeaudio.com/9440/stream
-#EXTINF:-1 tvg-id="radiohorizonte" tvg-name="Rádio Horizonte Algarve" tvg-logo="https://www.radiohorizonte.com/sites/all/themes/Porto/img/logo-footer.png" is-radio="true" group-title="Rádios",Rádio Horizonte Algarve
+#EXTINF:-1 tvg-id="radiohorizonte" tvg-name="Rádio Horizonte Algarve" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3bseHTSOq_kzCzf82O-FBx8_AFX_0Ns5RQ&s" is-radio="true" group-title="Rádios",Rádio Horizonte Algarve
 https://centova.radio.com.pt/proxy/458?mp=/stream

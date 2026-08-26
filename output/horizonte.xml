@@ -2,28 +2,142 @@
 <tv generator-info-name="Radio EPG GitHub" generator-info-url="https://github.com/">
     <channel id="radiohorizonte">
         <display-name>Rádio Horizonte Algarve</display-name>
-        <icon src="https://www.radiohorizonte.com/sites/all/themes/Porto/img/logo-footer.png"/>
+        <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3bseHTSOq_kzCzf82O-FBx8_AFX_0Ns5RQ&s"/>
     </channel>
 
-    <programme start="20260826000000 +0100" stop="20260827000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Emissão Horizonte Algarve</title>
+    <programme start="20260826000000 +0100" stop="20260826070000 +0100" channel="radiohorizonte">
+        <title lang="pt">Madrugada Horizonte</title>
     </programme>
-    <programme start="20260827000000 +0100" stop="20260828000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Emissão Horizonte Algarve</title>
+    <programme start="20260826070000 +0100" stop="20260826100000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs da Horizonte</title>
     </programme>
-    <programme start="20260828000000 +0100" stop="20260829000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Emissão Horizonte Algarve</title>
+    <programme start="20260826100000 +0100" stop="20260826130000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs com Informação</title>
     </programme>
-    <programme start="20260829000000 +0100" stop="20260830000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Emissão Horizonte Algarve</title>
+    <programme start="20260826130000 +0100" stop="20260826140000 +0100" channel="radiohorizonte">
+        <title lang="pt">Edição de Informação Regional</title>
     </programme>
-    <programme start="20260830000000 +0100" stop="20260831000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Emissão Horizonte Algarve</title>
+    <programme start="20260826140000 +0100" stop="20260826180000 +0100" channel="radiohorizonte">
+        <title lang="pt">Tardes de Horizonte</title>
     </programme>
-    <programme start="20260831000000 +0100" stop="20260901000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Emissão Horizonte Algarve</title>
+    <programme start="20260826180000 +0100" stop="20260826200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Regresso a Casa / Informação</title>
     </programme>
-    <programme start="20260901000000 +0100" stop="20260902000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Emissão Horizonte Algarve</title>
+    <programme start="20260826200000 +0100" stop="20260827000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Noites da Horizonte</title>
+    </programme>
+    <programme start="20260827000000 +0100" stop="20260827070000 +0100" channel="radiohorizonte">
+        <title lang="pt">Madrugada Horizonte</title>
+    </programme>
+    <programme start="20260827070000 +0100" stop="20260827100000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs da Horizonte</title>
+    </programme>
+    <programme start="20260827100000 +0100" stop="20260827130000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs com Informação</title>
+    </programme>
+    <programme start="20260827130000 +0100" stop="20260827140000 +0100" channel="radiohorizonte">
+        <title lang="pt">Edição de Informação Regional</title>
+    </programme>
+    <programme start="20260827140000 +0100" stop="20260827180000 +0100" channel="radiohorizonte">
+        <title lang="pt">Tardes de Horizonte</title>
+    </programme>
+    <programme start="20260827180000 +0100" stop="20260827200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Regresso a Casa / Informação</title>
+    </programme>
+    <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Noites da Horizonte</title>
+    </programme>
+    <programme start="20260828000000 +0100" stop="20260828070000 +0100" channel="radiohorizonte">
+        <title lang="pt">Madrugada Horizonte</title>
+    </programme>
+    <programme start="20260828070000 +0100" stop="20260828100000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs da Horizonte</title>
+    </programme>
+    <programme start="20260828100000 +0100" stop="20260828130000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs com Informação</title>
+    </programme>
+    <programme start="20260828130000 +0100" stop="20260828140000 +0100" channel="radiohorizonte">
+        <title lang="pt">Edição de Informação Regional</title>
+    </programme>
+    <programme start="20260828140000 +0100" stop="20260828180000 +0100" channel="radiohorizonte">
+        <title lang="pt">Tardes de Horizonte</title>
+    </programme>
+    <programme start="20260828180000 +0100" stop="20260828200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Regresso a Casa / Informação</title>
+    </programme>
+    <programme start="20260828200000 +0100" stop="20260829000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Noites da Horizonte</title>
+    </programme>
+    <programme start="20260829000000 +0100" stop="20260829080000 +0100" channel="radiohorizonte">
+        <title lang="pt">Madrugada Horizonte</title>
+    </programme>
+    <programme start="20260829080000 +0100" stop="20260829130000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs de Fim de Semana</title>
+    </programme>
+    <programme start="20260829130000 +0100" stop="20260829140000 +0100" channel="radiohorizonte">
+        <title lang="pt">Informação Regional</title>
+    </programme>
+    <programme start="20260829140000 +0100" stop="20260829200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Tardes de Fim de Semana / Desporto</title>
+    </programme>
+    <programme start="20260829200000 +0100" stop="20260830000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Noites de Fim de Semana</title>
+    </programme>
+    <programme start="20260830000000 +0100" stop="20260830080000 +0100" channel="radiohorizonte">
+        <title lang="pt">Madrugada Horizonte</title>
+    </programme>
+    <programme start="20260830080000 +0100" stop="20260830130000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs de Fim de Semana</title>
+    </programme>
+    <programme start="20260830130000 +0100" stop="20260830140000 +0100" channel="radiohorizonte">
+        <title lang="pt">Informação Regional</title>
+    </programme>
+    <programme start="20260830140000 +0100" stop="20260830200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Tardes de Fim de Semana / Desporto</title>
+    </programme>
+    <programme start="20260830200000 +0100" stop="20260831000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Noites de Fim de Semana</title>
+    </programme>
+    <programme start="20260831000000 +0100" stop="20260831070000 +0100" channel="radiohorizonte">
+        <title lang="pt">Madrugada Horizonte</title>
+    </programme>
+    <programme start="20260831070000 +0100" stop="20260831100000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs da Horizonte</title>
+    </programme>
+    <programme start="20260831100000 +0100" stop="20260831130000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs com Informação</title>
+    </programme>
+    <programme start="20260831130000 +0100" stop="20260831140000 +0100" channel="radiohorizonte">
+        <title lang="pt">Edição de Informação Regional</title>
+    </programme>
+    <programme start="20260831140000 +0100" stop="20260831180000 +0100" channel="radiohorizonte">
+        <title lang="pt">Tardes de Horizonte</title>
+    </programme>
+    <programme start="20260831180000 +0100" stop="20260831200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Regresso a Casa / Informação</title>
+    </programme>
+    <programme start="20260831200000 +0100" stop="20260901000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Noites da Horizonte</title>
+    </programme>
+    <programme start="20260901000000 +0100" stop="20260901070000 +0100" channel="radiohorizonte">
+        <title lang="pt">Madrugada Horizonte</title>
+    </programme>
+    <programme start="20260901070000 +0100" stop="20260901100000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs da Horizonte</title>
+    </programme>
+    <programme start="20260901100000 +0100" stop="20260901130000 +0100" channel="radiohorizonte">
+        <title lang="pt">Manhãs com Informação</title>
+    </programme>
+    <programme start="20260901130000 +0100" stop="20260901140000 +0100" channel="radiohorizonte">
+        <title lang="pt">Edição de Informação Regional</title>
+    </programme>
+    <programme start="20260901140000 +0100" stop="20260901180000 +0100" channel="radiohorizonte">
+        <title lang="pt">Tardes de Horizonte</title>
+    </programme>
+    <programme start="20260901180000 +0100" stop="20260901200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Regresso a Casa / Informação</title>
+    </programme>
+    <programme start="20260901200000 +0100" stop="20260902000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Noites da Horizonte</title>
     </programme>
 </tv>
