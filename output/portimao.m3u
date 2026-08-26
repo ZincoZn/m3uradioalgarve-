@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/portimao.xml"
+#EXTVLCOPT:http-user-agent="Radio-EPG-Kodi/1.0"
+#EXTINF:-1 tvg-id="radioportimao" tvg-name="Rádio Portimão 106.5 FM" tvg-logo="https://www.radioportimao.pt/wp-content/uploads/2025/08/Logo-RPTM-fundo-negro.png " is-radio="true" group-title="Rádios",Rádio Portimão 106.5 FM
+https://sp0.redeaudio.com/9440/stream

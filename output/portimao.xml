@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Radio EPG GitHub" generator-info-url="https://github.com/">
+    <channel id="radioportimao">
+        <display-name>Rádio Portimão 106.5 FM</display-name>
+        <icon src="https://www.radioportimao.pt/wp-content/uploads/2025/08/Logo-RPTM-fundo-negro.png "/>
+    </channel>
+
+    <programme start="20260826000000 +0100" stop="20260826050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST OLP POP</title>
+    </programme>
+    <programme start="20260826050000 +0100" stop="20260826080000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260826080000 +0100" stop="20260826083000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260826100000 +0100" stop="20260826123000 +0100" channel="radioportimao">
+        <title lang="pt">CAFÉ & COMPANHIA</title>
+    </programme>
+    <programme start="20260826123000 +0100" stop="20260826130000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260826130000 +0100" stop="20260826140000 +0100" channel="radioportimao">
+        <title lang="pt">INTERVALO</title>
+    </programme>
+    <programme start="20260826140000 +0100" stop="20260826150000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO / ESPAÇO REGIONAL</title>
+    </programme>
+    <programme start="20260826150000 +0100" stop="20260826170000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO DA TARDE</title>
+    </programme>
+    <programme start="20260826170000 +0100" stop="20260826180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL / FADO</title>
+    </programme>
+    <programme start="20260826180000 +0100" stop="20260826190000 +0100" channel="radioportimao">
+        <title lang="pt">SUPER KIZOMBA</title>
+    </programme>
+    <programme start="20260826190000 +0100" stop="20260826190500 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260826190500 +0100" stop="20260826193000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260826193000 +0100" stop="20260826200000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260826200000 +0100" stop="20260827000000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO NOCTURNA</title>
+    </programme>
+    <programme start="20260827000000 +0100" stop="20260827050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST OLP POP</title>
+    </programme>
+    <programme start="20260827050000 +0100" stop="20260827080000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260827080000 +0100" stop="20260827083000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260827083000 +0100" stop="20260827100000 +0100" channel="radioportimao">
+        <title lang="pt">PRAZERES INTERROMPIDOS</title>
+    </programme>
+    <programme start="20260827100000 +0100" stop="20260827123000 +0100" channel="radioportimao">
+        <title lang="pt">CAFÉ & COMPANHIA</title>
+    </programme>
+    <programme start="20260827123000 +0100" stop="20260827130000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260827130000 +0100" stop="20260827140000 +0100" channel="radioportimao">
+        <title lang="pt">INTERVALO</title>
+    </programme>
+    <programme start="20260827140000 +0100" stop="20260827150000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO / ESPAÇO REGIONAL</title>
+    </programme>
+    <programme start="20260827150000 +0100" stop="20260827170000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO DA TARDE</title>
+    </programme>
+    <programme start="20260827170000 +0100" stop="20260827180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL / FADO</title>
+    </programme>
+    <programme start="20260827180000 +0100" stop="20260827190000 +0100" channel="radioportimao">
+        <title lang="pt">SUPER KIZOMBA</title>
+    </programme>
+    <programme start="20260827190000 +0100" stop="20260827190500 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260827190500 +0100" stop="20260827193000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260827193000 +0100" stop="20260827200000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO NOCTURNA</title>
+    </programme>
+    <programme start="20260828000000 +0100" stop="20260828050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST OLP POP</title>
+    </programme>
+    <programme start="20260828050000 +0100" stop="20260828080000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260828080000 +0100" stop="20260828083000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260828100000 +0100" stop="20260828123000 +0100" channel="radioportimao">
+        <title lang="pt">CAFÉ & COMPANHIA</title>
+    </programme>
+    <programme start="20260828123000 +0100" stop="20260828130000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260828130000 +0100" stop="20260828140000 +0100" channel="radioportimao">
+        <title lang="pt">INTERVALO</title>
+    </programme>
+    <programme start="20260828140000 +0100" stop="20260828150000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO / ESPAÇO REGIONAL</title>
+    </programme>
+    <programme start="20260828150000 +0100" stop="20260828170000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO DA TARDE</title>
+    </programme>
+    <programme start="20260828170000 +0100" stop="20260828180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL / FADO</title>
+    </programme>
+    <programme start="20260828180000 +0100" stop="20260828190000 +0100" channel="radioportimao">
+        <title lang="pt">SUPER KIZOMBA</title>
+    </programme>
+    <programme start="20260828190000 +0100" stop="20260828190500 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260828190500 +0100" stop="20260828193000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260828193000 +0100" stop="20260828200000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260828200000 +0100" stop="20260829000000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO NOCTURNA</title>
+    </programme>
+    <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioportimao">
+        <title lang="pt">CASSETRO IN THE MIX</title>
+    </programme>
+    <programme start="20260829010000 +0100" stop="20260829050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST POP E OLD POP</title>
+    </programme>
+    <programme start="20260829050000 +0100" stop="20260829080000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260829080000 +0100" stop="20260829083000 +0100" channel="radioportimao">
+        <title lang="pt">NOTÍCIAS</title>
+    </programme>
+    <programme start="20260829083000 +0100" stop="20260829100000 +0100" channel="radioportimao">
+        <title lang="pt">PRAZERES INTERROMPIDOS</title>
+    </programme>
+    <programme start="20260829100000 +0100" stop="20260829120600 +0100" channel="radioportimao">
+        <title lang="pt">CLUBE MHz</title>
+    </programme>
+    <programme start="20260829120600 +0100" stop="20260829121500 +0100" channel="radioportimao">
+        <title lang="pt">REFLEXÕES</title>
+    </programme>
+    <programme start="20260829121500 +0100" stop="20260829124000 +0100" channel="radioportimao">
+        <title lang="pt">OS DIAS DA HISTÓRIA</title>
+    </programme>
+    <programme start="20260829124000 +0100" stop="20260829140000 +0100" channel="radioportimao">
+        <title lang="pt">AS CRÓNICAS DA ISABEL</title>
+    </programme>
+    <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioportimao">
+        <title lang="pt">NOTÍCIAS</title>
+    </programme>
+    <programme start="20260829150000 +0100" stop="20260829170000 +0100" channel="radioportimao">
+        <title lang="pt">AB PLAY</title>
+    </programme>
+    <programme start="20260829170000 +0100" stop="20260829180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL</title>
+    </programme>
+    <programme start="20260829180000 +0100" stop="20260829190000 +0100" channel="radioportimao">
+        <title lang="pt">TOP 10 KIZOMBA</title>
+    </programme>
+    <programme start="20260829190000 +0100" stop="20260829191000 +0100" channel="radioportimao">
+        <title lang="pt">NOTÍCIAS</title>
+    </programme>
+    <programme start="20260829191000 +0100" stop="20260829200000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260829200000 +0100" stop="20260829210000 +0100" channel="radioportimao">
+        <title lang="pt">UM CERTO ORIENTE</title>
+    </programme>
+    <programme start="20260829210000 +0100" stop="20260829230000 +0100" channel="radioportimao">
+        <title lang="pt">CONVERSAS À MESA / ESPAÇO CULTURAL</title>
+    </programme>
+    <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radioportimao">
+        <title lang="pt">A QUEDA DOS ANJOS</title>
+    </programme>
+    <programme start="20260830000000 +0100" stop="20260830010000 +0100" channel="radioportimao">
+        <title lang="pt">DJ ULISSE DAPA</title>
+    </programme>
+    <programme start="20260830010000 +0100" stop="20260830070000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260830070000 +0100" stop="20260830080000 +0100" channel="radioportimao">
+        <title lang="pt">DELAY</title>
+    </programme>
+    <programme start="20260830080000 +0100" stop="20260830090000 +0100" channel="radioportimao">
+        <title lang="pt">NOTÍCIAS</title>
+    </programme>
+    <programme start="20260830090000 +0100" stop="20260830120600 +0100" channel="radioportimao">
+        <title lang="pt">OS REIS DO ROCK</title>
+    </programme>
+    <programme start="20260830120600 +0100" stop="20260830123000 +0100" channel="radioportimao">
+        <title lang="pt">REFLEXÕES</title>
+    </programme>
+    <programme start="20260830123000 +0100" stop="20260830124000 +0100" channel="radioportimao">
+        <title lang="pt">ALMANAQUE</title>
+    </programme>
+    <programme start="20260830124000 +0100" stop="20260830130000 +0100" channel="radioportimao">
+        <title lang="pt">AS CRÓNICAS DA ISABEL</title>
+    </programme>
+    <programme start="20260830130000 +0100" stop="20260830140000 +0100" channel="radioportimao">
+        <title lang="pt">POP NACIONAL</title>
+    </programme>
+    <programme start="20260830140000 +0100" stop="20260830150000 +0100" channel="radioportimao">
+        <title lang="pt">NOTÍCIAS</title>
+    </programme>
+    <programme start="20260830150000 +0100" stop="20260830161500 +0100" channel="radioportimao">
+        <title lang="pt">PURO EXTENSO</title>
+    </programme>
+    <programme start="20260830161500 +0100" stop="20260830170000 +0100" channel="radioportimao">
+        <title lang="pt">COMPACT MUSIC</title>
+    </programme>
+    <programme start="20260830170000 +0100" stop="20260830180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL</title>
+    </programme>
+    <programme start="20260830180000 +0100" stop="20260830190000 +0100" channel="radioportimao">
+        <title lang="pt">PISTA DE DANÇA KIZOMBA</title>
+    </programme>
+    <programme start="20260830190000 +0100" stop="20260830200000 +0100" channel="radioportimao">
+        <title lang="pt">NOTÍCIAS / ANOS 80/90</title>
+    </programme>
+    <programme start="20260830200000 +0100" stop="20260831000000 +0100" channel="radioportimao">
+        <title lang="pt">LUSITANIA EXPRESSO</title>
+    </programme>
+    <programme start="20260831000000 +0100" stop="20260831050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST OLP POP</title>
+    </programme>
+    <programme start="20260831050000 +0100" stop="20260831080000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260831080000 +0100" stop="20260831083000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260831100000 +0100" stop="20260831123000 +0100" channel="radioportimao">
+        <title lang="pt">CAFÉ & COMPANHIA</title>
+    </programme>
+    <programme start="20260831123000 +0100" stop="20260831130000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260831130000 +0100" stop="20260831140000 +0100" channel="radioportimao">
+        <title lang="pt">INTERVALO</title>
+    </programme>
+    <programme start="20260831140000 +0100" stop="20260831150000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO / ESPAÇO REGIONAL</title>
+    </programme>
+    <programme start="20260831150000 +0100" stop="20260831170000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO DA TARDE</title>
+    </programme>
+    <programme start="20260831170000 +0100" stop="20260831180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL / FADO</title>
+    </programme>
+    <programme start="20260831180000 +0100" stop="20260831190000 +0100" channel="radioportimao">
+        <title lang="pt">SUPER KIZOMBA</title>
+    </programme>
+    <programme start="20260831190000 +0100" stop="20260831190500 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260831190500 +0100" stop="20260831193000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260831193000 +0100" stop="20260831200000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260831200000 +0100" stop="20260901000000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO NOCTURNA</title>
+    </programme>
+    <programme start="20260901000000 +0100" stop="20260901050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST OLP POP</title>
+    </programme>
+    <programme start="20260901050000 +0100" stop="20260901080000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260901080000 +0100" stop="20260901083000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260901083000 +0100" stop="20260901100000 +0100" channel="radioportimao">
+        <title lang="pt">PRAZERES INTERROMPIDOS</title>
+    </programme>
+    <programme start="20260901100000 +0100" stop="20260901123000 +0100" channel="radioportimao">
+        <title lang="pt">CAFÉ & COMPANHIA</title>
+    </programme>
+    <programme start="20260901123000 +0100" stop="20260901130000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260901130000 +0100" stop="20260901140000 +0100" channel="radioportimao">
+        <title lang="pt">INTERVALO</title>
+    </programme>
+    <programme start="20260901140000 +0100" stop="20260901150000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO / ESPAÇO REGIONAL</title>
+    </programme>
+    <programme start="20260901150000 +0100" stop="20260901170000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO DA TARDE</title>
+    </programme>
+    <programme start="20260901170000 +0100" stop="20260901180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL / FADO</title>
+    </programme>
+    <programme start="20260901180000 +0100" stop="20260901190000 +0100" channel="radioportimao">
+        <title lang="pt">SUPER KIZOMBA</title>
+    </programme>
+    <programme start="20260901190000 +0100" stop="20260901190500 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260901190500 +0100" stop="20260901193000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260901193000 +0100" stop="20260901200000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260901200000 +0100" stop="20260902000000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMAÇÃO NOCTURNA</title>
+    </programme>
+</tv>

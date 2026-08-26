@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/horizonte.xml"
+#EXTVLCOPT:http-user-agent="Radio-EPG-Kodi/1.0"
+#EXTINF:-1 tvg-id="radiohorizonte" tvg-name="Rádio Horizonte Algarve" tvg-logo="https://www.radiohorizonte.com/sites/all/themes/Porto/img/logo-footer.png" is-radio="true" group-title="Rádios",Rádio Horizonte Algarve
+https://centova.radio.com.pt/proxy/458?mp=/stream

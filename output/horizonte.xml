@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Radio EPG GitHub" generator-info-url="https://github.com/">
+    <channel id="radiohorizonte">
+        <display-name>Rádio Horizonte Algarve</display-name>
+        <icon src="https://www.radiohorizonte.com/sites/all/themes/Porto/img/logo-footer.png"/>
+    </channel>
+
+    <programme start="20260826000000 +0100" stop="20260827000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Emissão Horizonte Algarve</title>
+    </programme>
+    <programme start="20260827000000 +0100" stop="20260828000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Emissão Horizonte Algarve</title>
+    </programme>
+    <programme start="20260828000000 +0100" stop="20260829000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Emissão Horizonte Algarve</title>
+    </programme>
+    <programme start="20260829000000 +0100" stop="20260830000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Emissão Horizonte Algarve</title>
+    </programme>
+    <programme start="20260830000000 +0100" stop="20260831000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Emissão Horizonte Algarve</title>
+    </programme>
+    <programme start="20260831000000 +0100" stop="20260901000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Emissão Horizonte Algarve</title>
+    </programme>
+    <programme start="20260901000000 +0100" stop="20260902000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Emissão Horizonte Algarve</title>
+    </programme>
+</tv>
