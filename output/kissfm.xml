@@ -5,45 +5,6 @@
         <icon src="https://kissfm.pt/player/player_logo.png"/>
     </channel>
 
-    <programme start="20260825080000 +0100" stop="20260825120000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Segunda a Sexta</title>
-    </programme>
-    <programme start="20260825080000 +0100" stop="20260825120000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Breakfast Show08:00</title>
-    </programme>
-    <programme start="20260825080000 +0100" stop="20260825120000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Breakfast Show08:00</title>
-    </programme>
-    <programme start="20260825080000 +0100" stop="20260825120000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Breakfast Show08:00</title>
-    </programme>
-    <programme start="20260825120000 +0100" stop="20260825160000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Let’s Do Lunch12:00</title>
-    </programme>
-    <programme start="20260825120000 +0100" stop="20260825160000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Let’s Do Lunch12:00</title>
-    </programme>
-    <programme start="20260825120000 +0100" stop="20260825160000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Let’s Do Lunch12:00</title>
-    </programme>
-    <programme start="20260825160000 +0100" stop="20260825200000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Drive Time16:00</title>
-    </programme>
-    <programme start="20260825160000 +0100" stop="20260825200000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Drive Time16:00</title>
-    </programme>
-    <programme start="20260825160000 +0100" stop="20260825200000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Drive Time16:00</title>
-    </programme>
-    <programme start="20260825220000 +0100" stop="20260826000000 +0100" channel="kissfm.algarve">
-        <title lang="pt">GHR22:00</title>
-    </programme>
-    <programme start="20260825220000 +0100" stop="20260826000000 +0100" channel="kissfm.algarve">
-        <title lang="pt">GHR22:00</title>
-    </programme>
-    <programme start="20260825220000 +0100" stop="20260826000000 +0100" channel="kissfm.algarve">
-        <title lang="pt">GHR22:00</title>
-    </programme>
     <programme start="20260826080000 +0100" stop="20260826120000 +0100" channel="kissfm.algarve">
         <title lang="pt">Segunda a Sexta</title>
     </programme>
@@ -207,6 +168,45 @@
         <title lang="pt">GHR22:00</title>
     </programme>
     <programme start="20260831220000 +0100" stop="20260901000000 +0100" channel="kissfm.algarve">
+        <title lang="pt">GHR22:00</title>
+    </programme>
+    <programme start="20260901080000 +0100" stop="20260901120000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Segunda a Sexta</title>
+    </programme>
+    <programme start="20260901080000 +0100" stop="20260901120000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Breakfast Show08:00</title>
+    </programme>
+    <programme start="20260901080000 +0100" stop="20260901120000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Breakfast Show08:00</title>
+    </programme>
+    <programme start="20260901080000 +0100" stop="20260901120000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Breakfast Show08:00</title>
+    </programme>
+    <programme start="20260901120000 +0100" stop="20260901160000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Let’s Do Lunch12:00</title>
+    </programme>
+    <programme start="20260901120000 +0100" stop="20260901160000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Let’s Do Lunch12:00</title>
+    </programme>
+    <programme start="20260901120000 +0100" stop="20260901160000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Let’s Do Lunch12:00</title>
+    </programme>
+    <programme start="20260901160000 +0100" stop="20260901200000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Drive Time16:00</title>
+    </programme>
+    <programme start="20260901160000 +0100" stop="20260901200000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Drive Time16:00</title>
+    </programme>
+    <programme start="20260901160000 +0100" stop="20260901200000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Drive Time16:00</title>
+    </programme>
+    <programme start="20260901220000 +0100" stop="20260902000000 +0100" channel="kissfm.algarve">
+        <title lang="pt">GHR22:00</title>
+    </programme>
+    <programme start="20260901220000 +0100" stop="20260902000000 +0100" channel="kissfm.algarve">
+        <title lang="pt">GHR22:00</title>
+    </programme>
+    <programme start="20260901220000 +0100" stop="20260902000000 +0100" channel="kissfm.algarve">
         <title lang="pt">GHR22:00</title>
     </programme>
 </tv>

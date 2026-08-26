@@ -5,9 +5,6 @@
         <icon src="https://rua.pt/wp-content/themes/rua/images/logo.png"/>
     </channel>
 
-    <programme start="20260825000000 +0100" stop="20260826000000 +0100" channel="rua.fm">
-        <title lang="pt">Programação não disponível</title>
-    </programme>
     <programme start="20260826000000 +0100" stop="20260827000000 +0100" channel="rua.fm">
         <title lang="pt">Programação não disponível</title>
     </programme>
@@ -24,6 +21,9 @@
         <title lang="pt">Programação não disponível</title>
     </programme>
     <programme start="20260831000000 +0100" stop="20260901000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260901000000 +0100" stop="20260902000000 +0100" channel="rua.fm">
         <title lang="pt">Programação não disponível</title>
     </programme>
 </tv>
