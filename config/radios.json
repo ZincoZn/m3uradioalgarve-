@@ -35,7 +35,7 @@
     "name": "Rádio Horizonte Algarve",
     "module": "horizonte",
     "schedule_url": "https://www.radiohorizonte.com/pt-pt/programacao",
-    "logo": "https://www.radiohorizonte.com/sites/all/themes/Porto/img/logo-footer.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3bseHTSOq_kzCzf82O-FBx8_AFX_0Ns5RQ&s",
     "stream": "https://centova.radio.com.pt/proxy/458?mp=/stream",
     "group": "Rádios",
     "timezone": "Europe/Lisbon",
