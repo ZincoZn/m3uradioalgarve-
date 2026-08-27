@@ -17,7 +17,7 @@ def get_schedule(config):
         response = requests.get(url, headers=headers, timeout=15)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'lxml')
-            texto_pagina = soup.get_text()
+            texto_pagina = soup.get_text(separator=" ")
 
             pos_semana = texto_pagina.find("2ª a 6ª FEIRA")
             pos_sabado = texto_pagina.find("SÁBADO")
@@ -29,11 +29,14 @@ def get_schedule(config):
                 bloco_domingo = texto_pagina[pos_domingo:]
 
                 def parse_block(texto_bloco, dias):
-                    padrao = re.compile(r'(\d{2}:\d{2})\s+([^\n\r]+)')
+                    # Procura padrões "HH:MM Titulo" parando antes da hora seguinte ou fim do bloco
+                    padrao = re.compile(r'(\d{2}:\d{2})\s+(.*?)(?=\d{2}:\d{2}|SÁBADO|DOMINGO|2ª|$)')
                     matches = padrao.findall(texto_bloco)
                     progs = []
                     for i, (hora_inicio, titulo) in enumerate(matches):
                         titulo_limpo = titulo.strip()
+                        # Remove palavras de controlo que possam ser capturadas no final do bloco
+                        titulo_limpo = re.sub(r'\s+(SÁBADO|DOMINGO|2ª a 6ª FEIRA).*$', '', titulo_limpo, flags=re.IGNORECASE).strip()
                         if not titulo_limpo:
                             continue
                         hora_fim = matches[i + 1][0] if i + 1 < len(matches) else "00:00"
