@@ -41,5 +41,17 @@
     "group": "Rádios",
     "timezone": "Europe/Lisbon",
     "language": "pt"
+  },
+  {
+    "id": "radiogilao",
+    "name": "Rádio Gilão",
+    "module": "gilao",
+    "schedule_url": "https://www.radiogilao.com/index.php/programacao.html",
+    "logo": "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiogilao.png",
+    "stream": "https://centova.radio.com.pt/proxy/440?mp=/stream",
+    "group": "Rádios",
+    "timezone": "Europe/Lisbon",
+    "language": "pt"
   }
+
 ]
