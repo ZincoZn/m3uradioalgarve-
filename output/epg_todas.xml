@@ -16,6 +16,14 @@
     <display-name>Rádio Horizonte Algarve</display-name>
     <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiohorizonte.png"/>
   </channel>
+  <channel id="radiogilao">
+    <display-name>Rádio Gilão</display-name>
+    <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiogilao.png"/>
+  </channel>
+  <channel id="radiolagoa">
+    <display-name>Rádio Lagoa</display-name>
+    <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiolagoa.png"/>
+  </channel>
   <programme start="20260827000000 +0100" stop="20260827080000 +0100" channel="kissfm.algarve">
     <title lang="pt">KISS Night Music</title>
   </programme>
@@ -951,5 +959,173 @@
   </programme>
   <programme start="20260902220000 +0100" stop="20260903000000 +0100" channel="radiohorizonte">
     <title lang="pt">Horizonte Dance Factory</title>
+  </programme>
+  <programme start="20260827000000 +0100" stop="20260827070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
+  </programme>
+  <programme start="20260827070000 +0100" stop="20260827130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
+  </programme>
+  <programme start="20260827130000 +0100" stop="20260827200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
+  </programme>
+  <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
+  </programme>
+  <programme start="20260828000000 +0100" stop="20260828070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
+  </programme>
+  <programme start="20260828070000 +0100" stop="20260828130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
+  </programme>
+  <programme start="20260828130000 +0100" stop="20260828200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
+  </programme>
+  <programme start="20260828200000 +0100" stop="20260829000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
+  </programme>
+  <programme start="20260829000000 +0100" stop="20260829070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
+  </programme>
+  <programme start="20260829070000 +0100" stop="20260829130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
+  </programme>
+  <programme start="20260829130000 +0100" stop="20260829200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
+  </programme>
+  <programme start="20260829200000 +0100" stop="20260830000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
+  </programme>
+  <programme start="20260830000000 +0100" stop="20260830070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
+  </programme>
+  <programme start="20260830070000 +0100" stop="20260830130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
+  </programme>
+  <programme start="20260830130000 +0100" stop="20260830200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
+  </programme>
+  <programme start="20260830200000 +0100" stop="20260831000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
+  </programme>
+  <programme start="20260831000000 +0100" stop="20260831070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
+  </programme>
+  <programme start="20260831070000 +0100" stop="20260831130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
+  </programme>
+  <programme start="20260831130000 +0100" stop="20260831200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
+  </programme>
+  <programme start="20260831200000 +0100" stop="20260901000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
+  </programme>
+  <programme start="20260901000000 +0100" stop="20260901070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
+  </programme>
+  <programme start="20260901070000 +0100" stop="20260901130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
+  </programme>
+  <programme start="20260901130000 +0100" stop="20260901200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
+  </programme>
+  <programme start="20260901200000 +0100" stop="20260902000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
+  </programme>
+  <programme start="20260902000000 +0100" stop="20260902070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
+  </programme>
+  <programme start="20260902070000 +0100" stop="20260902130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
+  </programme>
+  <programme start="20260902130000 +0100" stop="20260902200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
+  </programme>
+  <programme start="20260902200000 +0100" stop="20260903000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
+  </programme>
+  <programme start="20260827000000 +0100" stop="20260827070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260827070000 +0100" stop="20260827130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260827130000 +0100" stop="20260827200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
+  </programme>
+  <programme start="20260828000000 +0100" stop="20260828070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260828070000 +0100" stop="20260828130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260828130000 +0100" stop="20260828200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260828200000 +0100" stop="20260829000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
+  </programme>
+  <programme start="20260829000000 +0100" stop="20260829070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260829070000 +0100" stop="20260829130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260829130000 +0100" stop="20260829200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260829200000 +0100" stop="20260830000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
+  </programme>
+  <programme start="20260830000000 +0100" stop="20260830070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260830070000 +0100" stop="20260830130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260830130000 +0100" stop="20260830200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260830200000 +0100" stop="20260831000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
+  </programme>
+  <programme start="20260831000000 +0100" stop="20260831070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260831070000 +0100" stop="20260831130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260831130000 +0100" stop="20260831200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260831200000 +0100" stop="20260901000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
+  </programme>
+  <programme start="20260901000000 +0100" stop="20260901070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260901070000 +0100" stop="20260901130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260901130000 +0100" stop="20260901200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260901200000 +0100" stop="20260902000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
+  </programme>
+  <programme start="20260902000000 +0100" stop="20260902070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260902070000 +0100" stop="20260902130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260902130000 +0100" stop="20260902200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260902200000 +0100" stop="20260903000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
   </programme>
 </tv>

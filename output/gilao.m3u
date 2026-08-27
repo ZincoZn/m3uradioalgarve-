@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/gilao.xml"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTINF:-1 tvg-id="radiogilao" tvg-name="Rádio Gilão" tvg-logo="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiogilao.png" is-radio="true" group-title="Rádios",Rádio Gilão
+https://centova.radio.com.pt/proxy/440?mp=/stream
