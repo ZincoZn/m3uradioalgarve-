@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Radio EPG Geral" generator-info-url="https://github.com/ZincoZn/m3uradioalgarve-">
+  <channel id="kissfm.algarve">
+    <display-name>KISS FM Algarve</display-name>
+    <icon src="https://kissfm.pt/player/player_logo.png"/>
+  </channel>
+  <channel id="rua.fm">
+    <display-name>RUA FM</display-name>
+    <icon src="https://pbs.twimg.com/profile_images/1895485526485942272/hoJ-aPp7.jpg"/>
+  </channel>
+  <channel id="radioportimao">
+    <display-name>Rádio Portimão 106.5 FM</display-name>
+    <icon src="https://www.radioportimao.pt/wp-content/uploads/2025/08/Logo-RPTM-fundo-negro.png "/>
+  </channel>
+  <channel id="radiohorizonte">
+    <display-name>Rádio Horizonte Algarve</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW3bseHTSOq_kzCzf82O-FBx8_AFX_0Ns5RQ&amp;s"/>
+  </channel>
+  <programme start="20260827000000 +0100" stop="20260827080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260827080000 +0100" stop="20260827120000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Breakfast Show with Si Frater</title>
+  </programme>
+  <programme start="20260827120000 +0100" stop="20260827160000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Afternoon</title>
+  </programme>
+  <programme start="20260827160000 +0100" stop="20260827200000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Drive Time with Mark Sebastian</title>
+  </programme>
+  <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Evening &amp; Dance Show</title>
+  </programme>
+  <programme start="20260828000000 +0100" stop="20260828080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260828080000 +0100" stop="20260828120000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Breakfast Show with Si Frater</title>
+  </programme>
+  <programme start="20260828120000 +0100" stop="20260828160000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Afternoon</title>
+  </programme>
+  <programme start="20260828160000 +0100" stop="20260828200000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Drive Time with Mark Sebastian</title>
+  </programme>
+  <programme start="20260828200000 +0100" stop="20260829000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Evening &amp; Dance Show</title>
+  </programme>
+  <programme start="20260829000000 +0100" stop="20260829080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260829080000 +0100" stop="20260830000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Solid Gold Sunday / Weekend Shows</title>
+  </programme>
+  <programme start="20260830000000 +0100" stop="20260830080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260830080000 +0100" stop="20260831000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Solid Gold Sunday / Weekend Shows</title>
+  </programme>
+  <programme start="20260831000000 +0100" stop="20260831080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260831080000 +0100" stop="20260831120000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Breakfast Show with Si Frater</title>
+  </programme>
+  <programme start="20260831120000 +0100" stop="20260831160000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Afternoon</title>
+  </programme>
+  <programme start="20260831160000 +0100" stop="20260831200000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Drive Time with Mark Sebastian</title>
+  </programme>
+  <programme start="20260831200000 +0100" stop="20260901000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Evening &amp; Dance Show</title>
+  </programme>
+  <programme start="20260901000000 +0100" stop="20260901080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260901080000 +0100" stop="20260901120000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Breakfast Show with Si Frater</title>
+  </programme>
+  <programme start="20260901120000 +0100" stop="20260901160000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Afternoon</title>
+  </programme>
+  <programme start="20260901160000 +0100" stop="20260901200000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Drive Time with Mark Sebastian</title>
+  </programme>
+  <programme start="20260901200000 +0100" stop="20260902000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Evening &amp; Dance Show</title>
+  </programme>
+  <programme start="20260902000000 +0100" stop="20260902080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260902080000 +0100" stop="20260902120000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Breakfast Show with Si Frater</title>
+  </programme>
+  <programme start="20260902120000 +0100" stop="20260902160000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Afternoon</title>
+  </programme>
+  <programme start="20260902160000 +0100" stop="20260902200000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Drive Time with Mark Sebastian</title>
+  </programme>
+  <programme start="20260902200000 +0100" stop="20260903000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Evening &amp; Dance Show</title>
+  </programme>
+  <programme start="20260827000000 +0100" stop="20260828000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
+  </programme>
+  <programme start="20260828000000 +0100" stop="20260829000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
+  </programme>
+  <programme start="20260829000000 +0100" stop="20260830000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
+  </programme>
+  <programme start="20260830000000 +0100" stop="20260831000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
+  </programme>
+  <programme start="20260831000000 +0100" stop="20260901000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
+  </programme>
+  <programme start="20260901000000 +0100" stop="20260902000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
+  </programme>
+  <programme start="20260902000000 +0100" stop="20260903000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
+  </programme>
+  <programme start="20260827000000 +0100" stop="20260828000000 +0100" channel="radioportimao">
+    <title lang="pt">PLAYLIST OLP POP05:00 MUSICA NO CORAÇÃO08:00 INFORMAÇÃO08:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)10:00 CAFÉ &amp; COMPANHIA10:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)10:30 UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)10:35 ALMANAQUE10:40 DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)11:30 CELEBRIDADES INTERNACIONAIS (6ª FEIRA)11:30 REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)12:30 PARODIANTES DE LISBOA13:00 INTERVALO14:00 INFORMAÇÃO14:00 100 PALAVRAS – GRATO (2ª FEIRA)14:00 ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)14:00 PROGRAMA KARRANCA (4ª FEIRA)15:00 UM CERTO ORIENTE (2ª FEIRA)16:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)17:00 HORA DO BRASIL17:00 FADO (6ª FEIRA)17:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)17:30 REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)18:00 SUPER KIZOMBA19:00 INFORMAÇÃO19:05 ANOS 80/9019:30 PARODIANTES DE LISBOA20:00 NO OUTRO LADO DO FM (2ª FEIRA)20:00 PONTO DE ENCONTRO (6ª FEIRA)21:00 NOVOS VALORES (4ª FEIRA)21:00 CIDADE+ (5ª FEIRA)22:00 AB PLAY (2ªFEIRA)23:00 CASCAIS GARAGE (3ª FEIRA)23:00 REPLAY (6ª FEIRA)</title>
+  </programme>
+  <programme start="20260828000000 +0100" stop="20260829000000 +0100" channel="radioportimao">
+    <title lang="pt">PLAYLIST OLP POP05:00 MUSICA NO CORAÇÃO08:00 INFORMAÇÃO08:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)10:00 CAFÉ &amp; COMPANHIA10:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)10:30 UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)10:35 ALMANAQUE10:40 DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)11:30 CELEBRIDADES INTERNACIONAIS (6ª FEIRA)11:30 REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)12:30 PARODIANTES DE LISBOA13:00 INTERVALO14:00 INFORMAÇÃO14:00 100 PALAVRAS – GRATO (2ª FEIRA)14:00 ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)14:00 PROGRAMA KARRANCA (4ª FEIRA)15:00 UM CERTO ORIENTE (2ª FEIRA)16:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)17:00 HORA DO BRASIL17:00 FADO (6ª FEIRA)17:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)17:30 REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)18:00 SUPER KIZOMBA19:00 INFORMAÇÃO19:05 ANOS 80/9019:30 PARODIANTES DE LISBOA20:00 NO OUTRO LADO DO FM (2ª FEIRA)20:00 PONTO DE ENCONTRO (6ª FEIRA)21:00 NOVOS VALORES (4ª FEIRA)21:00 CIDADE+ (5ª FEIRA)22:00 AB PLAY (2ªFEIRA)23:00 CASCAIS GARAGE (3ª FEIRA)23:00 REPLAY (6ª FEIRA)</title>
+  </programme>
+  <programme start="20260829000000 +0100" stop="20260830000000 +0100" channel="radioportimao">
+    <title lang="pt">CASSETRO IN THE MIX01:00 PLAYLIST POP E OLD POP05:00 MÚSICA NO CORAÇÃO08:00 NOTICIAS08:30 PRAZERES INTERROMPIDOS10:00 CLUBE MHz12:06 REFLEXÕES12:15 OS DIAS DA HISTÓRIA12:40 AS CRÓNICAS DA ISABEL14:00 NOTICIAS15:00 AB PLAY16:00 AB PLAY17:00 HORA DO BRASIL18:00 TOP 10 KIZOMBA19:00 NOTICIAS19:10 ANOS 80/9020:00 UM CERTO ORIENTE21:00 CONVERSAS À MESA (PENÚLTIMOS SÁBADOS DO MÊS)23:00 A QUEDA DOS ANJOS</title>
+  </programme>
+  <programme start="20260830000000 +0100" stop="20260831000000 +0100" channel="radioportimao">
+    <title lang="pt">DJ ULISSE DAPA01:00 MÚSICA NO CORAÇÃO07:00 DELAY08:00 NOTICIAS09:00 OS REIS DO ROCK12:06 REFLEXÕES12:30 ALMANAQUE12:40 AS CRÓNICAS DA ISABEL13:00 POP NACIONAL14:00 NOTICIAS15:00 PURO EXTENSO16:15 COMPACT MUSIC17:00 HORA DO BRASIL18:00 PISTA DE DANÇA KIZOMBA19:00 NOTICIAS19:00 ANOS 80/9020:00 LUSITANIA EXPRESSO</title>
+  </programme>
+  <programme start="20260831000000 +0100" stop="20260901000000 +0100" channel="radioportimao">
+    <title lang="pt">PLAYLIST OLP POP05:00 MUSICA NO CORAÇÃO08:00 INFORMAÇÃO08:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)10:00 CAFÉ &amp; COMPANHIA10:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)10:30 UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)10:35 ALMANAQUE10:40 DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)11:30 CELEBRIDADES INTERNACIONAIS (6ª FEIRA)11:30 REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)12:30 PARODIANTES DE LISBOA13:00 INTERVALO14:00 INFORMAÇÃO14:00 100 PALAVRAS – GRATO (2ª FEIRA)14:00 ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)14:00 PROGRAMA KARRANCA (4ª FEIRA)15:00 UM CERTO ORIENTE (2ª FEIRA)16:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)17:00 HORA DO BRASIL17:00 FADO (6ª FEIRA)17:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)17:30 REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)18:00 SUPER KIZOMBA19:00 INFORMAÇÃO19:05 ANOS 80/9019:30 PARODIANTES DE LISBOA20:00 NO OUTRO LADO DO FM (2ª FEIRA)20:00 PONTO DE ENCONTRO (6ª FEIRA)21:00 NOVOS VALORES (4ª FEIRA)21:00 CIDADE+ (5ª FEIRA)22:00 AB PLAY (2ªFEIRA)23:00 CASCAIS GARAGE (3ª FEIRA)23:00 REPLAY (6ª FEIRA)</title>
+  </programme>
+  <programme start="20260901000000 +0100" stop="20260902000000 +0100" channel="radioportimao">
+    <title lang="pt">PLAYLIST OLP POP05:00 MUSICA NO CORAÇÃO08:00 INFORMAÇÃO08:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)10:00 CAFÉ &amp; COMPANHIA10:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)10:30 UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)10:35 ALMANAQUE10:40 DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)11:30 CELEBRIDADES INTERNACIONAIS (6ª FEIRA)11:30 REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)12:30 PARODIANTES DE LISBOA13:00 INTERVALO14:00 INFORMAÇÃO14:00 100 PALAVRAS – GRATO (2ª FEIRA)14:00 ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)14:00 PROGRAMA KARRANCA (4ª FEIRA)15:00 UM CERTO ORIENTE (2ª FEIRA)16:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)17:00 HORA DO BRASIL17:00 FADO (6ª FEIRA)17:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)17:30 REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)18:00 SUPER KIZOMBA19:00 INFORMAÇÃO19:05 ANOS 80/9019:30 PARODIANTES DE LISBOA20:00 NO OUTRO LADO DO FM (2ª FEIRA)20:00 PONTO DE ENCONTRO (6ª FEIRA)21:00 NOVOS VALORES (4ª FEIRA)21:00 CIDADE+ (5ª FEIRA)22:00 AB PLAY (2ªFEIRA)23:00 CASCAIS GARAGE (3ª FEIRA)23:00 REPLAY (6ª FEIRA)</title>
+  </programme>
+  <programme start="20260902000000 +0100" stop="20260903000000 +0100" channel="radioportimao">
+    <title lang="pt">PLAYLIST OLP POP05:00 MUSICA NO CORAÇÃO08:00 INFORMAÇÃO08:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)10:00 CAFÉ &amp; COMPANHIA10:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)10:30 UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)10:35 ALMANAQUE10:40 DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)11:30 CELEBRIDADES INTERNACIONAIS (6ª FEIRA)11:30 REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)12:30 PARODIANTES DE LISBOA13:00 INTERVALO14:00 INFORMAÇÃO14:00 100 PALAVRAS – GRATO (2ª FEIRA)14:00 ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)14:00 PROGRAMA KARRANCA (4ª FEIRA)15:00 UM CERTO ORIENTE (2ª FEIRA)16:30 PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)17:00 HORA DO BRASIL17:00 FADO (6ª FEIRA)17:30 AS CRÓNICAS DA ISABEL (4ª FEIRA)17:30 REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)18:00 SUPER KIZOMBA19:00 INFORMAÇÃO19:05 ANOS 80/9019:30 PARODIANTES DE LISBOA20:00 NO OUTRO LADO DO FM (2ª FEIRA)20:00 PONTO DE ENCONTRO (6ª FEIRA)21:00 NOVOS VALORES (4ª FEIRA)21:00 CIDADE+ (5ª FEIRA)22:00 AB PLAY (2ªFEIRA)23:00 CASCAIS GARAGE (3ª FEIRA)23:00 REPLAY (6ª FEIRA)</title>
+  </programme>
+  <programme start="20260827000000 +0100" stop="20260827010000 +0100" channel="radiohorizonte">
+    <title lang="pt">Infinity Radio Show</title>
+  </programme>
+  <programme start="20260827010000 +0100" stop="20260827020000 +0100" channel="radiohorizonte">
+    <title lang="pt">We Love House Music (REP)</title>
+  </programme>
+  <programme start="20260827020000 +0100" stop="20260827030000 +0100" channel="radiohorizonte">
+    <title lang="pt">Dance Connection (REP)</title>
+  </programme>
+  <programme start="20260827030000 +0100" stop="20260827040000 +0100" channel="radiohorizonte">
+    <title lang="pt">Dance Connection (REP)</title>
+  </programme>
+  <programme start="20260827040000 +0100" stop="20260827050000 +0100" channel="radiohorizonte">
+    <title lang="pt">Tanira Recordings Radio Show</title>
+  </programme>
+  <programme start="20260827050000 +0100" stop="20260827070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260827070000 +0100" stop="20260827100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260827100000 +0100" stop="20260827130000 +0100" channel="radiohorizonte">
+    <title lang="pt">As Manhãs da Horizonte</title>
+  </programme>
+  <programme start="20260827130000 +0100" stop="20260827200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260827200000 +0100" stop="20260827210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soundtrip</title>
+  </programme>
+  <programme start="20260827210000 +0100" stop="20260827220000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260827220000 +0100" stop="20260828000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Dance Factory</title>
+  </programme>
+  <programme start="20260828000000 +0100" stop="20260828010000 +0100" channel="radiohorizonte">
+    <title lang="pt">Fresh Beats (REP)</title>
+  </programme>
+  <programme start="20260828010000 +0100" stop="20260828020000 +0100" channel="radiohorizonte">
+    <title lang="pt">X Radio Show Mayze x Faria</title>
+  </programme>
+  <programme start="20260828020000 +0100" stop="20260828030000 +0100" channel="radiohorizonte">
+    <title lang="pt">Cadência Eletrónica</title>
+  </programme>
+  <programme start="20260828030000 +0100" stop="20260828040000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soulganster Records</title>
+  </programme>
+  <programme start="20260828040000 +0100" stop="20260828050000 +0100" channel="radiohorizonte">
+    <title lang="pt">Cadência Eletrónica (REP)</title>
+  </programme>
+  <programme start="20260828050000 +0100" stop="20260828070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260828070000 +0100" stop="20260828100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260828100000 +0100" stop="20260828130000 +0100" channel="radiohorizonte">
+    <title lang="pt">As Manhãs da Horizonte</title>
+  </programme>
+  <programme start="20260828130000 +0100" stop="20260828200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260828200000 +0100" stop="20260828210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soundtrip</title>
+  </programme>
+  <programme start="20260828210000 +0100" stop="20260828230000 +0100" channel="radiohorizonte">
+    <title lang="pt">Clubbing</title>
+  </programme>
+  <programme start="20260828230000 +0100" stop="20260829000000 +0100" channel="radiohorizonte">
+    <title lang="pt">In Stereo</title>
+  </programme>
+  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radiohorizonte">
+    <title lang="pt">Infinity Radio Show (REP)</title>
+  </programme>
+  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radiohorizonte">
+    <title lang="pt">Sexysoundsystem</title>
+  </programme>
+  <programme start="20260829020000 +0100" stop="20260829040000 +0100" channel="radiohorizonte">
+    <title lang="pt">Clubbing (REP)</title>
+  </programme>
+  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radiohorizonte">
+    <title lang="pt">We Love House Music (REP)</title>
+  </programme>
+  <programme start="20260829050000 +0100" stop="20260829070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260829070000 +0100" stop="20260829100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260829100000 +0100" stop="20260829200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260829200000 +0100" stop="20260829210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Deep &amp; Soul</title>
+  </programme>
+  <programme start="20260829210000 +0100" stop="20260829220000 +0100" channel="radiohorizonte">
+    <title lang="pt">DJ Sérgio T Radio Show</title>
+  </programme>
+  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radiohorizonte">
+    <title lang="pt">Urbana Radio Show</title>
+  </programme>
+  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Projeto Global</title>
+  </programme>
+  <programme start="20260830000000 +0100" stop="20260830010000 +0100" channel="radiohorizonte">
+    <title lang="pt">Dance Connections</title>
+  </programme>
+  <programme start="20260830010000 +0100" stop="20260830020000 +0100" channel="radiohorizonte">
+    <title lang="pt">Dance Connections</title>
+  </programme>
+  <programme start="20260830020000 +0100" stop="20260830030000 +0100" channel="radiohorizonte">
+    <title lang="pt">Vibesound Radio Show</title>
+  </programme>
+  <programme start="20260830030000 +0100" stop="20260830040000 +0100" channel="radiohorizonte">
+    <title lang="pt">Deep &amp; Soul (REP)</title>
+  </programme>
+  <programme start="20260830040000 +0100" stop="20260830050000 +0100" channel="radiohorizonte">
+    <title lang="pt">In Stereo (REP)</title>
+  </programme>
+  <programme start="20260830050000 +0100" stop="20260830060000 +0100" channel="radiohorizonte">
+    <title lang="pt">Urbana Radio Show</title>
+  </programme>
+  <programme start="20260830060000 +0100" stop="20260830070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260830070000 +0100" stop="20260830100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260830100000 +0100" stop="20260830210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260830210000 +0100" stop="20260830220000 +0100" channel="radiohorizonte">
+    <title lang="pt">Dancetaria</title>
+  </programme>
+  <programme start="20260830220000 +0100" stop="20260830230000 +0100" channel="radiohorizonte">
+    <title lang="pt">Remember Dance</title>
+  </programme>
+  <programme start="20260830230000 +0100" stop="20260831000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Fresh Beats</title>
+  </programme>
+  <programme start="20260831000000 +0100" stop="20260831050000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Dance Factory</title>
+  </programme>
+  <programme start="20260831050000 +0100" stop="20260831070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260831070000 +0100" stop="20260831100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260831100000 +0100" stop="20260831130000 +0100" channel="radiohorizonte">
+    <title lang="pt">As Manhãs da Horizonte</title>
+  </programme>
+  <programme start="20260831130000 +0100" stop="20260831200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260831200000 +0100" stop="20260831210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soundtrip</title>
+  </programme>
+  <programme start="20260831210000 +0100" stop="20260831220000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260831220000 +0100" stop="20260901000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Do outro Lado do FM</title>
+  </programme>
+  <programme start="20260901000000 +0100" stop="20260901010000 +0100" channel="radiohorizonte">
+    <title lang="pt">We Love House Music</title>
+  </programme>
+  <programme start="20260901010000 +0100" stop="20260901020000 +0100" channel="radiohorizonte">
+    <title lang="pt">Logic Soul Radio Show</title>
+  </programme>
+  <programme start="20260901020000 +0100" stop="20260901050000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Dance Factory</title>
+  </programme>
+  <programme start="20260901050000 +0100" stop="20260901070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260901070000 +0100" stop="20260901100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260901100000 +0100" stop="20260901130000 +0100" channel="radiohorizonte">
+    <title lang="pt">As Manhãs da Horizonte</title>
+  </programme>
+  <programme start="20260901130000 +0100" stop="20260901200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260901200000 +0100" stop="20260901210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soundtrip</title>
+  </programme>
+  <programme start="20260901210000 +0100" stop="20260901220000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260901220000 +0100" stop="20260901230000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Dance Factory</title>
+  </programme>
+  <programme start="20260901230000 +0100" stop="20260902000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Puro Extenso</title>
+  </programme>
+  <programme start="20260902000000 +0100" stop="20260902010000 +0100" channel="radiohorizonte">
+    <title lang="pt">Urbana Radioshow</title>
+  </programme>
+  <programme start="20260902010000 +0100" stop="20260902020000 +0100" channel="radiohorizonte">
+    <title lang="pt">X RadioShow Mayze &amp; Faria</title>
+  </programme>
+  <programme start="20260902020000 +0100" stop="20260902030000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soulganster Records</title>
+  </programme>
+  <programme start="20260902030000 +0100" stop="20260902050000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Dance Factory</title>
+  </programme>
+  <programme start="20260902050000 +0100" stop="20260902070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260902070000 +0100" stop="20260902100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260902100000 +0100" stop="20260902130000 +0100" channel="radiohorizonte">
+    <title lang="pt">As Manhãs da Horizonte</title>
+  </programme>
+  <programme start="20260902130000 +0100" stop="20260902200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260902200000 +0100" stop="20260902210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soundtrip</title>
+  </programme>
+  <programme start="20260902210000 +0100" stop="20260902220000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260902220000 +0100" stop="20260903000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Dance Factory</title>
+  </programme>
+</tv>

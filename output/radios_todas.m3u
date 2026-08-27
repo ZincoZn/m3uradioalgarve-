@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/kissfm.xml,https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/rua.xml,https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/portimao.xml,https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/horizonte.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/epg_todas.xml"
 #EXTVLCOPT:http-user-agent="Radio-EPG-Kodi/1.0"
 #EXTINF:-1 tvg-id="kissfm.algarve" tvg-name="KISS FM Algarve" tvg-logo="https://kissfm.pt/player/player_logo.png" is-radio="true" group-title="Rádios",KISS FM Algarve
 https://nl.digitalrm.pt:8024/stream
