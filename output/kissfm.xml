@@ -2,7 +2,7 @@
 <tv generator-info-name="Radio EPG GitHub" generator-info-url="https://github.com/">
     <channel id="kissfm.algarve">
         <display-name>KISS FM Algarve</display-name>
-        <icon src="https://kissfm.pt/player/player_logo.png"/>
+        <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/kissfm.algarve.png"/>
     </channel>
 
     <programme start="20260827000000 +0100" stop="20260827080000 +0100" channel="kissfm.algarve">
