@@ -52,6 +52,18 @@
     "group": "Rádios",
     "timezone": "Europe/Lisbon",
     "language": "pt"
-  }
+  },
+  {
+    "id": "radiolagoa",
+    "name": "Rádio Lagoa",
+    "module": "lagoa",
+    "schedule_url": "https://www.radiolagoa.pt",
+    "logo": "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiolagoa.png",
+    "stream": "https://centova.radios.pt/proxy/488?mp=/stream/1/",
+    "group": "Rádios",
+    "timezone": "Europe/Lisbon",
+    "language": "pt"
+  },
+
 
 ]
