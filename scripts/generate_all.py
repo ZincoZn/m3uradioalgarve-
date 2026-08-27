@@ -100,7 +100,7 @@ def generate_epg_for_radio(radio):
     m3u_path = os.path.join(OUTPUT_DIR, f"{radio['module']}.m3u")
     xml_url = f"{GITHUB_RAW_BASE}/{radio['module']}.xml"
     m3u_content = f"""#EXTM3U x-tvg-url="{xml_url}"
-#EXTVLCOPT:http-user-agent="Radio-EPG-Kodi/1.0"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTINF:-1 tvg-id="{radio['id']}" tvg-name="{radio['name']}" tvg-logo="{radio['logo']}" is-radio="true" group-title="{radio['group']}",{radio['name']}
 {radio['stream']}"""
 
@@ -179,7 +179,7 @@ def main():
         combined_xml_url = f"{GITHUB_RAW_BASE}/epg_todas.xml"
         m3u_entries = [r['m3u_entry'] for r in all_radios_data]
         
-        m3u_geral_content = f'#EXTM3U x-tvg-url="{combined_xml_url}"\n#EXTVLCOPT:http-user-agent="Radio-EPG-Kodi/1.0"\n' + "\n".join(m3u_entries)
+        m3u_geral_content = f'#EXTM3U x-tvg-url="{combined_xml_url}"\n#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"\n' + "\n".join(m3u_entries)
         
         m3u_geral_path = os.path.join(OUTPUT_DIR, "radios_todas.m3u")
         with open(m3u_geral_path, 'w', encoding='utf-8') as f:
