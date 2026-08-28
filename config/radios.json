@@ -96,6 +96,17 @@
     "group": "Rádios",
     "timezone": "Europe/Lisbon",
     "language": "pt"
+  },
+  {
+    "id": "radiovicentina",
+    "name": "Rádio Vicentina FM",
+    "module": "vicentina",
+    "schedule_url": "https://vicentinafm.pt/",
+    "logo": "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiovecintina.jpeg",
+    "stream": "https://sonic-ca.instainternet.com:8028/stream",
+    "group": "Rádios",
+    "timezone": "Europe/Lisbon",
+    "language": "pt"
   }
 
 
