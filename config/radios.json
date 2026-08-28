@@ -74,6 +74,17 @@
     "group": "Rádios",
     "timezone": "Europe/Lisbon",
     "language": "pt"
+  },
+  {
+    "id": "radioguadiana",
+    "name": "Rádio Guadiana",
+    "module": "guadiana",
+    "schedule_url": "https://www.radioguadiana.pt/index.php?pagina=programacao",
+    "logo": "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioguadiana.jpg",
+    "stream": "http://sp0.redeaudio.com:9844/",
+    "group": "Rádios",
+    "timezone": "Europe/Lisbon",
+    "language": "pt"
   }
 
 
