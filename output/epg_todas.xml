@@ -24,21 +24,6 @@
     <display-name>Rádio Lagoa</display-name>
     <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiolagoa.png"/>
   </channel>
-  <programme start="20260827000000 +0100" stop="20260827080000 +0100" channel="kissfm.algarve">
-    <title lang="pt">KISS Night Music</title>
-  </programme>
-  <programme start="20260827080000 +0100" stop="20260827120000 +0100" channel="kissfm.algarve">
-    <title lang="pt">Breakfast Show with Si Frater</title>
-  </programme>
-  <programme start="20260827120000 +0100" stop="20260827160000 +0100" channel="kissfm.algarve">
-    <title lang="pt">KISS Afternoon</title>
-  </programme>
-  <programme start="20260827160000 +0100" stop="20260827200000 +0100" channel="kissfm.algarve">
-    <title lang="pt">Drive Time with Mark Sebastian</title>
-  </programme>
-  <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="kissfm.algarve">
-    <title lang="pt">KISS Evening &amp; Dance Show</title>
-  </programme>
   <programme start="20260828000000 +0100" stop="20260828080000 +0100" channel="kissfm.algarve">
     <title lang="pt">KISS Night Music</title>
   </programme>
@@ -111,8 +96,20 @@
   <programme start="20260902200000 +0100" stop="20260903000000 +0100" channel="kissfm.algarve">
     <title lang="pt">KISS Evening &amp; Dance Show</title>
   </programme>
-  <programme start="20260827000000 +0100" stop="20260828000000 +0100" channel="rua.fm">
-    <title lang="pt">Programação não disponível</title>
+  <programme start="20260903000000 +0100" stop="20260903080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260903080000 +0100" stop="20260903120000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Breakfast Show with Si Frater</title>
+  </programme>
+  <programme start="20260903120000 +0100" stop="20260903160000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Afternoon</title>
+  </programme>
+  <programme start="20260903160000 +0100" stop="20260903200000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Drive Time with Mark Sebastian</title>
+  </programme>
+  <programme start="20260903200000 +0100" stop="20260904000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Evening &amp; Dance Show</title>
   </programme>
   <programme start="20260828000000 +0100" stop="20260829000000 +0100" channel="rua.fm">
     <title lang="pt">Programação não disponível</title>
@@ -132,104 +129,8 @@
   <programme start="20260902000000 +0100" stop="20260903000000 +0100" channel="rua.fm">
     <title lang="pt">Programação não disponível</title>
   </programme>
-  <programme start="20260827000000 +0100" stop="20260827050000 +0100" channel="radioportimao">
-    <title lang="pt">PLAYLIST OLP POP</title>
-  </programme>
-  <programme start="20260827050000 +0100" stop="20260827080000 +0100" channel="radioportimao">
-    <title lang="pt">MUSICA NO CORAÇÃO</title>
-  </programme>
-  <programme start="20260827080000 +0100" stop="20260827083000 +0100" channel="radioportimao">
-    <title lang="pt">INFORMAÇÃO</title>
-  </programme>
-  <programme start="20260827083000 +0100" stop="20260827100000 +0100" channel="radioportimao">
-    <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
-  </programme>
-  <programme start="20260827100000 +0100" stop="20260827103000 +0100" channel="radioportimao">
-    <title lang="pt">CAFÉ &amp; COMPANHIA</title>
-  </programme>
-  <programme start="20260827103000 +0100" stop="20260828103000 +0100" channel="radioportimao">
-    <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
-  </programme>
-  <programme start="20260827103000 +0100" stop="20260827103500 +0100" channel="radioportimao">
-    <title lang="pt">UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)</title>
-  </programme>
-  <programme start="20260827103500 +0100" stop="20260827104000 +0100" channel="radioportimao">
-    <title lang="pt">ALMANAQUE</title>
-  </programme>
-  <programme start="20260827104000 +0100" stop="20260827113000 +0100" channel="radioportimao">
-    <title lang="pt">DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)</title>
-  </programme>
-  <programme start="20260827113000 +0100" stop="20260828113000 +0100" channel="radioportimao">
-    <title lang="pt">CELEBRIDADES INTERNACIONAIS (6ª FEIRA)</title>
-  </programme>
-  <programme start="20260827113000 +0100" stop="20260827123000 +0100" channel="radioportimao">
-    <title lang="pt">REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)</title>
-  </programme>
-  <programme start="20260827123000 +0100" stop="20260827130000 +0100" channel="radioportimao">
-    <title lang="pt">PARODIANTES DE LISBOA</title>
-  </programme>
-  <programme start="20260827130000 +0100" stop="20260827140000 +0100" channel="radioportimao">
-    <title lang="pt">INTERVALO</title>
-  </programme>
-  <programme start="20260827140000 +0100" stop="20260828140000 +0100" channel="radioportimao">
-    <title lang="pt">INFORMAÇÃO</title>
-  </programme>
-  <programme start="20260827140000 +0100" stop="20260828140000 +0100" channel="radioportimao">
-    <title lang="pt">100 PALAVRAS – GRATO (</title>
-  </programme>
-  <programme start="20260827140000 +0100" stop="20260828140000 +0100" channel="radioportimao">
-    <title lang="pt">ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)</title>
-  </programme>
-  <programme start="20260827140000 +0100" stop="20260827150000 +0100" channel="radioportimao">
-    <title lang="pt">PROGRAMA KARRANCA (4ª FEIRA)</title>
-  </programme>
-  <programme start="20260827150000 +0100" stop="20260827163000 +0100" channel="radioportimao">
-    <title lang="pt">UM CERTO ORIENTE (</title>
-  </programme>
-  <programme start="20260827163000 +0100" stop="20260827170000 +0100" channel="radioportimao">
-    <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
-  </programme>
-  <programme start="20260827170000 +0100" stop="20260828170000 +0100" channel="radioportimao">
-    <title lang="pt">HORA DO BRASIL</title>
-  </programme>
-  <programme start="20260827170000 +0100" stop="20260827173000 +0100" channel="radioportimao">
-    <title lang="pt">FADO (6ª FEIRA)</title>
-  </programme>
-  <programme start="20260827173000 +0100" stop="20260828173000 +0100" channel="radioportimao">
-    <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
-  </programme>
-  <programme start="20260827173000 +0100" stop="20260827180000 +0100" channel="radioportimao">
-    <title lang="pt">REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)</title>
-  </programme>
-  <programme start="20260827180000 +0100" stop="20260827190000 +0100" channel="radioportimao">
-    <title lang="pt">SUPER KIZOMBA</title>
-  </programme>
-  <programme start="20260827190000 +0100" stop="20260827190500 +0100" channel="radioportimao">
-    <title lang="pt">INFORMAÇÃO</title>
-  </programme>
-  <programme start="20260827190500 +0100" stop="20260827193000 +0100" channel="radioportimao">
-    <title lang="pt">ANOS 80/90</title>
-  </programme>
-  <programme start="20260827193000 +0100" stop="20260827200000 +0100" channel="radioportimao">
-    <title lang="pt">PARODIANTES DE LISBOA</title>
-  </programme>
-  <programme start="20260827200000 +0100" stop="20260828200000 +0100" channel="radioportimao">
-    <title lang="pt">NO OUTRO LADO DO FM (</title>
-  </programme>
-  <programme start="20260827200000 +0100" stop="20260827210000 +0100" channel="radioportimao">
-    <title lang="pt">PONTO DE ENCONTRO (6ª FEIRA)</title>
-  </programme>
-  <programme start="20260827210000 +0100" stop="20260828210000 +0100" channel="radioportimao">
-    <title lang="pt">NOVOS VALORES (4ª FEIRA)</title>
-  </programme>
-  <programme start="20260827210000 +0100" stop="20260827220000 +0100" channel="radioportimao">
-    <title lang="pt">CIDADE+ (5ª FEIRA)</title>
-  </programme>
-  <programme start="20260827220000 +0100" stop="20260827230000 +0100" channel="radioportimao">
-    <title lang="pt">AB PLAY (</title>
-  </programme>
-  <programme start="20260827230000 +0100" stop="20260828000000 +0100" channel="radioportimao">
-    <title lang="pt">CASCAIS GARAGE (3ª FEIRA)</title>
+  <programme start="20260903000000 +0100" stop="20260904000000 +0100" channel="rua.fm">
+    <title lang="pt">Programação não disponível</title>
   </programme>
   <programme start="20260828000000 +0100" stop="20260828050000 +0100" channel="radioportimao">
     <title lang="pt">PLAYLIST OLP POP</title>
@@ -729,41 +630,104 @@
   <programme start="20260902230000 +0100" stop="20260903000000 +0100" channel="radioportimao">
     <title lang="pt">CASCAIS GARAGE (3ª FEIRA)</title>
   </programme>
-  <programme start="20260827000000 +0100" stop="20260827010000 +0100" channel="radiohorizonte">
-    <title lang="pt">Infinity Radio Show</title>
+  <programme start="20260903000000 +0100" stop="20260903050000 +0100" channel="radioportimao">
+    <title lang="pt">PLAYLIST OLP POP</title>
   </programme>
-  <programme start="20260827010000 +0100" stop="20260827020000 +0100" channel="radiohorizonte">
-    <title lang="pt">We Love House Music (REP)</title>
+  <programme start="20260903050000 +0100" stop="20260903080000 +0100" channel="radioportimao">
+    <title lang="pt">MUSICA NO CORAÇÃO</title>
   </programme>
-  <programme start="20260827020000 +0100" stop="20260827030000 +0100" channel="radiohorizonte">
-    <title lang="pt">Dance Connection (REP)</title>
+  <programme start="20260903080000 +0100" stop="20260903083000 +0100" channel="radioportimao">
+    <title lang="pt">INFORMAÇÃO</title>
   </programme>
-  <programme start="20260827030000 +0100" stop="20260827040000 +0100" channel="radiohorizonte">
-    <title lang="pt">Dance Connection (REP)</title>
+  <programme start="20260903083000 +0100" stop="20260903100000 +0100" channel="radioportimao">
+    <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
   </programme>
-  <programme start="20260827040000 +0100" stop="20260827050000 +0100" channel="radiohorizonte">
-    <title lang="pt">Tanira Recordings Radio Show</title>
+  <programme start="20260903100000 +0100" stop="20260903103000 +0100" channel="radioportimao">
+    <title lang="pt">CAFÉ &amp; COMPANHIA</title>
   </programme>
-  <programme start="20260827050000 +0100" stop="20260827070000 +0100" channel="radiohorizonte">
-    <title lang="pt">100% Nacional</title>
+  <programme start="20260903103000 +0100" stop="20260904103000 +0100" channel="radioportimao">
+    <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
   </programme>
-  <programme start="20260827070000 +0100" stop="20260827100000 +0100" channel="radiohorizonte">
-    <title lang="pt">A Linha do Horizonte</title>
+  <programme start="20260903103000 +0100" stop="20260903103500 +0100" channel="radioportimao">
+    <title lang="pt">UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)</title>
   </programme>
-  <programme start="20260827100000 +0100" stop="20260827130000 +0100" channel="radiohorizonte">
-    <title lang="pt">As Manhãs da Horizonte</title>
+  <programme start="20260903103500 +0100" stop="20260903104000 +0100" channel="radioportimao">
+    <title lang="pt">ALMANAQUE</title>
   </programme>
-  <programme start="20260827130000 +0100" stop="20260827200000 +0100" channel="radiohorizonte">
-    <title lang="pt">Horizonte Non Stop</title>
+  <programme start="20260903104000 +0100" stop="20260903113000 +0100" channel="radioportimao">
+    <title lang="pt">DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)</title>
   </programme>
-  <programme start="20260827200000 +0100" stop="20260827210000 +0100" channel="radiohorizonte">
-    <title lang="pt">Soundtrip</title>
+  <programme start="20260903113000 +0100" stop="20260904113000 +0100" channel="radioportimao">
+    <title lang="pt">CELEBRIDADES INTERNACIONAIS (6ª FEIRA)</title>
   </programme>
-  <programme start="20260827210000 +0100" stop="20260827220000 +0100" channel="radiohorizonte">
-    <title lang="pt">Horizonte Non Stop</title>
+  <programme start="20260903113000 +0100" stop="20260903123000 +0100" channel="radioportimao">
+    <title lang="pt">REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)</title>
   </programme>
-  <programme start="20260827220000 +0100" stop="20260828000000 +0100" channel="radiohorizonte">
-    <title lang="pt">Horizonte Dance Factory</title>
+  <programme start="20260903123000 +0100" stop="20260903130000 +0100" channel="radioportimao">
+    <title lang="pt">PARODIANTES DE LISBOA</title>
+  </programme>
+  <programme start="20260903130000 +0100" stop="20260903140000 +0100" channel="radioportimao">
+    <title lang="pt">INTERVALO</title>
+  </programme>
+  <programme start="20260903140000 +0100" stop="20260904140000 +0100" channel="radioportimao">
+    <title lang="pt">INFORMAÇÃO</title>
+  </programme>
+  <programme start="20260903140000 +0100" stop="20260904140000 +0100" channel="radioportimao">
+    <title lang="pt">100 PALAVRAS – GRATO (</title>
+  </programme>
+  <programme start="20260903140000 +0100" stop="20260904140000 +0100" channel="radioportimao">
+    <title lang="pt">ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)</title>
+  </programme>
+  <programme start="20260903140000 +0100" stop="20260903150000 +0100" channel="radioportimao">
+    <title lang="pt">PROGRAMA KARRANCA (4ª FEIRA)</title>
+  </programme>
+  <programme start="20260903150000 +0100" stop="20260903163000 +0100" channel="radioportimao">
+    <title lang="pt">UM CERTO ORIENTE (</title>
+  </programme>
+  <programme start="20260903163000 +0100" stop="20260903170000 +0100" channel="radioportimao">
+    <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
+  </programme>
+  <programme start="20260903170000 +0100" stop="20260904170000 +0100" channel="radioportimao">
+    <title lang="pt">HORA DO BRASIL</title>
+  </programme>
+  <programme start="20260903170000 +0100" stop="20260903173000 +0100" channel="radioportimao">
+    <title lang="pt">FADO (6ª FEIRA)</title>
+  </programme>
+  <programme start="20260903173000 +0100" stop="20260904173000 +0100" channel="radioportimao">
+    <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
+  </programme>
+  <programme start="20260903173000 +0100" stop="20260903180000 +0100" channel="radioportimao">
+    <title lang="pt">REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)</title>
+  </programme>
+  <programme start="20260903180000 +0100" stop="20260903190000 +0100" channel="radioportimao">
+    <title lang="pt">SUPER KIZOMBA</title>
+  </programme>
+  <programme start="20260903190000 +0100" stop="20260903190500 +0100" channel="radioportimao">
+    <title lang="pt">INFORMAÇÃO</title>
+  </programme>
+  <programme start="20260903190500 +0100" stop="20260903193000 +0100" channel="radioportimao">
+    <title lang="pt">ANOS 80/90</title>
+  </programme>
+  <programme start="20260903193000 +0100" stop="20260903200000 +0100" channel="radioportimao">
+    <title lang="pt">PARODIANTES DE LISBOA</title>
+  </programme>
+  <programme start="20260903200000 +0100" stop="20260904200000 +0100" channel="radioportimao">
+    <title lang="pt">NO OUTRO LADO DO FM (</title>
+  </programme>
+  <programme start="20260903200000 +0100" stop="20260903210000 +0100" channel="radioportimao">
+    <title lang="pt">PONTO DE ENCONTRO (6ª FEIRA)</title>
+  </programme>
+  <programme start="20260903210000 +0100" stop="20260904210000 +0100" channel="radioportimao">
+    <title lang="pt">NOVOS VALORES (4ª FEIRA)</title>
+  </programme>
+  <programme start="20260903210000 +0100" stop="20260903220000 +0100" channel="radioportimao">
+    <title lang="pt">CIDADE+ (5ª FEIRA)</title>
+  </programme>
+  <programme start="20260903220000 +0100" stop="20260903230000 +0100" channel="radioportimao">
+    <title lang="pt">AB PLAY (</title>
+  </programme>
+  <programme start="20260903230000 +0100" stop="20260904000000 +0100" channel="radioportimao">
+    <title lang="pt">CASCAIS GARAGE (3ª FEIRA)</title>
   </programme>
   <programme start="20260828000000 +0100" stop="20260828010000 +0100" channel="radiohorizonte">
     <title lang="pt">Fresh Beats (REP)</title>
@@ -960,17 +924,41 @@
   <programme start="20260902220000 +0100" stop="20260903000000 +0100" channel="radiohorizonte">
     <title lang="pt">Horizonte Dance Factory</title>
   </programme>
-  <programme start="20260827000000 +0100" stop="20260827070000 +0100" channel="radiogilao">
-    <title lang="pt">Madrugada Gilão</title>
+  <programme start="20260903000000 +0100" stop="20260903010000 +0100" channel="radiohorizonte">
+    <title lang="pt">Infinity Radio Show</title>
   </programme>
-  <programme start="20260827070000 +0100" stop="20260827130000 +0100" channel="radiogilao">
-    <title lang="pt">Manhãs da Gilão</title>
+  <programme start="20260903010000 +0100" stop="20260903020000 +0100" channel="radiohorizonte">
+    <title lang="pt">We Love House Music (REP)</title>
   </programme>
-  <programme start="20260827130000 +0100" stop="20260827200000 +0100" channel="radiogilao">
-    <title lang="pt">Tardes da Gilão</title>
+  <programme start="20260903020000 +0100" stop="20260903030000 +0100" channel="radiohorizonte">
+    <title lang="pt">Dance Connection (REP)</title>
   </programme>
-  <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="radiogilao">
-    <title lang="pt">Noite Gilão</title>
+  <programme start="20260903030000 +0100" stop="20260903040000 +0100" channel="radiohorizonte">
+    <title lang="pt">Dance Connection (REP)</title>
+  </programme>
+  <programme start="20260903040000 +0100" stop="20260903050000 +0100" channel="radiohorizonte">
+    <title lang="pt">Tanira Recordings Radio Show</title>
+  </programme>
+  <programme start="20260903050000 +0100" stop="20260903070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
+  </programme>
+  <programme start="20260903070000 +0100" stop="20260903100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
+  </programme>
+  <programme start="20260903100000 +0100" stop="20260903130000 +0100" channel="radiohorizonte">
+    <title lang="pt">As Manhãs da Horizonte</title>
+  </programme>
+  <programme start="20260903130000 +0100" stop="20260903200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260903200000 +0100" stop="20260903210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Soundtrip</title>
+  </programme>
+  <programme start="20260903210000 +0100" stop="20260903220000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
+  </programme>
+  <programme start="20260903220000 +0100" stop="20260904000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Dance Factory</title>
   </programme>
   <programme start="20260828000000 +0100" stop="20260828070000 +0100" channel="radiogilao">
     <title lang="pt">Madrugada Gilão</title>
@@ -1044,17 +1032,17 @@
   <programme start="20260902200000 +0100" stop="20260903000000 +0100" channel="radiogilao">
     <title lang="pt">Noite Gilão</title>
   </programme>
-  <programme start="20260827000000 +0100" stop="20260827070000 +0100" channel="radiolagoa">
-    <title lang="pt">Madrugada</title>
+  <programme start="20260903000000 +0100" stop="20260903070000 +0100" channel="radiogilao">
+    <title lang="pt">Madrugada Gilão</title>
   </programme>
-  <programme start="20260827070000 +0100" stop="20260827130000 +0100" channel="radiolagoa">
-    <title lang="pt">Manhãs da Lagoa</title>
+  <programme start="20260903070000 +0100" stop="20260903130000 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs da Gilão</title>
   </programme>
-  <programme start="20260827130000 +0100" stop="20260827200000 +0100" channel="radiolagoa">
-    <title lang="pt">Tardes da Lagoa</title>
+  <programme start="20260903130000 +0100" stop="20260903200000 +0100" channel="radiogilao">
+    <title lang="pt">Tardes da Gilão</title>
   </programme>
-  <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="radiolagoa">
-    <title lang="pt">Noite</title>
+  <programme start="20260903200000 +0100" stop="20260904000000 +0100" channel="radiogilao">
+    <title lang="pt">Noite Gilão</title>
   </programme>
   <programme start="20260828000000 +0100" stop="20260828070000 +0100" channel="radiolagoa">
     <title lang="pt">Madrugada</title>
@@ -1126,6 +1114,18 @@
     <title lang="pt">Tardes da Lagoa</title>
   </programme>
   <programme start="20260902200000 +0100" stop="20260903000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
+  </programme>
+  <programme start="20260903000000 +0100" stop="20260903070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
+  </programme>
+  <programme start="20260903070000 +0100" stop="20260903130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
+  </programme>
+  <programme start="20260903130000 +0100" stop="20260903200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
+  </programme>
+  <programme start="20260903200000 +0100" stop="20260904000000 +0100" channel="radiolagoa">
     <title lang="pt">Noite</title>
   </programme>
 </tv>

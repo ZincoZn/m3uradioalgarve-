@@ -5,21 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/kissfm.algarve.png"/>
     </channel>
 
-    <programme start="20260827000000 +0100" stop="20260827080000 +0100" channel="kissfm.algarve">
-        <title lang="pt">KISS Night Music</title>
-    </programme>
-    <programme start="20260827080000 +0100" stop="20260827120000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Breakfast Show with Si Frater</title>
-    </programme>
-    <programme start="20260827120000 +0100" stop="20260827160000 +0100" channel="kissfm.algarve">
-        <title lang="pt">KISS Afternoon</title>
-    </programme>
-    <programme start="20260827160000 +0100" stop="20260827200000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Drive Time with Mark Sebastian</title>
-    </programme>
-    <programme start="20260827200000 +0100" stop="20260828000000 +0100" channel="kissfm.algarve">
-        <title lang="pt">KISS Evening & Dance Show</title>
-    </programme>
     <programme start="20260828000000 +0100" stop="20260828080000 +0100" channel="kissfm.algarve">
         <title lang="pt">KISS Night Music</title>
     </programme>
@@ -90,6 +75,21 @@
         <title lang="pt">Drive Time with Mark Sebastian</title>
     </programme>
     <programme start="20260902200000 +0100" stop="20260903000000 +0100" channel="kissfm.algarve">
+        <title lang="pt">KISS Evening & Dance Show</title>
+    </programme>
+    <programme start="20260903000000 +0100" stop="20260903080000 +0100" channel="kissfm.algarve">
+        <title lang="pt">KISS Night Music</title>
+    </programme>
+    <programme start="20260903080000 +0100" stop="20260903120000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Breakfast Show with Si Frater</title>
+    </programme>
+    <programme start="20260903120000 +0100" stop="20260903160000 +0100" channel="kissfm.algarve">
+        <title lang="pt">KISS Afternoon</title>
+    </programme>
+    <programme start="20260903160000 +0100" stop="20260903200000 +0100" channel="kissfm.algarve">
+        <title lang="pt">Drive Time with Mark Sebastian</title>
+    </programme>
+    <programme start="20260903200000 +0100" stop="20260904000000 +0100" channel="kissfm.algarve">
         <title lang="pt">KISS Evening & Dance Show</title>
     </programme>
 </tv>

@@ -5,9 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/rua.fm.jpg"/>
     </channel>
 
-    <programme start="20260827000000 +0100" stop="20260828000000 +0100" channel="rua.fm">
-        <title lang="pt">Programação não disponível</title>
-    </programme>
     <programme start="20260828000000 +0100" stop="20260829000000 +0100" channel="rua.fm">
         <title lang="pt">Programação não disponível</title>
     </programme>
@@ -24,6 +21,9 @@
         <title lang="pt">Programação não disponível</title>
     </programme>
     <programme start="20260902000000 +0100" stop="20260903000000 +0100" channel="rua.fm">
+        <title lang="pt">Programação não disponível</title>
+    </programme>
+    <programme start="20260903000000 +0100" stop="20260904000000 +0100" channel="rua.fm">
         <title lang="pt">Programação não disponível</title>
     </programme>
 </tv>
