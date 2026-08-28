@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/guadiana.xml"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTINF:-1 tvg-id="radioguadiana" tvg-name="Rádio Guadiana" tvg-logo="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioguadiana.jpg" is-radio="true" group-title="Rádios",Rádio Guadiana
+http://sp0.redeaudio.com:9844/

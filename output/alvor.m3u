@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/output/alvor.xml"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+#EXTINF:-1 tvg-id="radioalvor" tvg-name="Rádio Alvor" tvg-logo="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/raddioalvor.png" is-radio="true" group-title="Rádios",Rádio Alvor
+https://centova.radio.com.pt/proxy/469?mp=/stream/
