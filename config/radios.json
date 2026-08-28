@@ -85,6 +85,17 @@
     "group": "Rádios",
     "timezone": "Europe/Lisbon",
     "language": "pt"
+  },
+  {
+    "id": "radiototalfm",
+    "name": "Total FM Algarve",
+    "module": "totalfm",
+    "schedule_url": "https://totalfm.pt/",
+    "logo": "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiototalfm.png",
+    "stream": "https://eu57-sonic.instainternet.com:8068/stream",
+    "group": "Rádios",
+    "timezone": "Europe/Lisbon",
+    "language": "pt"
   }
 
 
