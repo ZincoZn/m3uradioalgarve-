@@ -12,7 +12,7 @@ https://centova.radio.com.pt/proxy/458?mp=/stream
 https://centova.radio.com.pt/proxy/440?mp=/stream
 #EXTINF:-1 tvg-id="radiolagoa" tvg-name="Rádio Lagoa" tvg-logo="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiolagoa.png" is-radio="true" group-title="Rádios",Rádio Lagoa
 https://centova.radios.pt/proxy/488?mp=/stream/1/
-#EXTINF:-1 tvg-id="radioalvor" tvg-name="Rádio Alvor" tvg-logo="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/raddioalvor.png" is-radio="true" group-title="Rádios",Rádio Alvor
+#EXTINF:-1 tvg-id="radioalvor" tvg-name="Rádio Alvor" tvg-logo="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioalvor.png" is-radio="true" group-title="Rádios",Rádio Alvor
 https://centova.radio.com.pt/proxy/469?mp=/stream/
 #EXTINF:-1 tvg-id="radioguadiana" tvg-name="Rádio Guadiana" tvg-logo="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioguadiana.jpg" is-radio="true" group-title="Rádios",Rádio Guadiana
 http://sp0.redeaudio.com:9844/

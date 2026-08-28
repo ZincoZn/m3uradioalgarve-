@@ -69,7 +69,7 @@
     "name": "Rádio Alvor",
     "module": "alvor",
     "schedule_url": "https://www.alvorfm.com/programao",
-    "logo": "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/raddioalvor.png",
+    "logo": "https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioalvor.png",
     "stream": "https://centova.radio.com.pt/proxy/469?mp=/stream/",
     "group": "Rádios",
     "timezone": "Europe/Lisbon",

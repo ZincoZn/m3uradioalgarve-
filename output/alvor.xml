@@ -2,7 +2,7 @@
 <tv generator-info-name="Radio EPG GitHub" generator-info-url="https://github.com/">
     <channel id="radioalvor">
         <display-name>Rádio Alvor</display-name>
-        <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/raddioalvor.png"/>
+        <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioalvor.png"/>
     </channel>
 
     <programme start="20260828000000 +0100" stop="20260828070000 +0100" channel="radioalvor">
