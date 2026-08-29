@@ -5,88 +5,382 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiogilao.png"/>
     </channel>
 
-    <programme start="20260828001000 +0100" stop="20260828065900 +0100" channel="radiogilao">
-        <title lang="pt">Madrugadas Rádio</title>
-    </programme>
-    <programme start="20260828071500 +0100" stop="20260828135900 +0100" channel="radiogilao">
-        <title lang="pt">Manhãs Rádio</title>
-    </programme>
-    <programme start="20260828140500 +0100" stop="20260828195900 +0100" channel="radiogilao">
-        <title lang="pt">Tardes Rádio</title>
-    </programme>
-    <programme start="20260828200500 +0100" stop="20260828235900 +0100" channel="radiogilao">
-        <title lang="pt">Noites Rádio</title>
-    </programme>
     <programme start="20260829001000 +0100" stop="20260829065900 +0100" channel="radiogilao">
         <title lang="pt">Madrugadas Rádio</title>
     </programme>
-    <programme start="20260829071500 +0100" stop="20260829135900 +0100" channel="radiogilao">
+    <programme start="20260829071500 +0100" stop="20260829075900 +0100" channel="radiogilao">
         <title lang="pt">Manhãs Rádio</title>
     </programme>
-    <programme start="20260829140500 +0100" stop="20260829195900 +0100" channel="radiogilao">
+    <programme start="20260829081000 +0100" stop="20260829085900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260829091000 +0100" stop="20260829095900 +0100" channel="radiogilao">
+        <title lang="pt">Rádio Jovem</title>
+    </programme>
+    <programme start="20260829101000 +0100" stop="20260829105900 +0100" channel="radiogilao">
+        <title lang="pt">Rádio Jovem</title>
+    </programme>
+    <programme start="20260829110500 +0100" stop="20260829115900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs de Sábado</title>
+    </programme>
+    <programme start="20260829122000 +0100" stop="20260829125900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs de Sábado</title>
+    </programme>
+    <programme start="20260829131000 +0100" stop="20260829135900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Sábado</title>
+    </programme>
+    <programme start="20260829140500 +0100" stop="20260829145900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Sábado</title>
+    </programme>
+    <programme start="20260829150500 +0100" stop="20260829155900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Sábado</title>
+    </programme>
+    <programme start="20260829160500 +0100" stop="20260829165900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Sábado</title>
+    </programme>
+    <programme start="20260829171000 +0100" stop="20260829175900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Sábado</title>
+    </programme>
+    <programme start="20260829182000 +0100" stop="20260829185900 +0100" channel="radiogilao">
         <title lang="pt">Tardes Rádio</title>
     </programme>
-    <programme start="20260829200500 +0100" stop="20260829235900 +0100" channel="radiogilao">
+    <programme start="20260829191500 +0100" stop="20260829195900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260829200500 +0100" stop="20260829205900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260829211000 +0100" stop="20260829215900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260829221500 +0100" stop="20260829225900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260829230100 +0100" stop="20260829235900 +0100" channel="radiogilao">
         <title lang="pt">Noites Rádio</title>
     </programme>
     <programme start="20260830001000 +0100" stop="20260830065900 +0100" channel="radiogilao">
         <title lang="pt">Madrugadas Rádio</title>
     </programme>
-    <programme start="20260830071500 +0100" stop="20260830135900 +0100" channel="radiogilao">
+    <programme start="20260830071500 +0100" stop="20260830075900 +0100" channel="radiogilao">
         <title lang="pt">Manhãs Rádio</title>
     </programme>
-    <programme start="20260830140500 +0100" stop="20260830195900 +0100" channel="radiogilao">
+    <programme start="20260830081000 +0100" stop="20260830085900 +0100" channel="radiogilao">
+        <title lang="pt">Bom dia Algarve</title>
+    </programme>
+    <programme start="20260830091000 +0100" stop="20260830095900 +0100" channel="radiogilao">
+        <title lang="pt">Bom dia Algarve</title>
+    </programme>
+    <programme start="20260830101000 +0100" stop="20260830105900 +0100" channel="radiogilao">
+        <title lang="pt">Bom dia Algarve</title>
+    </programme>
+    <programme start="20260830110500 +0100" stop="20260830115900 +0100" channel="radiogilao">
+        <title lang="pt">Bom dia Algarve</title>
+    </programme>
+    <programme start="20260830122000 +0100" stop="20260830125900 +0100" channel="radiogilao">
+        <title lang="pt">Hora de Almoço</title>
+    </programme>
+    <programme start="20260830131000 +0100" stop="20260830135900 +0100" channel="radiogilao">
+        <title lang="pt">Hora de Almoço</title>
+    </programme>
+    <programme start="20260830140500 +0100" stop="20260830145900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Domingo</title>
+    </programme>
+    <programme start="20260830150500 +0100" stop="20260830155900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Domingo</title>
+    </programme>
+    <programme start="20260830160500 +0100" stop="20260830165900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Domingo</title>
+    </programme>
+    <programme start="20260830171000 +0100" stop="20260830175900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Domingo</title>
+    </programme>
+    <programme start="20260830182000 +0100" stop="20260830185900 +0100" channel="radiogilao">
         <title lang="pt">Tardes Rádio</title>
     </programme>
-    <programme start="20260830200500 +0100" stop="20260830235900 +0100" channel="radiogilao">
+    <programme start="20260830191500 +0100" stop="20260830195900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260830200500 +0100" stop="20260830205900 +0100" channel="radiogilao">
+        <title lang="pt">A Outra Voz</title>
+    </programme>
+    <programme start="20260830211000 +0100" stop="20260830215900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260830221500 +0100" stop="20260830225900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260830230100 +0100" stop="20260830235900 +0100" channel="radiogilao">
         <title lang="pt">Noites Rádio</title>
     </programme>
     <programme start="20260831001000 +0100" stop="20260831065900 +0100" channel="radiogilao">
         <title lang="pt">Madrugadas Rádio</title>
     </programme>
-    <programme start="20260831071500 +0100" stop="20260831135900 +0100" channel="radiogilao">
+    <programme start="20260831071500 +0100" stop="20260831075900 +0100" channel="radiogilao">
         <title lang="pt">Manhãs Rádio</title>
     </programme>
-    <programme start="20260831140500 +0100" stop="20260831195900 +0100" channel="radiogilao">
+    <programme start="20260831081000 +0100" stop="20260831085900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260831091000 +0100" stop="20260831095900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260831101000 +0100" stop="20260831105900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260831110500 +0100" stop="20260831115900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260831122000 +0100" stop="20260831125900 +0100" channel="radiogilao">
+        <title lang="pt">Música a Gosto</title>
+    </programme>
+    <programme start="20260831131000 +0100" stop="20260831135900 +0100" channel="radiogilao">
+        <title lang="pt">Hora de Almoço</title>
+    </programme>
+    <programme start="20260831140500 +0100" stop="20260831145900 +0100" channel="radiogilao">
         <title lang="pt">Tardes Rádio</title>
     </programme>
-    <programme start="20260831200500 +0100" stop="20260831235900 +0100" channel="radiogilao">
+    <programme start="20260831150500 +0100" stop="20260831155900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260831160500 +0100" stop="20260831165900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260831171000 +0100" stop="20260831175900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260831182000 +0100" stop="20260831185900 +0100" channel="radiogilao">
+        <title lang="pt">Do Lado de Cá</title>
+    </programme>
+    <programme start="20260831191500 +0100" stop="20260831195900 +0100" channel="radiogilao">
+        <title lang="pt">Do Lado de Cá</title>
+    </programme>
+    <programme start="20260831200500 +0100" stop="20260831205900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260831211000 +0100" stop="20260831215900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260831221000 +0100" stop="20260831225900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260831230100 +0100" stop="20260831235900 +0100" channel="radiogilao">
         <title lang="pt">Noites Rádio</title>
     </programme>
     <programme start="20260901001000 +0100" stop="20260901065900 +0100" channel="radiogilao">
         <title lang="pt">Madrugadas Rádio</title>
     </programme>
-    <programme start="20260901071500 +0100" stop="20260901135900 +0100" channel="radiogilao">
+    <programme start="20260901071500 +0100" stop="20260901075900 +0100" channel="radiogilao">
         <title lang="pt">Manhãs Rádio</title>
     </programme>
-    <programme start="20260901140500 +0100" stop="20260901195900 +0100" channel="radiogilao">
+    <programme start="20260901081000 +0100" stop="20260901085900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260901091000 +0100" stop="20260901095900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260901101000 +0100" stop="20260901105900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260901110500 +0100" stop="20260901115900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260901122000 +0100" stop="20260901125900 +0100" channel="radiogilao">
+        <title lang="pt">Música a Gosto</title>
+    </programme>
+    <programme start="20260901131000 +0100" stop="20260901135900 +0100" channel="radiogilao">
+        <title lang="pt">Hora de Almoço</title>
+    </programme>
+    <programme start="20260901140500 +0100" stop="20260901145900 +0100" channel="radiogilao">
         <title lang="pt">Tardes Rádio</title>
     </programme>
-    <programme start="20260901200500 +0100" stop="20260901235900 +0100" channel="radiogilao">
+    <programme start="20260901150500 +0100" stop="20260901155900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260901160500 +0100" stop="20260901165900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260901171000 +0100" stop="20260901175900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260901182000 +0100" stop="20260901185900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260901191500 +0100" stop="20260901195900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260901200500 +0100" stop="20260901205900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260901211000 +0100" stop="20260901215900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260901221500 +0100" stop="20260901225900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260901230100 +0100" stop="20260901235900 +0100" channel="radiogilao">
         <title lang="pt">Noites Rádio</title>
     </programme>
     <programme start="20260902001000 +0100" stop="20260902065900 +0100" channel="radiogilao">
         <title lang="pt">Madrugadas Rádio</title>
     </programme>
-    <programme start="20260902071500 +0100" stop="20260902135900 +0100" channel="radiogilao">
+    <programme start="20260902071500 +0100" stop="20260902075900 +0100" channel="radiogilao">
         <title lang="pt">Manhãs Rádio</title>
     </programme>
-    <programme start="20260902140500 +0100" stop="20260902195900 +0100" channel="radiogilao">
+    <programme start="20260902081000 +0100" stop="20260902085900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260902091000 +0100" stop="20260902095900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260902101000 +0100" stop="20260902105900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260902110500 +0100" stop="20260902115900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260902122000 +0100" stop="20260902125900 +0100" channel="radiogilao">
+        <title lang="pt">Música a Gosto</title>
+    </programme>
+    <programme start="20260902131000 +0100" stop="20260902135900 +0100" channel="radiogilao">
+        <title lang="pt">Hora de Almoço</title>
+    </programme>
+    <programme start="20260902140500 +0100" stop="20260902145900 +0100" channel="radiogilao">
         <title lang="pt">Tardes Rádio</title>
     </programme>
-    <programme start="20260902200500 +0100" stop="20260902235900 +0100" channel="radiogilao">
+    <programme start="20260902150500 +0100" stop="20260902155900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260902160500 +0100" stop="20260902165900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260902171000 +0100" stop="20260902175900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260902182000 +0100" stop="20260902185900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260902191500 +0100" stop="20260902195900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260902200500 +0100" stop="20260902205900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260902211000 +0100" stop="20260902215900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260902221500 +0100" stop="20260902225900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260902230100 +0100" stop="20260902235900 +0100" channel="radiogilao">
         <title lang="pt">Noites Rádio</title>
     </programme>
     <programme start="20260903001000 +0100" stop="20260903065900 +0100" channel="radiogilao">
         <title lang="pt">Madrugadas Rádio</title>
     </programme>
-    <programme start="20260903071500 +0100" stop="20260903135900 +0100" channel="radiogilao">
+    <programme start="20260903071500 +0100" stop="20260903075900 +0100" channel="radiogilao">
         <title lang="pt">Manhãs Rádio</title>
     </programme>
-    <programme start="20260903140500 +0100" stop="20260903195900 +0100" channel="radiogilao">
+    <programme start="20260903081000 +0100" stop="20260903085900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260903091000 +0100" stop="20260903095900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260903101000 +0100" stop="20260903105900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260903110500 +0100" stop="20260903115900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260903122000 +0100" stop="20260903125900 +0100" channel="radiogilao">
+        <title lang="pt">Música a Gosto</title>
+    </programme>
+    <programme start="20260903131000 +0100" stop="20260903135900 +0100" channel="radiogilao">
+        <title lang="pt">Hora de Almoço</title>
+    </programme>
+    <programme start="20260903140500 +0100" stop="20260903145900 +0100" channel="radiogilao">
         <title lang="pt">Tardes Rádio</title>
     </programme>
-    <programme start="20260903200500 +0100" stop="20260903235900 +0100" channel="radiogilao">
+    <programme start="20260903150500 +0100" stop="20260903155900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260903160500 +0100" stop="20260903165900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260903171000 +0100" stop="20260903175900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260903182000 +0100" stop="20260903185900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260903191500 +0100" stop="20260903195900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260903200500 +0100" stop="20260903205900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260903211000 +0100" stop="20260903215900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260903221500 +0100" stop="20260903225900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260903230100 +0100" stop="20260903235900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260904001000 +0100" stop="20260904065900 +0100" channel="radiogilao">
+        <title lang="pt">Madrugadas Rádio</title>
+    </programme>
+    <programme start="20260904071500 +0100" stop="20260904075900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260904081000 +0100" stop="20260904085900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260904091000 +0100" stop="20260904095900 +0100" channel="radiogilao">
+        <title lang="pt">Manhãs Rádio</title>
+    </programme>
+    <programme start="20260904101000 +0100" stop="20260904105900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260904110500 +0100" stop="20260904115900 +0100" channel="radiogilao">
+        <title lang="pt">Haja Manhã</title>
+    </programme>
+    <programme start="20260904122000 +0100" stop="20260904125900 +0100" channel="radiogilao">
+        <title lang="pt">Música a Gosto</title>
+    </programme>
+    <programme start="20260904131000 +0100" stop="20260904135900 +0100" channel="radiogilao">
+        <title lang="pt">Hora de Almoço</title>
+    </programme>
+    <programme start="20260904140500 +0100" stop="20260904145900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260904150500 +0100" stop="20260904155900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260904160500 +0100" stop="20260904165900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260904171000 +0100" stop="20260904175900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260904182000 +0100" stop="20260904185900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260904191500 +0100" stop="20260904195900 +0100" channel="radiogilao">
+        <title lang="pt">Tardes Rádio</title>
+    </programme>
+    <programme start="20260904200500 +0100" stop="20260904205900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260904211000 +0100" stop="20260904215900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260904221500 +0100" stop="20260904225900 +0100" channel="radiogilao">
+        <title lang="pt">Noites Rádio</title>
+    </programme>
+    <programme start="20260904230100 +0100" stop="20260904235900 +0100" channel="radiogilao">
         <title lang="pt">Noites Rádio</title>
     </programme>
 </tv>
