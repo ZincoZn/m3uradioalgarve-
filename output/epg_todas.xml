@@ -40,12 +40,6 @@
     <display-name>Rádio Vicentina FM</display-name>
     <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiovecintina.jpeg"/>
   </channel>
-  <programme start="20260829000000 +0100" stop="20260829080000 +0100" channel="kissfm.algarve">
-    <title lang="pt">KISS Night Music</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260830000000 +0100" channel="kissfm.algarve">
-    <title lang="pt">Solid Gold Sunday / Weekend Shows</title>
-  </programme>
   <programme start="20260830000000 +0100" stop="20260830080000 +0100" channel="kissfm.algarve">
     <title lang="pt">KISS Night Music</title>
   </programme>
@@ -126,6 +120,12 @@
   </programme>
   <programme start="20260904200000 +0100" stop="20260905000000 +0100" channel="kissfm.algarve">
     <title lang="pt">KISS Evening &amp; Dance Show</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905080000 +0100" channel="kissfm.algarve">
+    <title lang="pt">KISS Night Music</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260906000000 +0100" channel="kissfm.algarve">
+    <title lang="pt">Solid Gold Sunday / Weekend Shows</title>
   </programme>
   <programme start="20260831000000 +0100" stop="20260831020000 +0100" channel="rua.fm">
     <title lang="pt">Espaço Zion</title>
@@ -306,60 +306,6 @@
   </programme>
   <programme start="20260904230000 +0100" stop="20260905000000 +0100" channel="rua.fm">
     <title lang="pt">Reis do Rock</title>
-  </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioportimao">
-    <title lang="pt">CASSETRO IN THE MIX</title>
-  </programme>
-  <programme start="20260829010000 +0100" stop="20260829050000 +0100" channel="radioportimao">
-    <title lang="pt">PLAYLIST POP E OLD POP</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829080000 +0100" channel="radioportimao">
-    <title lang="pt">MÚSICA NO CORAÇÃO</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829083000 +0100" channel="radioportimao">
-    <title lang="pt">NOTICIAS</title>
-  </programme>
-  <programme start="20260829083000 +0100" stop="20260829100000 +0100" channel="radioportimao">
-    <title lang="pt">PRAZERES INTERROMPIDOS</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829120600 +0100" channel="radioportimao">
-    <title lang="pt">CLUBE MHz</title>
-  </programme>
-  <programme start="20260829120600 +0100" stop="20260829121500 +0100" channel="radioportimao">
-    <title lang="pt">REFLEXÕES</title>
-  </programme>
-  <programme start="20260829121500 +0100" stop="20260829124000 +0100" channel="radioportimao">
-    <title lang="pt">OS DIAS DA HISTÓRIA</title>
-  </programme>
-  <programme start="20260829124000 +0100" stop="20260829140000 +0100" channel="radioportimao">
-    <title lang="pt">AS CRÓNICAS DA ISABEL</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioportimao">
-    <title lang="pt">NOTICIAS</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160000 +0100" channel="radioportimao">
-    <title lang="pt">AB PLAY</title>
-  </programme>
-  <programme start="20260829160000 +0100" stop="20260829170000 +0100" channel="radioportimao">
-    <title lang="pt">AB PLAY</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180000 +0100" channel="radioportimao">
-    <title lang="pt">HORA DO BRASIL</title>
-  </programme>
-  <programme start="20260829180000 +0100" stop="20260829190000 +0100" channel="radioportimao">
-    <title lang="pt">TOP 10 KIZOMBA</title>
-  </programme>
-  <programme start="20260829190000 +0100" stop="20260829191000 +0100" channel="radioportimao">
-    <title lang="pt">NOTICIAS</title>
-  </programme>
-  <programme start="20260829191000 +0100" stop="20260829200000 +0100" channel="radioportimao">
-    <title lang="pt">ANOS 80/90</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210000 +0100" channel="radioportimao">
-    <title lang="pt">UM CERTO ORIENTE</title>
-  </programme>
-  <programme start="20260829210000 +0100" stop="20260830000000 +0100" channel="radioportimao">
-    <title lang="pt">CONVERSAS À MESA (PENÚLTIMOS</title>
   </programme>
   <programme start="20260830000000 +0100" stop="20260830010000 +0100" channel="radioportimao">
     <title lang="pt">DJ ULISSE DAPA</title>
@@ -904,38 +850,59 @@
   <programme start="20260904230000 +0100" stop="20260905000000 +0100" channel="radioportimao">
     <title lang="pt">CASCAIS GARAGE (3ª FEIRA)</title>
   </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radiohorizonte">
-    <title lang="pt">Infinity Radio Show (REP)</title>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioportimao">
+    <title lang="pt">CASSETRO IN THE MIX</title>
   </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radiohorizonte">
-    <title lang="pt">Sexysoundsystem</title>
+  <programme start="20260905010000 +0100" stop="20260905050000 +0100" channel="radioportimao">
+    <title lang="pt">PLAYLIST POP E OLD POP</title>
   </programme>
-  <programme start="20260829020000 +0100" stop="20260829040000 +0100" channel="radiohorizonte">
-    <title lang="pt">Clubbing (REP)</title>
+  <programme start="20260905050000 +0100" stop="20260905080000 +0100" channel="radioportimao">
+    <title lang="pt">MÚSICA NO CORAÇÃO</title>
   </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radiohorizonte">
-    <title lang="pt">We Love House Music (REP)</title>
+  <programme start="20260905080000 +0100" stop="20260905083000 +0100" channel="radioportimao">
+    <title lang="pt">NOTICIAS</title>
   </programme>
-  <programme start="20260829050000 +0100" stop="20260829070000 +0100" channel="radiohorizonte">
-    <title lang="pt">100% Nacional</title>
+  <programme start="20260905083000 +0100" stop="20260905100000 +0100" channel="radioportimao">
+    <title lang="pt">PRAZERES INTERROMPIDOS</title>
   </programme>
-  <programme start="20260829070000 +0100" stop="20260829100000 +0100" channel="radiohorizonte">
-    <title lang="pt">A Linha do Horizonte</title>
+  <programme start="20260905100000 +0100" stop="20260905120600 +0100" channel="radioportimao">
+    <title lang="pt">CLUBE MHz</title>
   </programme>
-  <programme start="20260829100000 +0100" stop="20260829200000 +0100" channel="radiohorizonte">
-    <title lang="pt">Horizonte Non Stop</title>
+  <programme start="20260905120600 +0100" stop="20260905121500 +0100" channel="radioportimao">
+    <title lang="pt">REFLEXÕES</title>
   </programme>
-  <programme start="20260829200000 +0100" stop="20260829210000 +0100" channel="radiohorizonte">
-    <title lang="pt">Deep &amp; Soul</title>
+  <programme start="20260905121500 +0100" stop="20260905124000 +0100" channel="radioportimao">
+    <title lang="pt">OS DIAS DA HISTÓRIA</title>
   </programme>
-  <programme start="20260829210000 +0100" stop="20260829220000 +0100" channel="radiohorizonte">
-    <title lang="pt">DJ Sérgio T Radio Show</title>
+  <programme start="20260905124000 +0100" stop="20260905140000 +0100" channel="radioportimao">
+    <title lang="pt">AS CRÓNICAS DA ISABEL</title>
   </programme>
-  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radiohorizonte">
-    <title lang="pt">Urbana Radio Show</title>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioportimao">
+    <title lang="pt">NOTICIAS</title>
   </programme>
-  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radiohorizonte">
-    <title lang="pt">Projeto Global</title>
+  <programme start="20260905150000 +0100" stop="20260905160000 +0100" channel="radioportimao">
+    <title lang="pt">AB PLAY</title>
+  </programme>
+  <programme start="20260905160000 +0100" stop="20260905170000 +0100" channel="radioportimao">
+    <title lang="pt">AB PLAY</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180000 +0100" channel="radioportimao">
+    <title lang="pt">HORA DO BRASIL</title>
+  </programme>
+  <programme start="20260905180000 +0100" stop="20260905190000 +0100" channel="radioportimao">
+    <title lang="pt">TOP 10 KIZOMBA</title>
+  </programme>
+  <programme start="20260905190000 +0100" stop="20260905191000 +0100" channel="radioportimao">
+    <title lang="pt">NOTICIAS</title>
+  </programme>
+  <programme start="20260905191000 +0100" stop="20260905200000 +0100" channel="radioportimao">
+    <title lang="pt">ANOS 80/90</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210000 +0100" channel="radioportimao">
+    <title lang="pt">UM CERTO ORIENTE</title>
+  </programme>
+  <programme start="20260905210000 +0100" stop="20260906000000 +0100" channel="radioportimao">
+    <title lang="pt">CONVERSAS À MESA (PENÚLTIMOS</title>
   </programme>
   <programme start="20260830000000 +0100" stop="20260830010000 +0100" channel="radiohorizonte">
     <title lang="pt">Dance Connections</title>
@@ -1135,59 +1102,38 @@
   <programme start="20260904230000 +0100" stop="20260905000000 +0100" channel="radiohorizonte">
     <title lang="pt">In Stereo</title>
   </programme>
-  <programme start="20260829001000 +0100" stop="20260829065900 +0100" channel="radiogilao">
-    <title lang="pt">Madrugadas Rádio</title>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radiohorizonte">
+    <title lang="pt">Infinity Radio Show (REP)</title>
   </programme>
-  <programme start="20260829071500 +0100" stop="20260829075900 +0100" channel="radiogilao">
-    <title lang="pt">Manhãs Rádio</title>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radiohorizonte">
+    <title lang="pt">Sexysoundsystem</title>
   </programme>
-  <programme start="20260829081000 +0100" stop="20260829085900 +0100" channel="radiogilao">
-    <title lang="pt">Manhãs Rádio</title>
+  <programme start="20260905020000 +0100" stop="20260905040000 +0100" channel="radiohorizonte">
+    <title lang="pt">Clubbing (REP)</title>
   </programme>
-  <programme start="20260829091000 +0100" stop="20260829095900 +0100" channel="radiogilao">
-    <title lang="pt">Rádio Jovem</title>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radiohorizonte">
+    <title lang="pt">We Love House Music (REP)</title>
   </programme>
-  <programme start="20260829101000 +0100" stop="20260829105900 +0100" channel="radiogilao">
-    <title lang="pt">Rádio Jovem</title>
+  <programme start="20260905050000 +0100" stop="20260905070000 +0100" channel="radiohorizonte">
+    <title lang="pt">100% Nacional</title>
   </programme>
-  <programme start="20260829110500 +0100" stop="20260829115900 +0100" channel="radiogilao">
-    <title lang="pt">Manhãs de Sábado</title>
+  <programme start="20260905070000 +0100" stop="20260905100000 +0100" channel="radiohorizonte">
+    <title lang="pt">A Linha do Horizonte</title>
   </programme>
-  <programme start="20260829122000 +0100" stop="20260829125900 +0100" channel="radiogilao">
-    <title lang="pt">Manhãs de Sábado</title>
+  <programme start="20260905100000 +0100" stop="20260905200000 +0100" channel="radiohorizonte">
+    <title lang="pt">Horizonte Non Stop</title>
   </programme>
-  <programme start="20260829131000 +0100" stop="20260829135900 +0100" channel="radiogilao">
-    <title lang="pt">Tardes Sábado</title>
+  <programme start="20260905200000 +0100" stop="20260905210000 +0100" channel="radiohorizonte">
+    <title lang="pt">Deep &amp; Soul</title>
   </programme>
-  <programme start="20260829140500 +0100" stop="20260829145900 +0100" channel="radiogilao">
-    <title lang="pt">Tardes Sábado</title>
+  <programme start="20260905210000 +0100" stop="20260905220000 +0100" channel="radiohorizonte">
+    <title lang="pt">DJ Sérgio T Radio Show</title>
   </programme>
-  <programme start="20260829150500 +0100" stop="20260829155900 +0100" channel="radiogilao">
-    <title lang="pt">Tardes Sábado</title>
+  <programme start="20260905220000 +0100" stop="20260905230000 +0100" channel="radiohorizonte">
+    <title lang="pt">Urbana Radio Show</title>
   </programme>
-  <programme start="20260829160500 +0100" stop="20260829165900 +0100" channel="radiogilao">
-    <title lang="pt">Tardes Sábado</title>
-  </programme>
-  <programme start="20260829171000 +0100" stop="20260829175900 +0100" channel="radiogilao">
-    <title lang="pt">Tardes Sábado</title>
-  </programme>
-  <programme start="20260829182000 +0100" stop="20260829185900 +0100" channel="radiogilao">
-    <title lang="pt">Tardes Rádio</title>
-  </programme>
-  <programme start="20260829191500 +0100" stop="20260829195900 +0100" channel="radiogilao">
-    <title lang="pt">Tardes Rádio</title>
-  </programme>
-  <programme start="20260829200500 +0100" stop="20260829205900 +0100" channel="radiogilao">
-    <title lang="pt">Noites Rádio</title>
-  </programme>
-  <programme start="20260829211000 +0100" stop="20260829215900 +0100" channel="radiogilao">
-    <title lang="pt">Noites Rádio</title>
-  </programme>
-  <programme start="20260829221500 +0100" stop="20260829225900 +0100" channel="radiogilao">
-    <title lang="pt">Noites Rádio</title>
-  </programme>
-  <programme start="20260829230100 +0100" stop="20260829235900 +0100" channel="radiogilao">
-    <title lang="pt">Noites Rádio</title>
+  <programme start="20260905230000 +0100" stop="20260906000000 +0100" channel="radiohorizonte">
+    <title lang="pt">Projeto Global</title>
   </programme>
   <programme start="20260830001000 +0100" stop="20260830065900 +0100" channel="radiogilao">
     <title lang="pt">Madrugadas Rádio</title>
@@ -1513,17 +1459,59 @@
   <programme start="20260904230100 +0100" stop="20260904235900 +0100" channel="radiogilao">
     <title lang="pt">Noites Rádio</title>
   </programme>
-  <programme start="20260829000000 +0100" stop="20260829070000 +0100" channel="radiolagoa">
-    <title lang="pt">Madrugada</title>
+  <programme start="20260905001000 +0100" stop="20260905065900 +0100" channel="radiogilao">
+    <title lang="pt">Madrugadas Rádio</title>
   </programme>
-  <programme start="20260829070000 +0100" stop="20260829130000 +0100" channel="radiolagoa">
-    <title lang="pt">Manhãs da Lagoa</title>
+  <programme start="20260905071500 +0100" stop="20260905075900 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs Rádio</title>
   </programme>
-  <programme start="20260829130000 +0100" stop="20260829200000 +0100" channel="radiolagoa">
-    <title lang="pt">Tardes da Lagoa</title>
+  <programme start="20260905081000 +0100" stop="20260905085900 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs Rádio</title>
   </programme>
-  <programme start="20260829200000 +0100" stop="20260830000000 +0100" channel="radiolagoa">
-    <title lang="pt">Noite</title>
+  <programme start="20260905091000 +0100" stop="20260905095900 +0100" channel="radiogilao">
+    <title lang="pt">Rádio Jovem</title>
+  </programme>
+  <programme start="20260905101000 +0100" stop="20260905105900 +0100" channel="radiogilao">
+    <title lang="pt">Rádio Jovem</title>
+  </programme>
+  <programme start="20260905110500 +0100" stop="20260905115900 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs de Sábado</title>
+  </programme>
+  <programme start="20260905122000 +0100" stop="20260905125900 +0100" channel="radiogilao">
+    <title lang="pt">Manhãs de Sábado</title>
+  </programme>
+  <programme start="20260905131000 +0100" stop="20260905135900 +0100" channel="radiogilao">
+    <title lang="pt">Tardes Sábado</title>
+  </programme>
+  <programme start="20260905140500 +0100" stop="20260905145900 +0100" channel="radiogilao">
+    <title lang="pt">Tardes Sábado</title>
+  </programme>
+  <programme start="20260905150500 +0100" stop="20260905155900 +0100" channel="radiogilao">
+    <title lang="pt">Tardes Sábado</title>
+  </programme>
+  <programme start="20260905160500 +0100" stop="20260905165900 +0100" channel="radiogilao">
+    <title lang="pt">Tardes Sábado</title>
+  </programme>
+  <programme start="20260905171000 +0100" stop="20260905175900 +0100" channel="radiogilao">
+    <title lang="pt">Tardes Sábado</title>
+  </programme>
+  <programme start="20260905182000 +0100" stop="20260905185900 +0100" channel="radiogilao">
+    <title lang="pt">Tardes Rádio</title>
+  </programme>
+  <programme start="20260905191500 +0100" stop="20260905195900 +0100" channel="radiogilao">
+    <title lang="pt">Tardes Rádio</title>
+  </programme>
+  <programme start="20260905200500 +0100" stop="20260905205900 +0100" channel="radiogilao">
+    <title lang="pt">Noites Rádio</title>
+  </programme>
+  <programme start="20260905211000 +0100" stop="20260905215900 +0100" channel="radiogilao">
+    <title lang="pt">Noites Rádio</title>
+  </programme>
+  <programme start="20260905221500 +0100" stop="20260905225900 +0100" channel="radiogilao">
+    <title lang="pt">Noites Rádio</title>
+  </programme>
+  <programme start="20260905230100 +0100" stop="20260905235900 +0100" channel="radiogilao">
+    <title lang="pt">Noites Rádio</title>
   </programme>
   <programme start="20260830000000 +0100" stop="20260830070000 +0100" channel="radiolagoa">
     <title lang="pt">Madrugada</title>
@@ -1597,17 +1585,17 @@
   <programme start="20260904200000 +0100" stop="20260905000000 +0100" channel="radiolagoa">
     <title lang="pt">Noite</title>
   </programme>
-  <programme start="20260829000000 +0100" stop="20260829070000 +0100" channel="radioalvor">
-    <title lang="pt">Madrugada Alvor</title>
+  <programme start="20260905000000 +0100" stop="20260905070000 +0100" channel="radiolagoa">
+    <title lang="pt">Madrugada</title>
   </programme>
-  <programme start="20260829070000 +0100" stop="20260829130000 +0100" channel="radioalvor">
-    <title lang="pt">Manhãs da Alvor</title>
+  <programme start="20260905070000 +0100" stop="20260905130000 +0100" channel="radiolagoa">
+    <title lang="pt">Manhãs da Lagoa</title>
   </programme>
-  <programme start="20260829130000 +0100" stop="20260829200000 +0100" channel="radioalvor">
-    <title lang="pt">Tardes da Alvor</title>
+  <programme start="20260905130000 +0100" stop="20260905200000 +0100" channel="radiolagoa">
+    <title lang="pt">Tardes da Lagoa</title>
   </programme>
-  <programme start="20260829200000 +0100" stop="20260829235900 +0100" channel="radioalvor">
-    <title lang="pt">Noites da Alvor</title>
+  <programme start="20260905200000 +0100" stop="20260906000000 +0100" channel="radiolagoa">
+    <title lang="pt">Noite</title>
   </programme>
   <programme start="20260830000000 +0100" stop="20260830070000 +0100" channel="radioalvor">
     <title lang="pt">Madrugada Alvor</title>
@@ -1681,632 +1669,17 @@
   <programme start="20260904200000 +0100" stop="20260904235900 +0100" channel="radioalvor">
     <title lang="pt">Noites da Alvor</title>
   </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
+  <programme start="20260905000000 +0100" stop="20260905070000 +0100" channel="radioalvor">
+    <title lang="pt">Madrugada Alvor</title>
   </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
+  <programme start="20260905070000 +0100" stop="20260905130000 +0100" channel="radioalvor">
+    <title lang="pt">Manhãs da Alvor</title>
   </programme>
-  <programme start="20260829020000 +0100" stop="20260829030000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
+  <programme start="20260905130000 +0100" stop="20260905200000 +0100" channel="radioalvor">
+    <title lang="pt">Tardes da Alvor</title>
   </programme>
-  <programme start="20260829030000 +0100" stop="20260829040000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829060000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829060000 +0100" stop="20260829070000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829070000 +0100" stop="20260829080000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829090400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829090400 +0100" stop="20260829090500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829090500 +0100" stop="20260829100000 +0100" channel="radioguadiana">
-    <title lang="pt">Cantinho do Fado</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829110000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829110000 +0100" stop="20260829120400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829120400 +0100" stop="20260829120500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829120500 +0100" stop="20260829130400 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829130400 +0100" stop="20260829130500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829130500 +0100" stop="20260829140000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioguadiana">
-    <title lang="pt">Clube MegaHertz</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160600 +0100" channel="radioguadiana">
-    <title lang="pt">Clube MegaHertz</title>
-  </programme>
-  <programme start="20260829160600 +0100" stop="20260829160700 +0100" channel="radioguadiana">
-    <title lang="pt">News Flash</title>
-  </programme>
-  <programme start="20260829160700 +0100" stop="20260829170000 +0100" channel="radioguadiana">
-    <title lang="pt">Planeta Alegria</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180400 +0100" channel="radioguadiana">
-    <title lang="pt">Super Kizomba</title>
-  </programme>
-  <programme start="20260829180400 +0100" stop="20260829180500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829180500 +0100" stop="20260829190500 +0100" channel="radioguadiana">
-    <title lang="pt">Tardes Populares</title>
-  </programme>
-  <programme start="20260829190500 +0100" stop="20260829200000 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210400 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829210400 +0100" stop="20260829210500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829210500 +0100" stop="20260829220000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Latinos       Terça-Feira</title>
-  </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829020000 +0100" stop="20260829030000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos</title>
-  </programme>
-  <programme start="20260829030000 +0100" stop="20260829040000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos</title>
-  </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829060000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829060000 +0100" stop="20260829070000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829070000 +0100" stop="20260829080000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829090400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829090400 +0100" stop="20260829090500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829090500 +0100" stop="20260829100000 +0100" channel="radioguadiana">
-    <title lang="pt">Cantinho do Fado</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829110000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829110000 +0100" stop="20260829120400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829120400 +0100" stop="20260829120500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829120500 +0100" stop="20260829130400 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829130400 +0100" stop="20260829130500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829130500 +0100" stop="20260829140000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160600 +0100" channel="radioguadiana">
-    <title lang="pt">– Êxitos</title>
-  </programme>
-  <programme start="20260829160600 +0100" stop="20260829160700 +0100" channel="radioguadiana">
-    <title lang="pt">News Flash</title>
-  </programme>
-  <programme start="20260829160700 +0100" stop="20260829170000 +0100" channel="radioguadiana">
-    <title lang="pt">Planeta Alegria</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180400 +0100" channel="radioguadiana">
-    <title lang="pt">Super Kizomba</title>
-  </programme>
-  <programme start="20260829180400 +0100" stop="20260829180500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829180500 +0100" stop="20260829190500 +0100" channel="radioguadiana">
-    <title lang="pt">Tardes Populares</title>
-  </programme>
-  <programme start="20260829190500 +0100" stop="20260829200000 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210400 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829210400 +0100" stop="20260829210500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829210500 +0100" stop="20260829220000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Latinos     Quarta-Feira</title>
-  </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829020000 +0100" stop="20260829030000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829030000 +0100" stop="20260829040000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829060000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829060000 +0100" stop="20260829070000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829070000 +0100" stop="20260829080000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829090400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829090400 +0100" stop="20260829090500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829090500 +0100" stop="20260829100000 +0100" channel="radioguadiana">
-    <title lang="pt">Cantinho do Fado</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829110000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829110000 +0100" stop="20260829120400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829120400 +0100" stop="20260829120500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829120500 +0100" stop="20260829130400 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829130400 +0100" stop="20260829130500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829130500 +0100" stop="20260829140000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160600 +0100" channel="radioguadiana">
-    <title lang="pt">– Êxitos</title>
-  </programme>
-  <programme start="20260829160600 +0100" stop="20260829160700 +0100" channel="radioguadiana">
-    <title lang="pt">News Flash</title>
-  </programme>
-  <programme start="20260829160700 +0100" stop="20260829170000 +0100" channel="radioguadiana">
-    <title lang="pt">Planeta Alegria</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180400 +0100" channel="radioguadiana">
-    <title lang="pt">Super Kizomba</title>
-  </programme>
-  <programme start="20260829180400 +0100" stop="20260829180500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829180500 +0100" stop="20260829190500 +0100" channel="radioguadiana">
-    <title lang="pt">Tardes Populares</title>
-  </programme>
-  <programme start="20260829190500 +0100" stop="20260829200000 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210400 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829210400 +0100" stop="20260829210500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829210500 +0100" stop="20260829220000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Latinos Quinta-Feira</title>
-  </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829020000 +0100" stop="20260829030000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829030000 +0100" stop="20260829040000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829060000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829060000 +0100" stop="20260829070000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829070000 +0100" stop="20260829080000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829090400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829090400 +0100" stop="20260829090500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829090500 +0100" stop="20260829100000 +0100" channel="radioguadiana">
-    <title lang="pt">Cantinho do Fado</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829110000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829110000 +0100" stop="20260829120400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs da Guadiana</title>
-  </programme>
-  <programme start="20260829120400 +0100" stop="20260829120500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829120500 +0100" stop="20260829130400 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829130400 +0100" stop="20260829130500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829130500 +0100" stop="20260829140000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160600 +0100" channel="radioguadiana">
-    <title lang="pt">– Êxitos</title>
-  </programme>
-  <programme start="20260829160600 +0100" stop="20260829160700 +0100" channel="radioguadiana">
-    <title lang="pt">News Flash</title>
-  </programme>
-  <programme start="20260829160700 +0100" stop="20260829170000 +0100" channel="radioguadiana">
-    <title lang="pt">Planeta Alegria</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180400 +0100" channel="radioguadiana">
-    <title lang="pt">Super Kizomba</title>
-  </programme>
-  <programme start="20260829180400 +0100" stop="20260829180500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829180500 +0100" stop="20260829190500 +0100" channel="radioguadiana">
-    <title lang="pt">Tardes Populares</title>
-  </programme>
-  <programme start="20260829190500 +0100" stop="20260829200000 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210400 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829210400 +0100" stop="20260829210500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829210500 +0100" stop="20260829220000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Latinos Sexta-Feira</title>
-  </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829020000 +0100" stop="20260829030000 +0100" channel="radioguadiana">
-    <title lang="pt">Kontroller Project</title>
-  </programme>
-  <programme start="20260829030000 +0100" stop="20260829040000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829060000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829060000 +0100" stop="20260829070000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829070000 +0100" stop="20260829080000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829090400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829090400 +0100" stop="20260829090500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829090500 +0100" stop="20260829100000 +0100" channel="radioguadiana">
-    <title lang="pt">Cantinho do Fado</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829110000 +0100" channel="radioguadiana">
-    <title lang="pt">Legendado em PT</title>
-  </programme>
-  <programme start="20260829110000 +0100" stop="20260829120400 +0100" channel="radioguadiana">
-    <title lang="pt">Legendado em PT</title>
-  </programme>
-  <programme start="20260829120400 +0100" stop="20260829120500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829120500 +0100" stop="20260829130400 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829130400 +0100" stop="20260829130500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Renascença</title>
-  </programme>
-  <programme start="20260829130500 +0100" stop="20260829140000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160600 +0100" channel="radioguadiana">
-    <title lang="pt">– Êxitos</title>
-  </programme>
-  <programme start="20260829160600 +0100" stop="20260829160700 +0100" channel="radioguadiana">
-    <title lang="pt">News Flash</title>
-  </programme>
-  <programme start="20260829160700 +0100" stop="20260829170000 +0100" channel="radioguadiana">
-    <title lang="pt">Planeta Alegria</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180400 +0100" channel="radioguadiana">
-    <title lang="pt">Super Kizomba</title>
-  </programme>
-  <programme start="20260829180400 +0100" stop="20260829180500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829180500 +0100" stop="20260829190500 +0100" channel="radioguadiana">
-    <title lang="pt">Tardes Populares</title>
-  </programme>
-  <programme start="20260829190500 +0100" stop="20260829200000 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210400 +0100" channel="radioguadiana">
-    <title lang="pt">Telefone Musical</title>
-  </programme>
-  <programme start="20260829210400 +0100" stop="20260829210500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829210500 +0100" stop="20260829220000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos Anos 80</title>
-  </programme>
-  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Latinos Sábado</title>
-  </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Music</title>
-  </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Music</title>
-  </programme>
-  <programme start="20260829020000 +0100" stop="20260829030000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Music</title>
-  </programme>
-  <programme start="20260829030000 +0100" stop="20260829040000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Music</title>
-  </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829060000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829060000 +0100" stop="20260829070000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829070000 +0100" stop="20260829080000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829090400 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829090400 +0100" stop="20260829090500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829090500 +0100" stop="20260829100000 +0100" channel="radioguadiana">
-    <title lang="pt">Cantinho do Fado</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829110000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829110000 +0100" stop="20260829120400 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829120400 +0100" stop="20260829120500 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829120500 +0100" stop="20260829130400 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829130400 +0100" stop="20260829130500 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829130500 +0100" stop="20260829140000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioguadiana">
-    <title lang="pt">Euro Êxitos</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160600 +0100" channel="radioguadiana">
-    <title lang="pt">Euro Êxitos</title>
-  </programme>
-  <programme start="20260829160600 +0100" stop="20260829160700 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829160700 +0100" stop="20260829170000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180400 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829180400 +0100" stop="20260829180500 +0100" channel="radioguadiana">
-    <title lang="pt">– Sucessos</title>
-  </programme>
-  <programme start="20260829180500 +0100" stop="20260829190500 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos</title>
-  </programme>
-  <programme start="20260829190500 +0100" stop="20260829200000 +0100" channel="radioguadiana">
-    <title lang="pt">Via Satélite</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210400 +0100" channel="radioguadiana">
-    <title lang="pt">Via Satélite</title>
-  </programme>
-  <programme start="20260829210400 +0100" stop="20260829210500 +0100" channel="radioguadiana">
-    <title lang="pt">África Amiga</title>
-  </programme>
-  <programme start="20260829210500 +0100" stop="20260829220000 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829220000 +0100" stop="20260829230000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos anos 80</title>
-  </programme>
-  <programme start="20260829230000 +0100" stop="20260830000000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Latinos   Domingo</title>
-  </programme>
-  <programme start="20260829000000 +0100" stop="20260829010000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Play</title>
-  </programme>
-  <programme start="20260829010000 +0100" stop="20260829020000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829020000 +0100" stop="20260829030000 +0100" channel="radioguadiana">
-    <title lang="pt">Dance Disco</title>
-  </programme>
-  <programme start="20260829030000 +0100" stop="20260829040000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829040000 +0100" stop="20260829050000 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Internacionais</title>
-  </programme>
-  <programme start="20260829050000 +0100" stop="20260829060000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829060000 +0100" stop="20260829070000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop Português</title>
-  </programme>
-  <programme start="20260829070000 +0100" stop="20260829080000 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829080000 +0100" stop="20260829090400 +0100" channel="radioguadiana">
-    <title lang="pt">Emaús</title>
-  </programme>
-  <programme start="20260829090400 +0100" stop="20260829090500 +0100" channel="radioguadiana">
-    <title lang="pt">Manhãs Populares</title>
-  </programme>
-  <programme start="20260829090500 +0100" stop="20260829100000 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829100000 +0100" stop="20260829110000 +0100" channel="radioguadiana">
-    <title lang="pt">Cantinho do Fado</title>
-  </programme>
-  <programme start="20260829110000 +0100" stop="20260829120400 +0100" channel="radioguadiana">
-    <title lang="pt">Euro Êxitos</title>
-  </programme>
-  <programme start="20260829120400 +0100" stop="20260829120500 +0100" channel="radioguadiana">
-    <title lang="pt">Euro Êxitos</title>
-  </programme>
-  <programme start="20260829120500 +0100" stop="20260829130400 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829130400 +0100" stop="20260829130500 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829130500 +0100" stop="20260829140000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829140000 +0100" stop="20260829150000 +0100" channel="radioguadiana">
-    <title lang="pt">Êxitos</title>
-  </programme>
-  <programme start="20260829150000 +0100" stop="20260829160600 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829160600 +0100" stop="20260829160700 +0100" channel="radioguadiana">
-    <title lang="pt">Pop 40 Mundo</title>
-  </programme>
-  <programme start="20260829160700 +0100" stop="20260829170000 +0100" channel="radioguadiana">
-    <title lang="pt">Pop 40 Mundo</title>
-  </programme>
-  <programme start="20260829170000 +0100" stop="20260829180400 +0100" channel="radioguadiana">
-    <title lang="pt">Pop 40 Mundo</title>
-  </programme>
-  <programme start="20260829180400 +0100" stop="20260829180500 +0100" channel="radioguadiana">
-    <title lang="pt">Pop 40 Mundo</title>
-  </programme>
-  <programme start="20260829180500 +0100" stop="20260829190500 +0100" channel="radioguadiana">
-    <title lang="pt">Entardecer na Praia</title>
-  </programme>
-  <programme start="20260829190500 +0100" stop="20260829200000 +0100" channel="radioguadiana">
-    <title lang="pt">Entardecer na Praia</title>
-  </programme>
-  <programme start="20260829200000 +0100" stop="20260829210400 +0100" channel="radioguadiana">
-    <title lang="pt">Super Kizomba</title>
-  </programme>
-  <programme start="20260829210400 +0100" stop="20260829210500 +0100" channel="radioguadiana">
-    <title lang="pt">Notícias Locais</title>
-  </programme>
-  <programme start="20260829210500 +0100" stop="20260829220000 +0100" channel="radioguadiana">
-    <title lang="pt">Regresso aos anos 80</title>
-  </programme>
-  <programme start="20260829220000 +0100" stop="20260829235900 +0100" channel="radioguadiana">
-    <title lang="pt">Sucessos Latinos</title>
+  <programme start="20260905200000 +0100" stop="20260905235900 +0100" channel="radioalvor">
+    <title lang="pt">Noites da Alvor</title>
   </programme>
   <programme start="20260830000000 +0100" stop="20260830010000 +0100" channel="radioguadiana">
     <title lang="pt">Sucessos Internacionais</title>
@@ -6070,17 +5443,632 @@
   <programme start="20260904220000 +0100" stop="20260904235900 +0100" channel="radioguadiana">
     <title lang="pt">Sucessos Latinos</title>
   </programme>
-  <programme start="20260829000000 +0100" stop="20260829070000 +0100" channel="radiototalfm">
-    <title lang="pt">Madrugada Total</title>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
   </programme>
-  <programme start="20260829070000 +0100" stop="20260829130000 +0100" channel="radiototalfm">
-    <title lang="pt">Manhãs Total FM</title>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
   </programme>
-  <programme start="20260829130000 +0100" stop="20260829200000 +0100" channel="radiototalfm">
-    <title lang="pt">Tardes Total FM</title>
+  <programme start="20260905020000 +0100" stop="20260905030000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
   </programme>
-  <programme start="20260829200000 +0100" stop="20260829235900 +0100" channel="radiototalfm">
-    <title lang="pt">Noite Total</title>
+  <programme start="20260905030000 +0100" stop="20260905040000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905050000 +0100" stop="20260905060000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905060000 +0100" stop="20260905070000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905080000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260905090400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905090400 +0100" stop="20260905090500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905090500 +0100" stop="20260905100000 +0100" channel="radioguadiana">
+    <title lang="pt">Cantinho do Fado</title>
+  </programme>
+  <programme start="20260905100000 +0100" stop="20260905110000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905110000 +0100" stop="20260905120400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905120400 +0100" stop="20260905120500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905120500 +0100" stop="20260905130400 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905130400 +0100" stop="20260905130500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905130500 +0100" stop="20260905140000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioguadiana">
+    <title lang="pt">Clube MegaHertz</title>
+  </programme>
+  <programme start="20260905150000 +0100" stop="20260905160600 +0100" channel="radioguadiana">
+    <title lang="pt">Clube MegaHertz</title>
+  </programme>
+  <programme start="20260905160600 +0100" stop="20260905160700 +0100" channel="radioguadiana">
+    <title lang="pt">News Flash</title>
+  </programme>
+  <programme start="20260905160700 +0100" stop="20260905170000 +0100" channel="radioguadiana">
+    <title lang="pt">Planeta Alegria</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180400 +0100" channel="radioguadiana">
+    <title lang="pt">Super Kizomba</title>
+  </programme>
+  <programme start="20260905180400 +0100" stop="20260905180500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905180500 +0100" stop="20260905190500 +0100" channel="radioguadiana">
+    <title lang="pt">Tardes Populares</title>
+  </programme>
+  <programme start="20260905190500 +0100" stop="20260905200000 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210400 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905210400 +0100" stop="20260905210500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905210500 +0100" stop="20260905220000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905220000 +0100" stop="20260905230000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905230000 +0100" stop="20260906000000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Latinos       Terça-Feira</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905020000 +0100" stop="20260905030000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos</title>
+  </programme>
+  <programme start="20260905030000 +0100" stop="20260905040000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos</title>
+  </programme>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905050000 +0100" stop="20260905060000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905060000 +0100" stop="20260905070000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905080000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260905090400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905090400 +0100" stop="20260905090500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905090500 +0100" stop="20260905100000 +0100" channel="radioguadiana">
+    <title lang="pt">Cantinho do Fado</title>
+  </programme>
+  <programme start="20260905100000 +0100" stop="20260905110000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905110000 +0100" stop="20260905120400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905120400 +0100" stop="20260905120500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905120500 +0100" stop="20260905130400 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905130400 +0100" stop="20260905130500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905130500 +0100" stop="20260905140000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905150000 +0100" stop="20260905160600 +0100" channel="radioguadiana">
+    <title lang="pt">– Êxitos</title>
+  </programme>
+  <programme start="20260905160600 +0100" stop="20260905160700 +0100" channel="radioguadiana">
+    <title lang="pt">News Flash</title>
+  </programme>
+  <programme start="20260905160700 +0100" stop="20260905170000 +0100" channel="radioguadiana">
+    <title lang="pt">Planeta Alegria</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180400 +0100" channel="radioguadiana">
+    <title lang="pt">Super Kizomba</title>
+  </programme>
+  <programme start="20260905180400 +0100" stop="20260905180500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905180500 +0100" stop="20260905190500 +0100" channel="radioguadiana">
+    <title lang="pt">Tardes Populares</title>
+  </programme>
+  <programme start="20260905190500 +0100" stop="20260905200000 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210400 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905210400 +0100" stop="20260905210500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905210500 +0100" stop="20260905220000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905220000 +0100" stop="20260905230000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905230000 +0100" stop="20260906000000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Latinos     Quarta-Feira</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905020000 +0100" stop="20260905030000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905030000 +0100" stop="20260905040000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905050000 +0100" stop="20260905060000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905060000 +0100" stop="20260905070000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905080000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260905090400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905090400 +0100" stop="20260905090500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905090500 +0100" stop="20260905100000 +0100" channel="radioguadiana">
+    <title lang="pt">Cantinho do Fado</title>
+  </programme>
+  <programme start="20260905100000 +0100" stop="20260905110000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905110000 +0100" stop="20260905120400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905120400 +0100" stop="20260905120500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905120500 +0100" stop="20260905130400 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905130400 +0100" stop="20260905130500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905130500 +0100" stop="20260905140000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905150000 +0100" stop="20260905160600 +0100" channel="radioguadiana">
+    <title lang="pt">– Êxitos</title>
+  </programme>
+  <programme start="20260905160600 +0100" stop="20260905160700 +0100" channel="radioguadiana">
+    <title lang="pt">News Flash</title>
+  </programme>
+  <programme start="20260905160700 +0100" stop="20260905170000 +0100" channel="radioguadiana">
+    <title lang="pt">Planeta Alegria</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180400 +0100" channel="radioguadiana">
+    <title lang="pt">Super Kizomba</title>
+  </programme>
+  <programme start="20260905180400 +0100" stop="20260905180500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905180500 +0100" stop="20260905190500 +0100" channel="radioguadiana">
+    <title lang="pt">Tardes Populares</title>
+  </programme>
+  <programme start="20260905190500 +0100" stop="20260905200000 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210400 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905210400 +0100" stop="20260905210500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905210500 +0100" stop="20260905220000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905220000 +0100" stop="20260905230000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905230000 +0100" stop="20260906000000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Latinos Quinta-Feira</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905020000 +0100" stop="20260905030000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905030000 +0100" stop="20260905040000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905050000 +0100" stop="20260905060000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905060000 +0100" stop="20260905070000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905080000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260905090400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905090400 +0100" stop="20260905090500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905090500 +0100" stop="20260905100000 +0100" channel="radioguadiana">
+    <title lang="pt">Cantinho do Fado</title>
+  </programme>
+  <programme start="20260905100000 +0100" stop="20260905110000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905110000 +0100" stop="20260905120400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs da Guadiana</title>
+  </programme>
+  <programme start="20260905120400 +0100" stop="20260905120500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905120500 +0100" stop="20260905130400 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905130400 +0100" stop="20260905130500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905130500 +0100" stop="20260905140000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905150000 +0100" stop="20260905160600 +0100" channel="radioguadiana">
+    <title lang="pt">– Êxitos</title>
+  </programme>
+  <programme start="20260905160600 +0100" stop="20260905160700 +0100" channel="radioguadiana">
+    <title lang="pt">News Flash</title>
+  </programme>
+  <programme start="20260905160700 +0100" stop="20260905170000 +0100" channel="radioguadiana">
+    <title lang="pt">Planeta Alegria</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180400 +0100" channel="radioguadiana">
+    <title lang="pt">Super Kizomba</title>
+  </programme>
+  <programme start="20260905180400 +0100" stop="20260905180500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905180500 +0100" stop="20260905190500 +0100" channel="radioguadiana">
+    <title lang="pt">Tardes Populares</title>
+  </programme>
+  <programme start="20260905190500 +0100" stop="20260905200000 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210400 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905210400 +0100" stop="20260905210500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905210500 +0100" stop="20260905220000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905220000 +0100" stop="20260905230000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905230000 +0100" stop="20260906000000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Latinos Sexta-Feira</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905020000 +0100" stop="20260905030000 +0100" channel="radioguadiana">
+    <title lang="pt">Kontroller Project</title>
+  </programme>
+  <programme start="20260905030000 +0100" stop="20260905040000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905050000 +0100" stop="20260905060000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905060000 +0100" stop="20260905070000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905080000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260905090400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905090400 +0100" stop="20260905090500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905090500 +0100" stop="20260905100000 +0100" channel="radioguadiana">
+    <title lang="pt">Cantinho do Fado</title>
+  </programme>
+  <programme start="20260905100000 +0100" stop="20260905110000 +0100" channel="radioguadiana">
+    <title lang="pt">Legendado em PT</title>
+  </programme>
+  <programme start="20260905110000 +0100" stop="20260905120400 +0100" channel="radioguadiana">
+    <title lang="pt">Legendado em PT</title>
+  </programme>
+  <programme start="20260905120400 +0100" stop="20260905120500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905120500 +0100" stop="20260905130400 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905130400 +0100" stop="20260905130500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Renascença</title>
+  </programme>
+  <programme start="20260905130500 +0100" stop="20260905140000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905150000 +0100" stop="20260905160600 +0100" channel="radioguadiana">
+    <title lang="pt">– Êxitos</title>
+  </programme>
+  <programme start="20260905160600 +0100" stop="20260905160700 +0100" channel="radioguadiana">
+    <title lang="pt">News Flash</title>
+  </programme>
+  <programme start="20260905160700 +0100" stop="20260905170000 +0100" channel="radioguadiana">
+    <title lang="pt">Planeta Alegria</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180400 +0100" channel="radioguadiana">
+    <title lang="pt">Super Kizomba</title>
+  </programme>
+  <programme start="20260905180400 +0100" stop="20260905180500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905180500 +0100" stop="20260905190500 +0100" channel="radioguadiana">
+    <title lang="pt">Tardes Populares</title>
+  </programme>
+  <programme start="20260905190500 +0100" stop="20260905200000 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210400 +0100" channel="radioguadiana">
+    <title lang="pt">Telefone Musical</title>
+  </programme>
+  <programme start="20260905210400 +0100" stop="20260905210500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905210500 +0100" stop="20260905220000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905220000 +0100" stop="20260905230000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos Anos 80</title>
+  </programme>
+  <programme start="20260905230000 +0100" stop="20260906000000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Latinos Sábado</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Music</title>
+  </programme>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Music</title>
+  </programme>
+  <programme start="20260905020000 +0100" stop="20260905030000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Music</title>
+  </programme>
+  <programme start="20260905030000 +0100" stop="20260905040000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Music</title>
+  </programme>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905050000 +0100" stop="20260905060000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905060000 +0100" stop="20260905070000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905080000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260905090400 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905090400 +0100" stop="20260905090500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905090500 +0100" stop="20260905100000 +0100" channel="radioguadiana">
+    <title lang="pt">Cantinho do Fado</title>
+  </programme>
+  <programme start="20260905100000 +0100" stop="20260905110000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905110000 +0100" stop="20260905120400 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905120400 +0100" stop="20260905120500 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905120500 +0100" stop="20260905130400 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905130400 +0100" stop="20260905130500 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905130500 +0100" stop="20260905140000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioguadiana">
+    <title lang="pt">Euro Êxitos</title>
+  </programme>
+  <programme start="20260905150000 +0100" stop="20260905160600 +0100" channel="radioguadiana">
+    <title lang="pt">Euro Êxitos</title>
+  </programme>
+  <programme start="20260905160600 +0100" stop="20260905160700 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905160700 +0100" stop="20260905170000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180400 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905180400 +0100" stop="20260905180500 +0100" channel="radioguadiana">
+    <title lang="pt">– Sucessos</title>
+  </programme>
+  <programme start="20260905180500 +0100" stop="20260905190500 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos</title>
+  </programme>
+  <programme start="20260905190500 +0100" stop="20260905200000 +0100" channel="radioguadiana">
+    <title lang="pt">Via Satélite</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210400 +0100" channel="radioguadiana">
+    <title lang="pt">Via Satélite</title>
+  </programme>
+  <programme start="20260905210400 +0100" stop="20260905210500 +0100" channel="radioguadiana">
+    <title lang="pt">África Amiga</title>
+  </programme>
+  <programme start="20260905210500 +0100" stop="20260905220000 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905220000 +0100" stop="20260905230000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos anos 80</title>
+  </programme>
+  <programme start="20260905230000 +0100" stop="20260906000000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Latinos   Domingo</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905010000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Play</title>
+  </programme>
+  <programme start="20260905010000 +0100" stop="20260905020000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905020000 +0100" stop="20260905030000 +0100" channel="radioguadiana">
+    <title lang="pt">Dance Disco</title>
+  </programme>
+  <programme start="20260905030000 +0100" stop="20260905040000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905040000 +0100" stop="20260905050000 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Internacionais</title>
+  </programme>
+  <programme start="20260905050000 +0100" stop="20260905060000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905060000 +0100" stop="20260905070000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop Português</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905080000 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905080000 +0100" stop="20260905090400 +0100" channel="radioguadiana">
+    <title lang="pt">Emaús</title>
+  </programme>
+  <programme start="20260905090400 +0100" stop="20260905090500 +0100" channel="radioguadiana">
+    <title lang="pt">Manhãs Populares</title>
+  </programme>
+  <programme start="20260905090500 +0100" stop="20260905100000 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905100000 +0100" stop="20260905110000 +0100" channel="radioguadiana">
+    <title lang="pt">Cantinho do Fado</title>
+  </programme>
+  <programme start="20260905110000 +0100" stop="20260905120400 +0100" channel="radioguadiana">
+    <title lang="pt">Euro Êxitos</title>
+  </programme>
+  <programme start="20260905120400 +0100" stop="20260905120500 +0100" channel="radioguadiana">
+    <title lang="pt">Euro Êxitos</title>
+  </programme>
+  <programme start="20260905120500 +0100" stop="20260905130400 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905130400 +0100" stop="20260905130500 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905130500 +0100" stop="20260905140000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905140000 +0100" stop="20260905150000 +0100" channel="radioguadiana">
+    <title lang="pt">Êxitos</title>
+  </programme>
+  <programme start="20260905150000 +0100" stop="20260905160600 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905160600 +0100" stop="20260905160700 +0100" channel="radioguadiana">
+    <title lang="pt">Pop 40 Mundo</title>
+  </programme>
+  <programme start="20260905160700 +0100" stop="20260905170000 +0100" channel="radioguadiana">
+    <title lang="pt">Pop 40 Mundo</title>
+  </programme>
+  <programme start="20260905170000 +0100" stop="20260905180400 +0100" channel="radioguadiana">
+    <title lang="pt">Pop 40 Mundo</title>
+  </programme>
+  <programme start="20260905180400 +0100" stop="20260905180500 +0100" channel="radioguadiana">
+    <title lang="pt">Pop 40 Mundo</title>
+  </programme>
+  <programme start="20260905180500 +0100" stop="20260905190500 +0100" channel="radioguadiana">
+    <title lang="pt">Entardecer na Praia</title>
+  </programme>
+  <programme start="20260905190500 +0100" stop="20260905200000 +0100" channel="radioguadiana">
+    <title lang="pt">Entardecer na Praia</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905210400 +0100" channel="radioguadiana">
+    <title lang="pt">Super Kizomba</title>
+  </programme>
+  <programme start="20260905210400 +0100" stop="20260905210500 +0100" channel="radioguadiana">
+    <title lang="pt">Notícias Locais</title>
+  </programme>
+  <programme start="20260905210500 +0100" stop="20260905220000 +0100" channel="radioguadiana">
+    <title lang="pt">Regresso aos anos 80</title>
+  </programme>
+  <programme start="20260905220000 +0100" stop="20260905235900 +0100" channel="radioguadiana">
+    <title lang="pt">Sucessos Latinos</title>
   </programme>
   <programme start="20260830000000 +0100" stop="20260830070000 +0100" channel="radiototalfm">
     <title lang="pt">Madrugada Total</title>
@@ -6154,17 +6142,17 @@
   <programme start="20260904200000 +0100" stop="20260904235900 +0100" channel="radiototalfm">
     <title lang="pt">Noite Total</title>
   </programme>
-  <programme start="20260829000000 +0100" stop="20260829070000 +0100" channel="radiovicentina">
-    <title lang="pt">Madrugada Vicentina</title>
+  <programme start="20260905000000 +0100" stop="20260905070000 +0100" channel="radiototalfm">
+    <title lang="pt">Madrugada Total</title>
   </programme>
-  <programme start="20260829070000 +0100" stop="20260829130000 +0100" channel="radiovicentina">
-    <title lang="pt">Manhãs Vicentina FM</title>
+  <programme start="20260905070000 +0100" stop="20260905130000 +0100" channel="radiototalfm">
+    <title lang="pt">Manhãs Total FM</title>
   </programme>
-  <programme start="20260829130000 +0100" stop="20260829200000 +0100" channel="radiovicentina">
-    <title lang="pt">Tardes Vicentina</title>
+  <programme start="20260905130000 +0100" stop="20260905200000 +0100" channel="radiototalfm">
+    <title lang="pt">Tardes Total FM</title>
   </programme>
-  <programme start="20260829200000 +0100" stop="20260829235900 +0100" channel="radiovicentina">
-    <title lang="pt">Noites Vicentina FM</title>
+  <programme start="20260905200000 +0100" stop="20260905235900 +0100" channel="radiototalfm">
+    <title lang="pt">Noite Total</title>
   </programme>
   <programme start="20260830000000 +0100" stop="20260830070000 +0100" channel="radiovicentina">
     <title lang="pt">Madrugada Vicentina</title>
@@ -6236,6 +6224,18 @@
     <title lang="pt">Tardes Vicentina</title>
   </programme>
   <programme start="20260904200000 +0100" stop="20260904235900 +0100" channel="radiovicentina">
+    <title lang="pt">Noites Vicentina FM</title>
+  </programme>
+  <programme start="20260905000000 +0100" stop="20260905070000 +0100" channel="radiovicentina">
+    <title lang="pt">Madrugada Vicentina</title>
+  </programme>
+  <programme start="20260905070000 +0100" stop="20260905130000 +0100" channel="radiovicentina">
+    <title lang="pt">Manhãs Vicentina FM</title>
+  </programme>
+  <programme start="20260905130000 +0100" stop="20260905200000 +0100" channel="radiovicentina">
+    <title lang="pt">Tardes Vicentina</title>
+  </programme>
+  <programme start="20260905200000 +0100" stop="20260905235900 +0100" channel="radiovicentina">
     <title lang="pt">Noites Vicentina FM</title>
   </programme>
 </tv>
