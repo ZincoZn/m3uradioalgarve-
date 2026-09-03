@@ -5,39 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiohorizonte.png"/>
     </channel>
 
-    <programme start="20260902000000 +0100" stop="20260902010000 +0100" channel="radiohorizonte">
-        <title lang="pt">Urbana Radioshow</title>
-    </programme>
-    <programme start="20260902010000 +0100" stop="20260902020000 +0100" channel="radiohorizonte">
-        <title lang="pt">X RadioShow Mayze & Faria</title>
-    </programme>
-    <programme start="20260902020000 +0100" stop="20260902030000 +0100" channel="radiohorizonte">
-        <title lang="pt">Soulganster Records</title>
-    </programme>
-    <programme start="20260902030000 +0100" stop="20260902050000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Dance Factory</title>
-    </programme>
-    <programme start="20260902050000 +0100" stop="20260902070000 +0100" channel="radiohorizonte">
-        <title lang="pt">100% Nacional</title>
-    </programme>
-    <programme start="20260902070000 +0100" stop="20260902100000 +0100" channel="radiohorizonte">
-        <title lang="pt">A Linha do Horizonte</title>
-    </programme>
-    <programme start="20260902100000 +0100" stop="20260902130000 +0100" channel="radiohorizonte">
-        <title lang="pt">As Manhãs da Horizonte</title>
-    </programme>
-    <programme start="20260902130000 +0100" stop="20260902200000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Non Stop</title>
-    </programme>
-    <programme start="20260902200000 +0100" stop="20260902210000 +0100" channel="radiohorizonte">
-        <title lang="pt">Soundtrip</title>
-    </programme>
-    <programme start="20260902210000 +0100" stop="20260902220000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Non Stop</title>
-    </programme>
-    <programme start="20260902220000 +0100" stop="20260903000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Dance Factory</title>
-    </programme>
     <programme start="20260903000000 +0100" stop="20260903010000 +0100" channel="radiohorizonte">
         <title lang="pt">Infinity Radio Show</title>
     </programme>
@@ -235,5 +202,38 @@
     </programme>
     <programme start="20260908230000 +0100" stop="20260909000000 +0100" channel="radiohorizonte">
         <title lang="pt">Puro Extenso</title>
+    </programme>
+    <programme start="20260909000000 +0100" stop="20260909010000 +0100" channel="radiohorizonte">
+        <title lang="pt">Urbana Radioshow</title>
+    </programme>
+    <programme start="20260909010000 +0100" stop="20260909020000 +0100" channel="radiohorizonte">
+        <title lang="pt">X RadioShow Mayze & Faria</title>
+    </programme>
+    <programme start="20260909020000 +0100" stop="20260909030000 +0100" channel="radiohorizonte">
+        <title lang="pt">Soulganster Records</title>
+    </programme>
+    <programme start="20260909030000 +0100" stop="20260909050000 +0100" channel="radiohorizonte">
+        <title lang="pt">Horizonte Dance Factory</title>
+    </programme>
+    <programme start="20260909050000 +0100" stop="20260909070000 +0100" channel="radiohorizonte">
+        <title lang="pt">100% Nacional</title>
+    </programme>
+    <programme start="20260909070000 +0100" stop="20260909100000 +0100" channel="radiohorizonte">
+        <title lang="pt">A Linha do Horizonte</title>
+    </programme>
+    <programme start="20260909100000 +0100" stop="20260909130000 +0100" channel="radiohorizonte">
+        <title lang="pt">As Manhãs da Horizonte</title>
+    </programme>
+    <programme start="20260909130000 +0100" stop="20260909200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Horizonte Non Stop</title>
+    </programme>
+    <programme start="20260909200000 +0100" stop="20260909210000 +0100" channel="radiohorizonte">
+        <title lang="pt">Soundtrip</title>
+    </programme>
+    <programme start="20260909210000 +0100" stop="20260909220000 +0100" channel="radiohorizonte">
+        <title lang="pt">Horizonte Non Stop</title>
+    </programme>
+    <programme start="20260909220000 +0100" stop="20260910000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Horizonte Dance Factory</title>
     </programme>
 </tv>
