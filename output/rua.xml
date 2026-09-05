@@ -5,42 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/rua.fm.jpg"/>
     </channel>
 
-    <programme start="20260904000000 +0100" stop="20260904020000 +0100" channel="rua.fm">
-        <title lang="pt">Espaço Zion</title>
-    </programme>
-    <programme start="20260904020000 +0100" stop="20260904080000 +0100" channel="rua.fm">
-        <title lang="pt">Ilha de Faro</title>
-    </programme>
-    <programme start="20260904080000 +0100" stop="20260904081500 +0100" channel="rua.fm">
-        <title lang="pt">Café Duplo</title>
-    </programme>
-    <programme start="20260904081500 +0100" stop="20260904084500 +0100" channel="rua.fm">
-        <title lang="pt">Faro em Foco</title>
-    </programme>
-    <programme start="20260904084500 +0100" stop="20260904170000 +0100" channel="rua.fm">
-        <title lang="pt">P de Poesia</title>
-    </programme>
-    <programme start="20260904170000 +0100" stop="20260904181500 +0100" channel="rua.fm">
-        <title lang="pt">Sentido Obrigatório</title>
-    </programme>
-    <programme start="20260904181500 +0100" stop="20260904184500 +0100" channel="rua.fm">
-        <title lang="pt">Faro em Foco</title>
-    </programme>
-    <programme start="20260904184500 +0100" stop="20260904190000 +0100" channel="rua.fm">
-        <title lang="pt">Exercício e Dor</title>
-    </programme>
-    <programme start="20260904190000 +0100" stop="20260904200000 +0100" channel="rua.fm">
-        <title lang="pt">Grande Auditório</title>
-    </programme>
-    <programme start="20260904200000 +0100" stop="20260904210000 +0100" channel="rua.fm">
-        <title lang="pt">Rua 80</title>
-    </programme>
-    <programme start="20260904210000 +0100" stop="20260904230000 +0100" channel="rua.fm">
-        <title lang="pt">Soluçar dos Esquecidos</title>
-    </programme>
-    <programme start="20260904230000 +0100" stop="20260905000000 +0100" channel="rua.fm">
-        <title lang="pt">Reis do Rock</title>
-    </programme>
     <programme start="20260907000000 +0100" stop="20260907020000 +0100" channel="rua.fm">
         <title lang="pt">Espaço Zion</title>
     </programme>
@@ -183,6 +147,42 @@
         <title lang="pt">Soluçar dos Esquecidos</title>
     </programme>
     <programme start="20260910230000 +0100" stop="20260911000000 +0100" channel="rua.fm">
+        <title lang="pt">Reis do Rock</title>
+    </programme>
+    <programme start="20260911000000 +0100" stop="20260911020000 +0100" channel="rua.fm">
+        <title lang="pt">Espaço Zion</title>
+    </programme>
+    <programme start="20260911020000 +0100" stop="20260911080000 +0100" channel="rua.fm">
+        <title lang="pt">Ilha de Faro</title>
+    </programme>
+    <programme start="20260911080000 +0100" stop="20260911081500 +0100" channel="rua.fm">
+        <title lang="pt">Café Duplo</title>
+    </programme>
+    <programme start="20260911081500 +0100" stop="20260911084500 +0100" channel="rua.fm">
+        <title lang="pt">Faro em Foco</title>
+    </programme>
+    <programme start="20260911084500 +0100" stop="20260911170000 +0100" channel="rua.fm">
+        <title lang="pt">P de Poesia</title>
+    </programme>
+    <programme start="20260911170000 +0100" stop="20260911181500 +0100" channel="rua.fm">
+        <title lang="pt">Sentido Obrigatório</title>
+    </programme>
+    <programme start="20260911181500 +0100" stop="20260911184500 +0100" channel="rua.fm">
+        <title lang="pt">Faro em Foco</title>
+    </programme>
+    <programme start="20260911184500 +0100" stop="20260911190000 +0100" channel="rua.fm">
+        <title lang="pt">Exercício e Dor</title>
+    </programme>
+    <programme start="20260911190000 +0100" stop="20260911200000 +0100" channel="rua.fm">
+        <title lang="pt">Grande Auditório</title>
+    </programme>
+    <programme start="20260911200000 +0100" stop="20260911210000 +0100" channel="rua.fm">
+        <title lang="pt">Rua 80</title>
+    </programme>
+    <programme start="20260911210000 +0100" stop="20260911230000 +0100" channel="rua.fm">
+        <title lang="pt">Soluçar dos Esquecidos</title>
+    </programme>
+    <programme start="20260911230000 +0100" stop="20260912000000 +0100" channel="rua.fm">
         <title lang="pt">Reis do Rock</title>
     </programme>
 </tv>
