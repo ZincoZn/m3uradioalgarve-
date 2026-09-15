@@ -5,105 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioportimao.png"/>
     </channel>
 
-    <programme start="20260914000000 +0100" stop="20260914050000 +0100" channel="radioportimao">
-        <title lang="pt">PLAYLIST OLP POP</title>
-    </programme>
-    <programme start="20260914050000 +0100" stop="20260914080000 +0100" channel="radioportimao">
-        <title lang="pt">MUSICA NO CORAÇÃO</title>
-    </programme>
-    <programme start="20260914080000 +0100" stop="20260914083000 +0100" channel="radioportimao">
-        <title lang="pt">INFORMAÇÃO</title>
-    </programme>
-    <programme start="20260914083000 +0100" stop="20260914100000 +0100" channel="radioportimao">
-        <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
-    </programme>
-    <programme start="20260914100000 +0100" stop="20260914103000 +0100" channel="radioportimao">
-        <title lang="pt">CAFÉ & COMPANHIA</title>
-    </programme>
-    <programme start="20260914103000 +0100" stop="20260915103000 +0100" channel="radioportimao">
-        <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
-    </programme>
-    <programme start="20260914103000 +0100" stop="20260914103500 +0100" channel="radioportimao">
-        <title lang="pt">UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)</title>
-    </programme>
-    <programme start="20260914103500 +0100" stop="20260914104000 +0100" channel="radioportimao">
-        <title lang="pt">ALMANAQUE</title>
-    </programme>
-    <programme start="20260914104000 +0100" stop="20260914113000 +0100" channel="radioportimao">
-        <title lang="pt">DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)</title>
-    </programme>
-    <programme start="20260914113000 +0100" stop="20260915113000 +0100" channel="radioportimao">
-        <title lang="pt">CELEBRIDADES INTERNACIONAIS (6ª FEIRA)</title>
-    </programme>
-    <programme start="20260914113000 +0100" stop="20260914123000 +0100" channel="radioportimao">
-        <title lang="pt">REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)</title>
-    </programme>
-    <programme start="20260914123000 +0100" stop="20260914130000 +0100" channel="radioportimao">
-        <title lang="pt">PARODIANTES DE LISBOA</title>
-    </programme>
-    <programme start="20260914130000 +0100" stop="20260914140000 +0100" channel="radioportimao">
-        <title lang="pt">INTERVALO</title>
-    </programme>
-    <programme start="20260914140000 +0100" stop="20260915140000 +0100" channel="radioportimao">
-        <title lang="pt">INFORMAÇÃO</title>
-    </programme>
-    <programme start="20260914140000 +0100" stop="20260915140000 +0100" channel="radioportimao">
-        <title lang="pt">100 PALAVRAS – GRATO (</title>
-    </programme>
-    <programme start="20260914140000 +0100" stop="20260915140000 +0100" channel="radioportimao">
-        <title lang="pt">ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)</title>
-    </programme>
-    <programme start="20260914140000 +0100" stop="20260914150000 +0100" channel="radioportimao">
-        <title lang="pt">PROGRAMA KARRANCA (4ª FEIRA)</title>
-    </programme>
-    <programme start="20260914150000 +0100" stop="20260914163000 +0100" channel="radioportimao">
-        <title lang="pt">UM CERTO ORIENTE (</title>
-    </programme>
-    <programme start="20260914163000 +0100" stop="20260914170000 +0100" channel="radioportimao">
-        <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
-    </programme>
-    <programme start="20260914170000 +0100" stop="20260915170000 +0100" channel="radioportimao">
-        <title lang="pt">HORA DO BRASIL</title>
-    </programme>
-    <programme start="20260914170000 +0100" stop="20260914173000 +0100" channel="radioportimao">
-        <title lang="pt">FADO (6ª FEIRA)</title>
-    </programme>
-    <programme start="20260914173000 +0100" stop="20260915173000 +0100" channel="radioportimao">
-        <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
-    </programme>
-    <programme start="20260914173000 +0100" stop="20260914180000 +0100" channel="radioportimao">
-        <title lang="pt">REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)</title>
-    </programme>
-    <programme start="20260914180000 +0100" stop="20260914190000 +0100" channel="radioportimao">
-        <title lang="pt">SUPER KIZOMBA</title>
-    </programme>
-    <programme start="20260914190000 +0100" stop="20260914190500 +0100" channel="radioportimao">
-        <title lang="pt">INFORMAÇÃO</title>
-    </programme>
-    <programme start="20260914190500 +0100" stop="20260914193000 +0100" channel="radioportimao">
-        <title lang="pt">ANOS 80/90</title>
-    </programme>
-    <programme start="20260914193000 +0100" stop="20260914200000 +0100" channel="radioportimao">
-        <title lang="pt">PARODIANTES DE LISBOA</title>
-    </programme>
-    <programme start="20260914200000 +0100" stop="20260915200000 +0100" channel="radioportimao">
-        <title lang="pt">NO OUTRO LADO DO FM (</title>
-    </programme>
-    <programme start="20260914200000 +0100" stop="20260914210000 +0100" channel="radioportimao">
-        <title lang="pt">PONTO DE ENCONTRO (6ª FEIRA)</title>
-    </programme>
-    <programme start="20260914210000 +0100" stop="20260915210000 +0100" channel="radioportimao">
-        <title lang="pt">NOVOS VALORES (4ª FEIRA)</title>
-    </programme>
-    <programme start="20260914210000 +0100" stop="20260914220000 +0100" channel="radioportimao">
-        <title lang="pt">CIDADE+ (5ª FEIRA)</title>
-    </programme>
-    <programme start="20260914220000 +0100" stop="20260914230000 +0100" channel="radioportimao">
-        <title lang="pt">AB PLAY (</title>
-    </programme>
-    <programme start="20260914230000 +0100" stop="20260915000000 +0100" channel="radioportimao">
-        <title lang="pt">CASCAIS GARAGE (3ª FEIRA)</title>
-    </programme>
     <programme start="20260915000000 +0100" stop="20260915050000 +0100" channel="radioportimao">
         <title lang="pt">PLAYLIST OLP POP</title>
     </programme>
@@ -601,5 +502,104 @@
     </programme>
     <programme start="20260920190000 +0100" stop="20260921000000 +0100" channel="radioportimao">
         <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260921000000 +0100" stop="20260921050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST OLP POP</title>
+    </programme>
+    <programme start="20260921050000 +0100" stop="20260921080000 +0100" channel="radioportimao">
+        <title lang="pt">MUSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260921080000 +0100" stop="20260921083000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260921083000 +0100" stop="20260921100000 +0100" channel="radioportimao">
+        <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
+    </programme>
+    <programme start="20260921100000 +0100" stop="20260921103000 +0100" channel="radioportimao">
+        <title lang="pt">CAFÉ & COMPANHIA</title>
+    </programme>
+    <programme start="20260921103000 +0100" stop="20260922103000 +0100" channel="radioportimao">
+        <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
+    </programme>
+    <programme start="20260921103000 +0100" stop="20260921103500 +0100" channel="radioportimao">
+        <title lang="pt">UMA MÚSICA PARA A MESA DO CANTO (6ª FEIRA)</title>
+    </programme>
+    <programme start="20260921103500 +0100" stop="20260921104000 +0100" channel="radioportimao">
+        <title lang="pt">ALMANAQUE</title>
+    </programme>
+    <programme start="20260921104000 +0100" stop="20260921113000 +0100" channel="radioportimao">
+        <title lang="pt">DESTAQUES DA IMPRENSA REGIONAL (5ª FEIRA)</title>
+    </programme>
+    <programme start="20260921113000 +0100" stop="20260922113000 +0100" channel="radioportimao">
+        <title lang="pt">CELEBRIDADES INTERNACIONAIS (6ª FEIRA)</title>
+    </programme>
+    <programme start="20260921113000 +0100" stop="20260921123000 +0100" channel="radioportimao">
+        <title lang="pt">REFLEXÕES DE FÁBIO FERNANDES (5ª FEIRA)</title>
+    </programme>
+    <programme start="20260921123000 +0100" stop="20260921130000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260921130000 +0100" stop="20260921140000 +0100" channel="radioportimao">
+        <title lang="pt">INTERVALO</title>
+    </programme>
+    <programme start="20260921140000 +0100" stop="20260922140000 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260921140000 +0100" stop="20260922140000 +0100" channel="radioportimao">
+        <title lang="pt">100 PALAVRAS – GRATO (</title>
+    </programme>
+    <programme start="20260921140000 +0100" stop="20260922140000 +0100" channel="radioportimao">
+        <title lang="pt">ENTRE NOTAS DE MÚSICA (3ª, 5ª E 6ª FEIRA)</title>
+    </programme>
+    <programme start="20260921140000 +0100" stop="20260921150000 +0100" channel="radioportimao">
+        <title lang="pt">PROGRAMA KARRANCA (4ª FEIRA)</title>
+    </programme>
+    <programme start="20260921150000 +0100" stop="20260921163000 +0100" channel="radioportimao">
+        <title lang="pt">UM CERTO ORIENTE (</title>
+    </programme>
+    <programme start="20260921163000 +0100" stop="20260921170000 +0100" channel="radioportimao">
+        <title lang="pt">PRAZERES INTERROMPIDOS (3ª E 5ª FEIRA)</title>
+    </programme>
+    <programme start="20260921170000 +0100" stop="20260922170000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL</title>
+    </programme>
+    <programme start="20260921170000 +0100" stop="20260921173000 +0100" channel="radioportimao">
+        <title lang="pt">FADO (6ª FEIRA)</title>
+    </programme>
+    <programme start="20260921173000 +0100" stop="20260922173000 +0100" channel="radioportimao">
+        <title lang="pt">AS CRÓNICAS DA ISABEL (4ª FEIRA)</title>
+    </programme>
+    <programme start="20260921173000 +0100" stop="20260921180000 +0100" channel="radioportimao">
+        <title lang="pt">REFLEXÓES DE FÁBIO FERNANDES (5ª FEIRA)</title>
+    </programme>
+    <programme start="20260921180000 +0100" stop="20260921190000 +0100" channel="radioportimao">
+        <title lang="pt">SUPER KIZOMBA</title>
+    </programme>
+    <programme start="20260921190000 +0100" stop="20260921190500 +0100" channel="radioportimao">
+        <title lang="pt">INFORMAÇÃO</title>
+    </programme>
+    <programme start="20260921190500 +0100" stop="20260921193000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260921193000 +0100" stop="20260921200000 +0100" channel="radioportimao">
+        <title lang="pt">PARODIANTES DE LISBOA</title>
+    </programme>
+    <programme start="20260921200000 +0100" stop="20260922200000 +0100" channel="radioportimao">
+        <title lang="pt">NO OUTRO LADO DO FM (</title>
+    </programme>
+    <programme start="20260921200000 +0100" stop="20260921210000 +0100" channel="radioportimao">
+        <title lang="pt">PONTO DE ENCONTRO (6ª FEIRA)</title>
+    </programme>
+    <programme start="20260921210000 +0100" stop="20260922210000 +0100" channel="radioportimao">
+        <title lang="pt">NOVOS VALORES (4ª FEIRA)</title>
+    </programme>
+    <programme start="20260921210000 +0100" stop="20260921220000 +0100" channel="radioportimao">
+        <title lang="pt">CIDADE+ (5ª FEIRA)</title>
+    </programme>
+    <programme start="20260921220000 +0100" stop="20260921230000 +0100" channel="radioportimao">
+        <title lang="pt">AB PLAY (</title>
+    </programme>
+    <programme start="20260921230000 +0100" stop="20260922000000 +0100" channel="radioportimao">
+        <title lang="pt">CASCAIS GARAGE (3ª FEIRA)</title>
     </programme>
 </tv>
