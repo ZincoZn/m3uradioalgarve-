@@ -5,60 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioportimao.png"/>
     </channel>
 
-    <programme start="20260919000000 +0100" stop="20260919010000 +0100" channel="radioportimao">
-        <title lang="pt">CASSETRO IN THE MIX</title>
-    </programme>
-    <programme start="20260919010000 +0100" stop="20260919050000 +0100" channel="radioportimao">
-        <title lang="pt">PLAYLIST POP E OLD POP</title>
-    </programme>
-    <programme start="20260919050000 +0100" stop="20260919080000 +0100" channel="radioportimao">
-        <title lang="pt">MÚSICA NO CORAÇÃO</title>
-    </programme>
-    <programme start="20260919080000 +0100" stop="20260919083000 +0100" channel="radioportimao">
-        <title lang="pt">NOTICIAS</title>
-    </programme>
-    <programme start="20260919083000 +0100" stop="20260919100000 +0100" channel="radioportimao">
-        <title lang="pt">PRAZERES INTERROMPIDOS</title>
-    </programme>
-    <programme start="20260919100000 +0100" stop="20260919120600 +0100" channel="radioportimao">
-        <title lang="pt">CLUBE MHz</title>
-    </programme>
-    <programme start="20260919120600 +0100" stop="20260919121500 +0100" channel="radioportimao">
-        <title lang="pt">REFLEXÕES</title>
-    </programme>
-    <programme start="20260919121500 +0100" stop="20260919124000 +0100" channel="radioportimao">
-        <title lang="pt">OS DIAS DA HISTÓRIA</title>
-    </programme>
-    <programme start="20260919124000 +0100" stop="20260919140000 +0100" channel="radioportimao">
-        <title lang="pt">AS CRÓNICAS DA ISABEL</title>
-    </programme>
-    <programme start="20260919140000 +0100" stop="20260919150000 +0100" channel="radioportimao">
-        <title lang="pt">NOTICIAS</title>
-    </programme>
-    <programme start="20260919150000 +0100" stop="20260919160000 +0100" channel="radioportimao">
-        <title lang="pt">AB PLAY</title>
-    </programme>
-    <programme start="20260919160000 +0100" stop="20260919170000 +0100" channel="radioportimao">
-        <title lang="pt">AB PLAY</title>
-    </programme>
-    <programme start="20260919170000 +0100" stop="20260919180000 +0100" channel="radioportimao">
-        <title lang="pt">HORA DO BRASIL</title>
-    </programme>
-    <programme start="20260919180000 +0100" stop="20260919190000 +0100" channel="radioportimao">
-        <title lang="pt">TOP 10 KIZOMBA</title>
-    </programme>
-    <programme start="20260919190000 +0100" stop="20260919191000 +0100" channel="radioportimao">
-        <title lang="pt">NOTICIAS</title>
-    </programme>
-    <programme start="20260919191000 +0100" stop="20260919200000 +0100" channel="radioportimao">
-        <title lang="pt">ANOS 80/90</title>
-    </programme>
-    <programme start="20260919200000 +0100" stop="20260919210000 +0100" channel="radioportimao">
-        <title lang="pt">UM CERTO ORIENTE</title>
-    </programme>
-    <programme start="20260919210000 +0100" stop="20260920000000 +0100" channel="radioportimao">
-        <title lang="pt">CONVERSAS À MESA (PENÚLTIMOS</title>
-    </programme>
     <programme start="20260920000000 +0100" stop="20260920010000 +0100" channel="radioportimao">
         <title lang="pt">DJ ULISSE DAPA</title>
     </programme>
@@ -601,5 +547,59 @@
     </programme>
     <programme start="20260925230000 +0100" stop="20260926000000 +0100" channel="radioportimao">
         <title lang="pt">CASCAIS GARAGE (3ª FEIRA)</title>
+    </programme>
+    <programme start="20260926000000 +0100" stop="20260926010000 +0100" channel="radioportimao">
+        <title lang="pt">CASSETRO IN THE MIX</title>
+    </programme>
+    <programme start="20260926010000 +0100" stop="20260926050000 +0100" channel="radioportimao">
+        <title lang="pt">PLAYLIST POP E OLD POP</title>
+    </programme>
+    <programme start="20260926050000 +0100" stop="20260926080000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20260926080000 +0100" stop="20260926083000 +0100" channel="radioportimao">
+        <title lang="pt">NOTICIAS</title>
+    </programme>
+    <programme start="20260926083000 +0100" stop="20260926100000 +0100" channel="radioportimao">
+        <title lang="pt">PRAZERES INTERROMPIDOS</title>
+    </programme>
+    <programme start="20260926100000 +0100" stop="20260926120600 +0100" channel="radioportimao">
+        <title lang="pt">CLUBE MHz</title>
+    </programme>
+    <programme start="20260926120600 +0100" stop="20260926121500 +0100" channel="radioportimao">
+        <title lang="pt">REFLEXÕES</title>
+    </programme>
+    <programme start="20260926121500 +0100" stop="20260926124000 +0100" channel="radioportimao">
+        <title lang="pt">OS DIAS DA HISTÓRIA</title>
+    </programme>
+    <programme start="20260926124000 +0100" stop="20260926140000 +0100" channel="radioportimao">
+        <title lang="pt">AS CRÓNICAS DA ISABEL</title>
+    </programme>
+    <programme start="20260926140000 +0100" stop="20260926150000 +0100" channel="radioportimao">
+        <title lang="pt">NOTICIAS</title>
+    </programme>
+    <programme start="20260926150000 +0100" stop="20260926160000 +0100" channel="radioportimao">
+        <title lang="pt">AB PLAY</title>
+    </programme>
+    <programme start="20260926160000 +0100" stop="20260926170000 +0100" channel="radioportimao">
+        <title lang="pt">AB PLAY</title>
+    </programme>
+    <programme start="20260926170000 +0100" stop="20260926180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL</title>
+    </programme>
+    <programme start="20260926180000 +0100" stop="20260926190000 +0100" channel="radioportimao">
+        <title lang="pt">TOP 10 KIZOMBA</title>
+    </programme>
+    <programme start="20260926190000 +0100" stop="20260926191000 +0100" channel="radioportimao">
+        <title lang="pt">NOTICIAS</title>
+    </programme>
+    <programme start="20260926191000 +0100" stop="20260926200000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
+    </programme>
+    <programme start="20260926200000 +0100" stop="20260926210000 +0100" channel="radioportimao">
+        <title lang="pt">UM CERTO ORIENTE</title>
+    </programme>
+    <programme start="20260926210000 +0100" stop="20260927000000 +0100" channel="radioportimao">
+        <title lang="pt">CONVERSAS À MESA (PENÚLTIMOS</title>
     </programme>
 </tv>
