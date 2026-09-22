@@ -5,30 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiohorizonte.png"/>
     </channel>
 
-    <programme start="20260921000000 +0100" stop="20260921050000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Dance Factory</title>
-    </programme>
-    <programme start="20260921050000 +0100" stop="20260921070000 +0100" channel="radiohorizonte">
-        <title lang="pt">100% Nacional</title>
-    </programme>
-    <programme start="20260921070000 +0100" stop="20260921100000 +0100" channel="radiohorizonte">
-        <title lang="pt">A Linha do Horizonte</title>
-    </programme>
-    <programme start="20260921100000 +0100" stop="20260921130000 +0100" channel="radiohorizonte">
-        <title lang="pt">As Manhãs da Horizonte</title>
-    </programme>
-    <programme start="20260921130000 +0100" stop="20260921200000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Non Stop</title>
-    </programme>
-    <programme start="20260921200000 +0100" stop="20260921210000 +0100" channel="radiohorizonte">
-        <title lang="pt">Soundtrip</title>
-    </programme>
-    <programme start="20260921210000 +0100" stop="20260921220000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Non Stop</title>
-    </programme>
-    <programme start="20260921220000 +0100" stop="20260922000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Do outro Lado do FM</title>
-    </programme>
     <programme start="20260922000000 +0100" stop="20260922010000 +0100" channel="radiohorizonte">
         <title lang="pt">We Love House Music</title>
     </programme>
@@ -235,5 +211,29 @@
     </programme>
     <programme start="20260927230000 +0100" stop="20260928000000 +0100" channel="radiohorizonte">
         <title lang="pt">Fresh Beats</title>
+    </programme>
+    <programme start="20260928000000 +0100" stop="20260928050000 +0100" channel="radiohorizonte">
+        <title lang="pt">Horizonte Dance Factory</title>
+    </programme>
+    <programme start="20260928050000 +0100" stop="20260928070000 +0100" channel="radiohorizonte">
+        <title lang="pt">100% Nacional</title>
+    </programme>
+    <programme start="20260928070000 +0100" stop="20260928100000 +0100" channel="radiohorizonte">
+        <title lang="pt">A Linha do Horizonte</title>
+    </programme>
+    <programme start="20260928100000 +0100" stop="20260928130000 +0100" channel="radiohorizonte">
+        <title lang="pt">As Manhãs da Horizonte</title>
+    </programme>
+    <programme start="20260928130000 +0100" stop="20260928200000 +0100" channel="radiohorizonte">
+        <title lang="pt">Horizonte Non Stop</title>
+    </programme>
+    <programme start="20260928200000 +0100" stop="20260928210000 +0100" channel="radiohorizonte">
+        <title lang="pt">Soundtrip</title>
+    </programme>
+    <programme start="20260928210000 +0100" stop="20260928220000 +0100" channel="radiohorizonte">
+        <title lang="pt">Horizonte Non Stop</title>
+    </programme>
+    <programme start="20260928220000 +0100" stop="20260929000000 +0100" channel="radiohorizonte">
+        <title lang="pt">Do outro Lado do FM</title>
     </programme>
 </tv>
