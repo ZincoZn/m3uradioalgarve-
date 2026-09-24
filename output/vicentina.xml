@@ -5,18 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiovecintina.jpeg"/>
     </channel>
 
-    <programme start="20260923000000 +0100" stop="20260923070000 +0100" channel="radiovicentina">
-        <title lang="pt">Madrugada Vicentina</title>
-    </programme>
-    <programme start="20260923070000 +0100" stop="20260923130000 +0100" channel="radiovicentina">
-        <title lang="pt">Manhãs Vicentina FM</title>
-    </programme>
-    <programme start="20260923130000 +0100" stop="20260923200000 +0100" channel="radiovicentina">
-        <title lang="pt">Tardes Vicentina</title>
-    </programme>
-    <programme start="20260923200000 +0100" stop="20260923235900 +0100" channel="radiovicentina">
-        <title lang="pt">Noites Vicentina FM</title>
-    </programme>
     <programme start="20260924000000 +0100" stop="20260924070000 +0100" channel="radiovicentina">
         <title lang="pt">Madrugada Vicentina</title>
     </programme>
@@ -87,6 +75,18 @@
         <title lang="pt">Tardes Vicentina</title>
     </programme>
     <programme start="20260929200000 +0100" stop="20260929235900 +0100" channel="radiovicentina">
+        <title lang="pt">Noites Vicentina FM</title>
+    </programme>
+    <programme start="20260930000000 +0100" stop="20260930070000 +0100" channel="radiovicentina">
+        <title lang="pt">Madrugada Vicentina</title>
+    </programme>
+    <programme start="20260930070000 +0100" stop="20260930130000 +0100" channel="radiovicentina">
+        <title lang="pt">Manhãs Vicentina FM</title>
+    </programme>
+    <programme start="20260930130000 +0100" stop="20260930200000 +0100" channel="radiovicentina">
+        <title lang="pt">Tardes Vicentina</title>
+    </programme>
+    <programme start="20260930200000 +0100" stop="20260930235900 +0100" channel="radiovicentina">
         <title lang="pt">Noites Vicentina FM</title>
     </programme>
 </tv>
