@@ -5,54 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioportimao.png"/>
     </channel>
 
-    <programme start="20261004000000 +0100" stop="20261004010000 +0100" channel="radioportimao">
-        <title lang="pt">DJ ULISSE DAPA</title>
-    </programme>
-    <programme start="20261004010000 +0100" stop="20261004070000 +0100" channel="radioportimao">
-        <title lang="pt">MÚSICA NO CORAÇÃO</title>
-    </programme>
-    <programme start="20261004070000 +0100" stop="20261004080000 +0100" channel="radioportimao">
-        <title lang="pt">DELAY</title>
-    </programme>
-    <programme start="20261004080000 +0100" stop="20261004090000 +0100" channel="radioportimao">
-        <title lang="pt">NOTICIAS</title>
-    </programme>
-    <programme start="20261004090000 +0100" stop="20261004120600 +0100" channel="radioportimao">
-        <title lang="pt">OS REIS DO ROCK</title>
-    </programme>
-    <programme start="20261004120600 +0100" stop="20261004123000 +0100" channel="radioportimao">
-        <title lang="pt">REFLEXÕES</title>
-    </programme>
-    <programme start="20261004123000 +0100" stop="20261004124000 +0100" channel="radioportimao">
-        <title lang="pt">ALMANAQUE</title>
-    </programme>
-    <programme start="20261004124000 +0100" stop="20261004130000 +0100" channel="radioportimao">
-        <title lang="pt">AS CRÓNICAS DA ISABEL</title>
-    </programme>
-    <programme start="20261004130000 +0100" stop="20261004140000 +0100" channel="radioportimao">
-        <title lang="pt">POP NACIONAL</title>
-    </programme>
-    <programme start="20261004140000 +0100" stop="20261004150000 +0100" channel="radioportimao">
-        <title lang="pt">NOTICIAS</title>
-    </programme>
-    <programme start="20261004150000 +0100" stop="20261004161500 +0100" channel="radioportimao">
-        <title lang="pt">PURO EXTENSO</title>
-    </programme>
-    <programme start="20261004161500 +0100" stop="20261004170000 +0100" channel="radioportimao">
-        <title lang="pt">COMPACT MUSIC</title>
-    </programme>
-    <programme start="20261004170000 +0100" stop="20261004180000 +0100" channel="radioportimao">
-        <title lang="pt">HORA DO BRASIL</title>
-    </programme>
-    <programme start="20261004180000 +0100" stop="20261004190000 +0100" channel="radioportimao">
-        <title lang="pt">PISTA DE DANÇA KIZOMBA</title>
-    </programme>
-    <programme start="20261004190000 +0100" stop="20261005190000 +0100" channel="radioportimao">
-        <title lang="pt">NOTICIAS</title>
-    </programme>
-    <programme start="20261004190000 +0100" stop="20261005000000 +0100" channel="radioportimao">
-        <title lang="pt">ANOS 80/90</title>
-    </programme>
     <programme start="20261005000000 +0100" stop="20261005050000 +0100" channel="radioportimao">
         <title lang="pt">PLAYLIST OLP POP</title>
     </programme>
@@ -601,5 +553,53 @@
     </programme>
     <programme start="20261010210000 +0100" stop="20261011000000 +0100" channel="radioportimao">
         <title lang="pt">CONVERSAS À MESA (PENÚLTIMOS</title>
+    </programme>
+    <programme start="20261011000000 +0100" stop="20261011010000 +0100" channel="radioportimao">
+        <title lang="pt">DJ ULISSE DAPA</title>
+    </programme>
+    <programme start="20261011010000 +0100" stop="20261011070000 +0100" channel="radioportimao">
+        <title lang="pt">MÚSICA NO CORAÇÃO</title>
+    </programme>
+    <programme start="20261011070000 +0100" stop="20261011080000 +0100" channel="radioportimao">
+        <title lang="pt">DELAY</title>
+    </programme>
+    <programme start="20261011080000 +0100" stop="20261011090000 +0100" channel="radioportimao">
+        <title lang="pt">NOTICIAS</title>
+    </programme>
+    <programme start="20261011090000 +0100" stop="20261011120600 +0100" channel="radioportimao">
+        <title lang="pt">OS REIS DO ROCK</title>
+    </programme>
+    <programme start="20261011120600 +0100" stop="20261011123000 +0100" channel="radioportimao">
+        <title lang="pt">REFLEXÕES</title>
+    </programme>
+    <programme start="20261011123000 +0100" stop="20261011124000 +0100" channel="radioportimao">
+        <title lang="pt">ALMANAQUE</title>
+    </programme>
+    <programme start="20261011124000 +0100" stop="20261011130000 +0100" channel="radioportimao">
+        <title lang="pt">AS CRÓNICAS DA ISABEL</title>
+    </programme>
+    <programme start="20261011130000 +0100" stop="20261011140000 +0100" channel="radioportimao">
+        <title lang="pt">POP NACIONAL</title>
+    </programme>
+    <programme start="20261011140000 +0100" stop="20261011150000 +0100" channel="radioportimao">
+        <title lang="pt">NOTICIAS</title>
+    </programme>
+    <programme start="20261011150000 +0100" stop="20261011161500 +0100" channel="radioportimao">
+        <title lang="pt">PURO EXTENSO</title>
+    </programme>
+    <programme start="20261011161500 +0100" stop="20261011170000 +0100" channel="radioportimao">
+        <title lang="pt">COMPACT MUSIC</title>
+    </programme>
+    <programme start="20261011170000 +0100" stop="20261011180000 +0100" channel="radioportimao">
+        <title lang="pt">HORA DO BRASIL</title>
+    </programme>
+    <programme start="20261011180000 +0100" stop="20261011190000 +0100" channel="radioportimao">
+        <title lang="pt">PISTA DE DANÇA KIZOMBA</title>
+    </programme>
+    <programme start="20261011190000 +0100" stop="20261012190000 +0100" channel="radioportimao">
+        <title lang="pt">NOTICIAS</title>
+    </programme>
+    <programme start="20261011190000 +0100" stop="20261012000000 +0100" channel="radioportimao">
+        <title lang="pt">ANOS 80/90</title>
     </programme>
 </tv>
