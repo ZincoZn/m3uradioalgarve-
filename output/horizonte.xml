@@ -5,39 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiohorizonte.png"/>
     </channel>
 
-    <programme start="20261024000000 +0100" stop="20261024010000 +0100" channel="radiohorizonte">
-        <title lang="pt">Infinity Radio Show (REP)</title>
-    </programme>
-    <programme start="20261024010000 +0100" stop="20261024020000 +0100" channel="radiohorizonte">
-        <title lang="pt">Sexysoundsystem</title>
-    </programme>
-    <programme start="20261024020000 +0100" stop="20261024040000 +0100" channel="radiohorizonte">
-        <title lang="pt">Clubbing (REP)</title>
-    </programme>
-    <programme start="20261024040000 +0100" stop="20261024050000 +0100" channel="radiohorizonte">
-        <title lang="pt">We Love House Music (REP)</title>
-    </programme>
-    <programme start="20261024050000 +0100" stop="20261024070000 +0100" channel="radiohorizonte">
-        <title lang="pt">100% Nacional</title>
-    </programme>
-    <programme start="20261024070000 +0100" stop="20261024100000 +0100" channel="radiohorizonte">
-        <title lang="pt">A Linha do Horizonte</title>
-    </programme>
-    <programme start="20261024100000 +0100" stop="20261024200000 +0100" channel="radiohorizonte">
-        <title lang="pt">Horizonte Non Stop</title>
-    </programme>
-    <programme start="20261024200000 +0100" stop="20261024210000 +0100" channel="radiohorizonte">
-        <title lang="pt">Deep & Soul</title>
-    </programme>
-    <programme start="20261024210000 +0100" stop="20261024220000 +0100" channel="radiohorizonte">
-        <title lang="pt">DJ Sérgio T Radio Show</title>
-    </programme>
-    <programme start="20261024220000 +0100" stop="20261024230000 +0100" channel="radiohorizonte">
-        <title lang="pt">Urbana Radio Show</title>
-    </programme>
-    <programme start="20261024230000 +0100" stop="20261025000000 +0100" channel="radiohorizonte">
-        <title lang="pt">Projeto Global</title>
-    </programme>
     <programme start="20261025000000 +0100" stop="20261025010000 +0100" channel="radiohorizonte">
         <title lang="pt">Dance Connections</title>
     </programme>
@@ -235,5 +202,38 @@
     </programme>
     <programme start="20261030230000 +0000" stop="20261031000000 +0000" channel="radiohorizonte">
         <title lang="pt">In Stereo</title>
+    </programme>
+    <programme start="20261031000000 +0000" stop="20261031010000 +0000" channel="radiohorizonte">
+        <title lang="pt">Infinity Radio Show (REP)</title>
+    </programme>
+    <programme start="20261031010000 +0000" stop="20261031020000 +0000" channel="radiohorizonte">
+        <title lang="pt">Sexysoundsystem</title>
+    </programme>
+    <programme start="20261031020000 +0000" stop="20261031040000 +0000" channel="radiohorizonte">
+        <title lang="pt">Clubbing (REP)</title>
+    </programme>
+    <programme start="20261031040000 +0000" stop="20261031050000 +0000" channel="radiohorizonte">
+        <title lang="pt">We Love House Music (REP)</title>
+    </programme>
+    <programme start="20261031050000 +0000" stop="20261031070000 +0000" channel="radiohorizonte">
+        <title lang="pt">100% Nacional</title>
+    </programme>
+    <programme start="20261031070000 +0000" stop="20261031100000 +0000" channel="radiohorizonte">
+        <title lang="pt">A Linha do Horizonte</title>
+    </programme>
+    <programme start="20261031100000 +0000" stop="20261031200000 +0000" channel="radiohorizonte">
+        <title lang="pt">Horizonte Non Stop</title>
+    </programme>
+    <programme start="20261031200000 +0000" stop="20261031210000 +0000" channel="radiohorizonte">
+        <title lang="pt">Deep & Soul</title>
+    </programme>
+    <programme start="20261031210000 +0000" stop="20261031220000 +0000" channel="radiohorizonte">
+        <title lang="pt">DJ Sérgio T Radio Show</title>
+    </programme>
+    <programme start="20261031220000 +0000" stop="20261031230000 +0000" channel="radiohorizonte">
+        <title lang="pt">Urbana Radio Show</title>
+    </programme>
+    <programme start="20261031230000 +0000" stop="20261101000000 +0000" channel="radiohorizonte">
+        <title lang="pt">Projeto Global</title>
     </programme>
 </tv>

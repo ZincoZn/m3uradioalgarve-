@@ -5,12 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/kissfm.algarve.png"/>
     </channel>
 
-    <programme start="20261024000000 +0100" stop="20261024080000 +0100" channel="kissfm.algarve">
-        <title lang="pt">KISS Night Music</title>
-    </programme>
-    <programme start="20261024080000 +0100" stop="20261025000000 +0100" channel="kissfm.algarve">
-        <title lang="pt">Solid Gold Sunday / Weekend Shows</title>
-    </programme>
     <programme start="20261025000000 +0100" stop="20261025080000 +0000" channel="kissfm.algarve">
         <title lang="pt">KISS Night Music</title>
     </programme>
@@ -91,5 +85,11 @@
     </programme>
     <programme start="20261030200000 +0000" stop="20261031000000 +0000" channel="kissfm.algarve">
         <title lang="pt">KISS Evening & Dance Show</title>
+    </programme>
+    <programme start="20261031000000 +0000" stop="20261031080000 +0000" channel="kissfm.algarve">
+        <title lang="pt">KISS Night Music</title>
+    </programme>
+    <programme start="20261031080000 +0000" stop="20261101000000 +0000" channel="kissfm.algarve">
+        <title lang="pt">Solid Gold Sunday / Weekend Shows</title>
     </programme>
 </tv>
