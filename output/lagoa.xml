@@ -5,18 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiolagoa.png"/>
     </channel>
 
-    <programme start="20261113000000 +0000" stop="20261113070000 +0000" channel="radiolagoa">
-        <title lang="pt">Madrugada</title>
-    </programme>
-    <programme start="20261113070000 +0000" stop="20261113130000 +0000" channel="radiolagoa">
-        <title lang="pt">Manhãs da Lagoa</title>
-    </programme>
-    <programme start="20261113130000 +0000" stop="20261113200000 +0000" channel="radiolagoa">
-        <title lang="pt">Tardes da Lagoa</title>
-    </programme>
-    <programme start="20261113200000 +0000" stop="20261114000000 +0000" channel="radiolagoa">
-        <title lang="pt">Noite</title>
-    </programme>
     <programme start="20261114000000 +0000" stop="20261114070000 +0000" channel="radiolagoa">
         <title lang="pt">Madrugada</title>
     </programme>
@@ -87,6 +75,18 @@
         <title lang="pt">Tardes da Lagoa</title>
     </programme>
     <programme start="20261119200000 +0000" stop="20261120000000 +0000" channel="radiolagoa">
+        <title lang="pt">Noite</title>
+    </programme>
+    <programme start="20261120000000 +0000" stop="20261120070000 +0000" channel="radiolagoa">
+        <title lang="pt">Madrugada</title>
+    </programme>
+    <programme start="20261120070000 +0000" stop="20261120130000 +0000" channel="radiolagoa">
+        <title lang="pt">Manhãs da Lagoa</title>
+    </programme>
+    <programme start="20261120130000 +0000" stop="20261120200000 +0000" channel="radiolagoa">
+        <title lang="pt">Tardes da Lagoa</title>
+    </programme>
+    <programme start="20261120200000 +0000" stop="20261121000000 +0000" channel="radiolagoa">
         <title lang="pt">Noite</title>
     </programme>
 </tv>
