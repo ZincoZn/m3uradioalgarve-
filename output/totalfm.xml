@@ -5,18 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiototalfm.png"/>
     </channel>
 
-    <programme start="20261118000000 +0000" stop="20261118070000 +0000" channel="radiototalfm">
-        <title lang="pt">Madrugada Total</title>
-    </programme>
-    <programme start="20261118070000 +0000" stop="20261118130000 +0000" channel="radiototalfm">
-        <title lang="pt">Manhãs Total FM</title>
-    </programme>
-    <programme start="20261118130000 +0000" stop="20261118200000 +0000" channel="radiototalfm">
-        <title lang="pt">Tardes Total FM</title>
-    </programme>
-    <programme start="20261118200000 +0000" stop="20261118235900 +0000" channel="radiototalfm">
-        <title lang="pt">Noite Total</title>
-    </programme>
     <programme start="20261119000000 +0000" stop="20261119070000 +0000" channel="radiototalfm">
         <title lang="pt">Madrugada Total</title>
     </programme>
@@ -87,6 +75,18 @@
         <title lang="pt">Tardes Total FM</title>
     </programme>
     <programme start="20261124200000 +0000" stop="20261124235900 +0000" channel="radiototalfm">
+        <title lang="pt">Noite Total</title>
+    </programme>
+    <programme start="20261125000000 +0000" stop="20261125070000 +0000" channel="radiototalfm">
+        <title lang="pt">Madrugada Total</title>
+    </programme>
+    <programme start="20261125070000 +0000" stop="20261125130000 +0000" channel="radiototalfm">
+        <title lang="pt">Manhãs Total FM</title>
+    </programme>
+    <programme start="20261125130000 +0000" stop="20261125200000 +0000" channel="radiototalfm">
+        <title lang="pt">Tardes Total FM</title>
+    </programme>
+    <programme start="20261125200000 +0000" stop="20261125235900 +0000" channel="radiototalfm">
         <title lang="pt">Noite Total</title>
     </programme>
 </tv>
