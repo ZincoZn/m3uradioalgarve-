@@ -5,18 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radioalvor.png"/>
     </channel>
 
-    <programme start="20261121000000 +0000" stop="20261121070000 +0000" channel="radioalvor">
-        <title lang="pt">Madrugada Alvor</title>
-    </programme>
-    <programme start="20261121070000 +0000" stop="20261121130000 +0000" channel="radioalvor">
-        <title lang="pt">Manhãs da Alvor</title>
-    </programme>
-    <programme start="20261121130000 +0000" stop="20261121200000 +0000" channel="radioalvor">
-        <title lang="pt">Tardes da Alvor</title>
-    </programme>
-    <programme start="20261121200000 +0000" stop="20261121235900 +0000" channel="radioalvor">
-        <title lang="pt">Noites da Alvor</title>
-    </programme>
     <programme start="20261122000000 +0000" stop="20261122070000 +0000" channel="radioalvor">
         <title lang="pt">Madrugada Alvor</title>
     </programme>
@@ -87,6 +75,18 @@
         <title lang="pt">Tardes da Alvor</title>
     </programme>
     <programme start="20261127200000 +0000" stop="20261127235900 +0000" channel="radioalvor">
+        <title lang="pt">Noites da Alvor</title>
+    </programme>
+    <programme start="20261128000000 +0000" stop="20261128070000 +0000" channel="radioalvor">
+        <title lang="pt">Madrugada Alvor</title>
+    </programme>
+    <programme start="20261128070000 +0000" stop="20261128130000 +0000" channel="radioalvor">
+        <title lang="pt">Manhãs da Alvor</title>
+    </programme>
+    <programme start="20261128130000 +0000" stop="20261128200000 +0000" channel="radioalvor">
+        <title lang="pt">Tardes da Alvor</title>
+    </programme>
+    <programme start="20261128200000 +0000" stop="20261128235900 +0000" channel="radioalvor">
         <title lang="pt">Noites da Alvor</title>
     </programme>
 </tv>
