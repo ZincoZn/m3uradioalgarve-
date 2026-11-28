@@ -5,42 +5,6 @@
         <icon src="https://raw.githubusercontent.com/ZincoZn/m3uradioalgarve-/main/logos/radiohorizonte.png"/>
     </channel>
 
-    <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="radiohorizonte">
-        <title lang="pt">Fresh Beats (REP)</title>
-    </programme>
-    <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="radiohorizonte">
-        <title lang="pt">X Radio Show Mayze x Faria</title>
-    </programme>
-    <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="radiohorizonte">
-        <title lang="pt">Cadência Eletrónica</title>
-    </programme>
-    <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="radiohorizonte">
-        <title lang="pt">Soulganster Records</title>
-    </programme>
-    <programme start="20261127040000 +0000" stop="20261127050000 +0000" channel="radiohorizonte">
-        <title lang="pt">Cadência Eletrónica (REP)</title>
-    </programme>
-    <programme start="20261127050000 +0000" stop="20261127070000 +0000" channel="radiohorizonte">
-        <title lang="pt">100% Nacional</title>
-    </programme>
-    <programme start="20261127070000 +0000" stop="20261127100000 +0000" channel="radiohorizonte">
-        <title lang="pt">A Linha do Horizonte</title>
-    </programme>
-    <programme start="20261127100000 +0000" stop="20261127130000 +0000" channel="radiohorizonte">
-        <title lang="pt">As Manhãs da Horizonte</title>
-    </programme>
-    <programme start="20261127130000 +0000" stop="20261127200000 +0000" channel="radiohorizonte">
-        <title lang="pt">Horizonte Non Stop</title>
-    </programme>
-    <programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="radiohorizonte">
-        <title lang="pt">Soundtrip</title>
-    </programme>
-    <programme start="20261127210000 +0000" stop="20261127230000 +0000" channel="radiohorizonte">
-        <title lang="pt">Clubbing</title>
-    </programme>
-    <programme start="20261127230000 +0000" stop="20261128000000 +0000" channel="radiohorizonte">
-        <title lang="pt">In Stereo</title>
-    </programme>
     <programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="radiohorizonte">
         <title lang="pt">Infinity Radio Show (REP)</title>
     </programme>
@@ -235,5 +199,41 @@
     </programme>
     <programme start="20261203220000 +0000" stop="20261204000000 +0000" channel="radiohorizonte">
         <title lang="pt">Horizonte Dance Factory</title>
+    </programme>
+    <programme start="20261204000000 +0000" stop="20261204010000 +0000" channel="radiohorizonte">
+        <title lang="pt">Fresh Beats (REP)</title>
+    </programme>
+    <programme start="20261204010000 +0000" stop="20261204020000 +0000" channel="radiohorizonte">
+        <title lang="pt">X Radio Show Mayze x Faria</title>
+    </programme>
+    <programme start="20261204020000 +0000" stop="20261204030000 +0000" channel="radiohorizonte">
+        <title lang="pt">Cadência Eletrónica</title>
+    </programme>
+    <programme start="20261204030000 +0000" stop="20261204040000 +0000" channel="radiohorizonte">
+        <title lang="pt">Soulganster Records</title>
+    </programme>
+    <programme start="20261204040000 +0000" stop="20261204050000 +0000" channel="radiohorizonte">
+        <title lang="pt">Cadência Eletrónica (REP)</title>
+    </programme>
+    <programme start="20261204050000 +0000" stop="20261204070000 +0000" channel="radiohorizonte">
+        <title lang="pt">100% Nacional</title>
+    </programme>
+    <programme start="20261204070000 +0000" stop="20261204100000 +0000" channel="radiohorizonte">
+        <title lang="pt">A Linha do Horizonte</title>
+    </programme>
+    <programme start="20261204100000 +0000" stop="20261204130000 +0000" channel="radiohorizonte">
+        <title lang="pt">As Manhãs da Horizonte</title>
+    </programme>
+    <programme start="20261204130000 +0000" stop="20261204200000 +0000" channel="radiohorizonte">
+        <title lang="pt">Horizonte Non Stop</title>
+    </programme>
+    <programme start="20261204200000 +0000" stop="20261204210000 +0000" channel="radiohorizonte">
+        <title lang="pt">Soundtrip</title>
+    </programme>
+    <programme start="20261204210000 +0000" stop="20261204230000 +0000" channel="radiohorizonte">
+        <title lang="pt">Clubbing</title>
+    </programme>
+    <programme start="20261204230000 +0000" stop="20261205000000 +0000" channel="radiohorizonte">
+        <title lang="pt">In Stereo</title>
     </programme>
 </tv>
